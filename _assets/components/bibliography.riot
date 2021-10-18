@@ -1,0 +1,54 @@
+<bibliography class="d-block">
+  <ul if={state.register} class="list-unstyled d-flex flex-wrap justify-content-start mb-5">
+    <li each={(letter, i) in alphabet} key={letter} class="w-10">
+      <a
+        if={state.register.includes(letter)}
+        href="#register-{letter}"
+        class="text-decoration-none"
+      >{letter}</a>
+      <span
+        if={!state.register.includes(letter)}
+      >{letter}</span>
+    </li>
+  </ul>
+
+  <ul if={state.data} class="list-unstyled">
+    <li each={item in state.data} class="mb-5" id={item.elementId}>
+      <div class="fw-bold">{item.id}</div>
+      <div class="overflow-hidden">{item.name}</div>
+    </li>
+  </ul>
+
+  <script>
+    export default class {
+      onBeforeMount() {
+        this.alphabet = [
+          'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L',
+          'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X',
+          'Y', 'Z'
+        ]
+
+        fetch('/data/bibliography.json').
+          then(response => response.json()).
+          then(data => this.index(data))
+      }
+
+      index(data) {
+        const register = []
+
+        for (const item of data) {
+          const letter = item.id[0]
+          if (letter != register[register.length - 1]) {
+            item.elementId = `register-${letter}`
+            register.push(letter)
+          }
+        }
+
+        this.update({
+          data: data,
+          register: register
+        })
+      }
+    }
+  </script>
+</bibliography>

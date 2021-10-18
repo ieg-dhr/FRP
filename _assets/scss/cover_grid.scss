@@ -1,0 +1,33 @@
+.cover-grid {
+  .col:first-child {
+    max-width: 98%;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 10.5px;
+  }
+}
+
+@include media-breakpoint-up('sm') {
+  .cover-grid {
+    .col:first-child {
+      max-width: 400px;
+    }
+  }
+}
+
+@include media-breakpoint-up('lg') {
+  .cover-grid {
+    .col:first-child {
+      max-width: 45%;
+    }
+  }
+}
+
+@include media-breakpoint-up('xl') {
+  .cover-grid {
+    .col:first-child {
+      max-width: 40%;
+      // padding: 0 10.5px;
+    }
+  }
+}

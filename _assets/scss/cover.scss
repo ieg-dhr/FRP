@@ -1,0 +1,38 @@
+.cover {
+  .carousel {
+    .carousel-indicators [data-bs-target] {
+      border: 1px solid white;
+      border-radius: 10px;
+    }
+  }
+}
+
+.cover {
+  .headline {
+    z-index: 100;
+  }
+}
+
+@include media-breakpoint-up('md') {
+  .cover {
+    .headline {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translateX(-50%) translateY(-50%);
+      text-shadow: black 0 0 3px;
+    }
+  }
+}
+
+@include media-breakpoint-up('xl') {
+  .cover {
+    .headline {
+      position: absolute;
+      top: auto;
+      left: 100px;
+      bottom: 100px;
+      transform: none;
+    }
+  }
+}

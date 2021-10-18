@@ -1,0 +1,30 @@
+@import './scss/fonts';
+
+@import './scss/variables';
+@import '../node_modules/bootstrap/scss/bootstrap';
+@import '../node_modules/line-awesome/dist/line-awesome/scss/line-awesome';
+
+@import './scss/helpers';
+@import './scss/breakout';
+@import './scss/to_top';
+@import './scss/cover';
+@import './scss/blue_bar';
+@import './scss/cover_grid';
+@import './scss/header';
+
+footer {
+  a {
+    color: white;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: $orange;
+  }
+}
+
+ol {
+  li::marker {
+    text-align: left;
+  }
+}

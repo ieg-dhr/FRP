@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr" class="overflow-x-hiddens">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="description" content="{{site.description}}" />
+
+    <link
+      rel="shortcut icon"
+      href="/assets/images/logos/themenportal.png"
+      type="image/png"
+    />
+
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/assets/app.css{% cache_buster %}"
+      crossorigin="use-credentials"
+    />
+
+    <title>{{site.title}}</title>
+  </head>
+  <body class="position-relative">
+    {% include header.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+    <script
+      type="module"
+      src="/assets/app.js{% cache_buster %}"
+      crossorigin="use-credentials"
+    ></script>
+  </body>
+</html>

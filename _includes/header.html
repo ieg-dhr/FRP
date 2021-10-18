@@ -1,0 +1,46 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-blue text-uppercase fw-bold p-3">
+  <div class="container-fluid">
+    <a class="navbar-brand w-50 w-sm-100" href="#">
+      <img class="img-fluid" src="/assets/images/logos/themenportal.png">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse w-100 justify-content-end py-3" id="navbarSupportedContent">
+      <ul class="navbar-nav mb-2 mb-lg-0 align-items-lg-center">
+        <li class="nav-item ms-lg-4 {% if page.page_id == "start" %}active{% endif %}">
+          <a class="nav-link" aria-current="page" href="/">Start</a>
+          <div class="active-block"></div>
+        </li>
+        <li class="nav-item ms-lg-4 {% if page.page_id == "exhibition" %}active{% endif %}">
+          <a class="nav-link" aria-current="page" href="/exhibition">Ausstellung</a>
+          <div class="active-block"></div>
+        </li>
+        <li class="nav-item ms-lg-4 {% if page.page_id == "database" %}active{% endif %}">
+          <a class="nav-link" aria-current="page" href="/database">Datenbank</a>
+          <div class="active-block"></div>
+        </li>
+        <li class="nav-item ms-lg-4 {% if page.page_id == "timeline" %}active{% endif %}">
+          <a class="nav-link" aria-current="page" href="/timeline">Zeitstrahl</a>
+          <div class="active-block"></div>
+        </li>
+        <li class="nav-item dropdown ms-lg-4">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Publikationen
+          </a>
+          <ul class="dropdown-menu dropdown-menu-dark bg-blue" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item py-3 fw-bold" href="/publications">Publikationen</a></li>
+            <li><a class="dropdown-item py-3 fw-bold" href="/conference">Beiträge der <br />Abschlusstagung</a></li>
+            <li><a class="dropdown-item py-3 fw-bold" href="/bibliography">Literaturverzeichnis</a></li>
+          </ul>
+        </li>
+        <li class="nav-item ms-lg-4">
+          <a href="#search" class="nav-link">
+            <span class="d-lg-none">Suche</span>
+            <i class="d-none d-lg-inline las la-search fs-3"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

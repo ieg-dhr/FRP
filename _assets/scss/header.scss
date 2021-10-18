@@ -1,0 +1,28 @@
+nav {
+  .active {
+    text-decoration: underline;
+    text-underline-offset: 5px;
+  }
+
+  .active-block {
+    display: none;
+    margin: 0 0.5rem;
+  }
+}
+
+@include media-breakpoint-up('lg') {
+  nav {
+    .active {
+      text-decoration: none;
+
+      .active-block {
+        display: block;
+        position: relative;
+        background-color: white;
+        height: 10px;
+        margin-bottom: -10px;
+        top: 30px;
+      }
+    }
+  }
+}

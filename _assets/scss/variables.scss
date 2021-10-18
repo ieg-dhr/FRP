@@ -1,0 +1,69 @@
+// custom
+
+$blue: #21283d;
+$yellow: #e2a500;
+$orange: #ea7210;
+$gray: #d4d6de;
+$gray-purple: #646679;
+
+
+// bootstrap
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 1024px,
+  xl: 1368px,
+  xxl: 1920px
+) !default;
+
+$container-max-widths: (
+  xs: 98%,
+  sm: 400px,
+  md: 500px,
+  lg: 614px
+) !default;
+
+// $container-padding-x: 0px;
+
+$font-family-sans-serif: open-sans;
+$headings-font-family: 'corporates';
+$font-size-base: 1.2rem;
+$link-color: $orange;
+$link-hover-color: $orange;
+$navbar-dark-color: white;
+$navbar-dark-hover-color: $orange;
+$dropdown-dark-link-hover-color: $orange;
+$dropdown-dark-link-hover-bg: $blue;
+
+$spacer: 1rem !default;
+$spacers: (
+  0: 0,
+  1: $spacer * .25,
+  2: $spacer * .5,
+  3: $spacer,
+  4: $spacer * 1.5,
+  5: $spacer * 3,
+  6: $spacer * 5,
+  7: $spacer * 7
+) !default;
+
+$aspect-ratios: (
+  "1x1": 100%,
+  "4x3": calc(3 / 4 * 100%),
+  "16x9": calc(9 / 16 * 100%),
+  "21x9": calc(9 / 21 * 100%),
+  "1907x1016": calc(1016 / 1907 * 100%)
+) !default;
+
+$carousel-indicator-width: 20px;
+$carousel-indicator-height: 20px;
+$carousel-control-icon-width: 5rem;
+
+$btn-border-radius: 0;
+
+// line-awesome
+
+$la-font-path: '/assets/fonts';
+$la-font-size-base: 1.2rem;

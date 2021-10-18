@@ -1,0 +1,29 @@
+.blue-bar {
+  h2 {
+    font-size: 1.2rem;
+  }
+}
+
+@include media-breakpoint-up('sm') {
+  .blue-bar {
+    h2 {
+      font-size: calc(1.275rem + 0.3vw);
+    }
+  }
+}
+
+@include media-breakpoint-up('sm') {
+  .blue-bar {
+    h2 {
+      font-size: calc(1.305rem + 0.66vw);
+    }
+  }
+}
+
+@include media-breakpoint-up('lg') {
+  .blue-bar {
+    h2 {
+      font-size: 2.1rem;
+    }
+  }
+}

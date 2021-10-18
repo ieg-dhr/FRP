@@ -1,0 +1,53 @@
+@use "sass:color";
+
+// backgrounds
+
+.bg-blue {
+  background-color: $blue;
+}
+
+.bg-orange {
+  background-color: $orange;
+}
+
+.bg-yellow {
+  background-color: $yellow;
+}
+
+.bg-yellow-overlay {
+  background-color: color.change($yellow, $alpha: 0.6);
+}
+
+.bg-gray {
+  background-color: $gray;
+}
+
+.bg-gray-purple {
+  background-color: $gray-purple;
+}
+
+
+// text
+
+
+
+// widths
+
+.w-10 {
+  width: 10%;
+}
+
+.overflow-x-hidden {
+  overflow-x: hidden;
+}
+
+
+// position
+
+.start-10 {
+  left: 10%;
+}
+
+.bottom-10 {
+  bottom: 10%;
+}

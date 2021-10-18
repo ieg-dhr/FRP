@@ -1,0 +1,21 @@
+<to-top>
+  <a
+    href="#"
+    onclick={onClick}
+    class="bg-yellow p-2 rounded text-decoration-none"
+  ><i class="las la-angle-up text-white"></i></a>
+
+  <script>
+    export default class {
+      onClick(event) {
+        event.preventDefault()
+
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        })
+        document.activeElement.blur()
+      }
+    }
+  </script>
+</to-top>
