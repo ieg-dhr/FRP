@@ -1,5 +1,6 @@
 import './app.scss'
 
+// import feather from 'feather-icons'
 import * as riot from 'riot'
 import * as bootstrap from 'bootstrap'
 
@@ -18,3 +19,5 @@ riot.register('bibliography', Bibliography)
 riot.register('to-top', ToTop)
 
 riot.mount('app, bibliography, to-top')
+
+// feather.replace()

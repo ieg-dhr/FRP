@@ -20,6 +20,14 @@ to-top {
 html[data-scroll-range='some'] {
   to-top {
     display: block;
+
+    a {
+      border-radius: 17px;
+    }
+
+    a:hover {
+      color: white;
+    }
   }
 }
 
@@ -27,7 +35,7 @@ html[data-scroll-range='some'] {
   to-top {
     position: fixed;
     right: 30px;
-    bottom: 26px;
+    bottom: 35px;
   }
 
   html[data-scroll-range='over'] {
@@ -36,6 +44,14 @@ html[data-scroll-range='some'] {
       position: absolute;
       top: -60px;
       bottom: auto;
+
+      a {
+        border-radius: 17px;
+      }
+
+      a:hover {
+        color: white;
+      }
     }
   }
 }

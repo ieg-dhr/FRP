@@ -2,7 +2,6 @@
 
 @import './scss/variables';
 @import '../node_modules/bootstrap/scss/bootstrap';
-@import '../node_modules/line-awesome/dist/line-awesome/scss/line-awesome';
 
 @import './scss/helpers';
 @import './scss/breakout';
@@ -11,20 +10,19 @@
 @import './scss/blue_bar';
 @import './scss/cover_grid';
 @import './scss/header';
+@import './scss/footer';
 
-footer {
-  a {
-    color: white;
-    text-decoration: none;
-  }
-
-  a:hover {
-    color: $orange;
-  }
+.feather {
+  width: 24px;
+  height: 24px;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
 }
 
-ol {
-  li::marker {
-    text-align: left;
-  }
+.feather-lg {
+  width: 40px;
+  height: 40px;
 }
