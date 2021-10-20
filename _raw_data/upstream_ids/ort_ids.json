@@ -1,0 +1,3637 @@
+[
+  {
+    "name": "Nürnberg",
+    "id": "1143",
+    "page": 1
+  },
+  {
+    "name": "Paris",
+    "id": "1144",
+    "page": 1
+  },
+  {
+    "name": "Deutschland",
+    "id": "1145",
+    "page": 1
+  },
+  {
+    "name": "Nördliche Niederlande",
+    "id": "1146",
+    "page": 1
+  },
+  {
+    "name": "Amsterdam",
+    "id": "1147",
+    "page": 1
+  },
+  {
+    "name": "Schwerin",
+    "id": "1148",
+    "page": 1
+  },
+  {
+    "name": "Hannover",
+    "id": "1149",
+    "page": 1
+  },
+  {
+    "name": "Coburg",
+    "id": "1150",
+    "page": 1
+  },
+  {
+    "name": "Berlin",
+    "id": "1151",
+    "page": 1
+  },
+  {
+    "name": "Augsburg",
+    "id": "1152",
+    "page": 1
+  },
+  {
+    "name": "Darmstadt",
+    "id": "1153",
+    "page": 1
+  },
+  {
+    "name": "Gotha",
+    "id": "1154",
+    "page": 1
+  },
+  {
+    "name": "Wolfenbüttel",
+    "id": "1155",
+    "page": 1
+  },
+  {
+    "name": "Prag",
+    "id": "1157",
+    "page": 1
+  },
+  {
+    "name": "Bamberg",
+    "id": "1158",
+    "page": 1
+  },
+  {
+    "name": "Ulm",
+    "id": "1161",
+    "page": 1
+  },
+  {
+    "name": "Niederlande",
+    "id": "1162",
+    "page": 1
+  },
+  {
+    "name": "Dresden",
+    "id": "1163",
+    "page": 1
+  },
+  {
+    "name": "Den Haag",
+    "id": "1164",
+    "page": 1
+  },
+  {
+    "name": "Stuttgart",
+    "id": "1165",
+    "page": 1
+  },
+  {
+    "name": "Rom",
+    "id": "1166",
+    "page": 1
+  },
+  {
+    "name": "London",
+    "id": "10385",
+    "page": 1
+  },
+  {
+    "name": "Lübeck",
+    "id": "17378",
+    "page": 1
+  },
+  {
+    "name": "Danzig",
+    "id": "17379",
+    "page": 1
+  },
+  {
+    "name": "Harderwijk",
+    "id": "17380",
+    "page": 2
+  },
+  {
+    "name": "Antwerpen",
+    "id": "17381",
+    "page": 2
+  },
+  {
+    "name": "Breda",
+    "id": "17382",
+    "page": 2
+  },
+  {
+    "name": "Ort 11099",
+    "id": "11099",
+    "page": 2
+  },
+  {
+    "name": "Keulen",
+    "id": "17389",
+    "page": 2
+  },
+  {
+    "name": "Utrecht",
+    "id": "17390",
+    "page": 2
+  },
+  {
+    "name": "Südliche Niederlande",
+    "id": "17391",
+    "page": 2
+  },
+  {
+    "name": "Mainz",
+    "id": "17392",
+    "page": 2
+  },
+  {
+    "name": "Haarlem",
+    "id": "17393",
+    "page": 2
+  },
+  {
+    "name": "Memmingen",
+    "id": "12501",
+    "page": 2
+  },
+  {
+    "name": "Aachen",
+    "id": "17394",
+    "page": 2
+  },
+  {
+    "name": "Kopenhagen",
+    "id": "17395",
+    "page": 2
+  },
+  {
+    "name": "Madrid",
+    "id": "15983",
+    "page": 2
+  },
+  {
+    "name": "Herzogenbusch",
+    "id": "17396",
+    "page": 2
+  },
+  {
+    "name": "Neapel",
+    "id": "10739",
+    "page": 2
+  },
+  {
+    "name": "Straßburg",
+    "id": "15978",
+    "page": 2
+  },
+  {
+    "name": "Rijswijk",
+    "id": "3094",
+    "page": 2
+  },
+  {
+    "name": "Zaandem",
+    "id": "17397",
+    "page": 2
+  },
+  {
+    "name": "Münster",
+    "id": "7465",
+    "page": 2
+  },
+  {
+    "name": "Brügge",
+    "id": "17398",
+    "page": 2
+  },
+  {
+    "name": "Glogau",
+    "id": "14599",
+    "page": 2
+  },
+  {
+    "name": "Groningen",
+    "id": "17399",
+    "page": 2
+  },
+  {
+    "name": "Göttingen",
+    "id": "8299",
+    "page": 2
+  },
+  {
+    "name": "Breslau",
+    "id": "1804",
+    "page": 2
+  },
+  {
+    "name": "Leipzig",
+    "id": "9436",
+    "page": 3
+  },
+  {
+    "name": "München",
+    "id": "1779",
+    "page": 3
+  },
+  {
+    "name": "Kiel",
+    "id": "17400",
+    "page": 3
+  },
+  {
+    "name": "Magdeburg",
+    "id": "11488",
+    "page": 3
+  },
+  {
+    "name": "Hamburg",
+    "id": "1591",
+    "page": 3
+  },
+  {
+    "name": "Braunschweig",
+    "id": "1845",
+    "page": 3
+  },
+  {
+    "name": "Köln",
+    "id": "9857",
+    "page": 3
+  },
+  {
+    "name": "Leiden",
+    "id": "17404",
+    "page": 3
+  },
+  {
+    "name": "Frankfurt am Main",
+    "id": "3476",
+    "page": 3
+  },
+  {
+    "name": "Wittenberg",
+    "id": "15093",
+    "page": 3
+  },
+  {
+    "name": "Gera",
+    "id": "17405",
+    "page": 3
+  },
+  {
+    "name": "Erfurt",
+    "id": "11249",
+    "page": 3
+  },
+  {
+    "name": "Regensburg",
+    "id": "10449",
+    "page": 3
+  },
+  {
+    "name": "Wien",
+    "id": "3453",
+    "page": 3
+  },
+  {
+    "name": "Stendal",
+    "id": "17409",
+    "page": 3
+  },
+  {
+    "name": "Venedig",
+    "id": "2080",
+    "page": 3
+  },
+  {
+    "name": "Bologna",
+    "id": "10297",
+    "page": 3
+  },
+  {
+    "name": "Jüterbog",
+    "id": "7458",
+    "page": 3
+  },
+  {
+    "name": "Stuhmsdorf (heute Sztumska Wieś)",
+    "id": "17414",
+    "page": 3
+  },
+  {
+    "name": "Breslau (Wrocław)",
+    "id": "17415",
+    "page": 3
+  },
+  {
+    "name": "Heiliges Römisches Reich",
+    "id": "3350",
+    "page": 3
+  },
+  {
+    "name": "Stockholm",
+    "id": "3452",
+    "page": 3
+  },
+  {
+    "name": "Schloss Hubertusburg",
+    "id": "17416",
+    "page": 3
+  },
+  {
+    "name": "Lille",
+    "id": "17417",
+    "page": 3
+  },
+  {
+    "name": "Middelburg",
+    "id": "17418",
+    "page": 4
+  },
+  {
+    "name": "Goslar",
+    "id": "17419",
+    "page": 4
+  },
+  {
+    "name": "Harz",
+    "id": "17420",
+    "page": 4
+  },
+  {
+    "name": "Osnabrück",
+    "id": "7466",
+    "page": 4
+  },
+  {
+    "name": "Schloss Fontaineblau",
+    "id": "17421",
+    "page": 4
+  },
+  {
+    "name": "Fontaineblau",
+    "id": "17422",
+    "page": 4
+  },
+  {
+    "name": "Schloss Fontainebleau",
+    "id": "17423",
+    "page": 4
+  },
+  {
+    "name": "Mecklenburg",
+    "id": "17424",
+    "page": 4
+  },
+  {
+    "name": "Schlesien",
+    "id": "16018",
+    "page": 4
+  },
+  {
+    "name": "Sachsen",
+    "id": "15096",
+    "page": 4
+  },
+  {
+    "name": "Brandenburg",
+    "id": "15388",
+    "page": 4
+  },
+  {
+    "name": "Franken",
+    "id": "17425",
+    "page": 4
+  },
+  {
+    "name": "Braunschweig-Lüneburg",
+    "id": "15975",
+    "page": 4
+  },
+  {
+    "name": "Schwaben",
+    "id": "17426",
+    "page": 4
+  },
+  {
+    "name": "Heiligenkreuz im Wienerwald",
+    "id": "17427",
+    "page": 4
+  },
+  {
+    "name": "Belgrad",
+    "id": "17428",
+    "page": 4
+  },
+  {
+    "name": "Florenz",
+    "id": "10909",
+    "page": 4
+  },
+  {
+    "name": "Dompierre",
+    "id": "17429",
+    "page": 4
+  },
+  {
+    "name": "Meaux",
+    "id": "17430",
+    "page": 4
+  },
+  {
+    "name": "Vicenza",
+    "id": "17431",
+    "page": 4
+  },
+  {
+    "name": "Trevi nell'Umbria",
+    "id": "17432",
+    "page": 4
+  },
+  {
+    "name": "Perugia?",
+    "id": "17433",
+    "page": 4
+  },
+  {
+    "name": "Palermo",
+    "id": "17434",
+    "page": 4
+  },
+  {
+    "name": "S.l.",
+    "id": "17435",
+    "page": 4
+  },
+  {
+    "name": "Cambridge, MA",
+    "id": "17436",
+    "page": 5
+  },
+  {
+    "name": "Marburg",
+    "id": "10800",
+    "page": 5
+  },
+  {
+    "name": "Dortmund",
+    "id": "17440",
+    "page": 5
+  },
+  {
+    "name": "Gießen",
+    "id": "17441",
+    "page": 5
+  },
+  {
+    "name": "Giessen",
+    "id": "17442",
+    "page": 5
+  },
+  {
+    "name": "Königsberg",
+    "id": "8134",
+    "page": 5
+  },
+  {
+    "name": "Tübingen",
+    "id": "17443",
+    "page": 5
+  },
+  {
+    "name": "Stettin",
+    "id": "17444",
+    "page": 5
+  },
+  {
+    "name": "Helmstedt",
+    "id": "8149",
+    "page": 5
+  },
+  {
+    "name": "Helmstadt",
+    "id": "17445",
+    "page": 5
+  },
+  {
+    "name": "Kassel",
+    "id": "15146",
+    "page": 5
+  },
+  {
+    "name": "Amberg",
+    "id": "17446",
+    "page": 5
+  },
+  {
+    "name": "Oxford",
+    "id": "17447",
+    "page": 5
+  },
+  {
+    "name": "Jena",
+    "id": "17448",
+    "page": 5
+  },
+  {
+    "name": "Liegnitz",
+    "id": "12487",
+    "page": 5
+  },
+  {
+    "name": "Marston-Jabbet",
+    "id": "17449",
+    "page": 5
+  },
+  {
+    "name": "Cambridge",
+    "id": "17450",
+    "page": 5
+  },
+  {
+    "name": "Frankreich",
+    "id": "14575",
+    "page": 5
+  },
+  {
+    "name": "Cassel",
+    "id": "17451",
+    "page": 5
+  },
+  {
+    "name": "Dordrecht",
+    "id": "17452",
+    "page": 5
+  },
+  {
+    "name": "Wonsees",
+    "id": "17453",
+    "page": 5
+  },
+  {
+    "name": "Brieg",
+    "id": "17454",
+    "page": 5
+  },
+  {
+    "name": "Großbritannien",
+    "id": "15871",
+    "page": 5
+  },
+  {
+    "name": "Sarmatien",
+    "id": "17455",
+    "page": 5
+  },
+  {
+    "name": "Oder",
+    "id": "15932",
+    "page": 6
+  },
+  {
+    "name": "Torgau",
+    "id": "14855",
+    "page": 6
+  },
+  {
+    "name": "Bunzlau",
+    "id": "17456",
+    "page": 6
+  },
+  {
+    "name": "Seehausen",
+    "id": "17457",
+    "page": 6
+  },
+  {
+    "name": "Herzogtum Liegnitz-Brieg-Goldberg",
+    "id": "17458",
+    "page": 6
+  },
+  {
+    "name": "Ohlau",
+    "id": "17459",
+    "page": 6
+  },
+  {
+    "name": "Herzogtum Schlesien",
+    "id": "14577",
+    "page": 6
+  },
+  {
+    "name": "Krempe",
+    "id": "17460",
+    "page": 6
+  },
+  {
+    "name": "Holstein",
+    "id": "17461",
+    "page": 6
+  },
+  {
+    "name": "Eilenburg",
+    "id": "17462",
+    "page": 6
+  },
+  {
+    "name": "Gröbzig",
+    "id": "17463",
+    "page": 6
+  },
+  {
+    "name": "Görzig",
+    "id": "17464",
+    "page": 6
+  },
+  {
+    "name": "Meißen",
+    "id": "14896",
+    "page": 6
+  },
+  {
+    "name": "Kitzingen",
+    "id": "17465",
+    "page": 6
+  },
+  {
+    "name": "Głubczyce",
+    "id": "17466",
+    "page": 6
+  },
+  {
+    "name": "Wildstein bei Eger/Böhmen",
+    "id": "17467",
+    "page": 6
+  },
+  {
+    "name": "Einbeck",
+    "id": "17468",
+    "page": 6
+  },
+  {
+    "name": "Dannenberg",
+    "id": "17469",
+    "page": 6
+  },
+  {
+    "name": "Breisach",
+    "id": "15523",
+    "page": 6
+  },
+  {
+    "name": "Peru",
+    "id": "17470",
+    "page": 6
+  },
+  {
+    "name": "Hessisch-Frankenberg",
+    "id": "17471",
+    "page": 6
+  },
+  {
+    "name": "Allerwiesen",
+    "id": "17472",
+    "page": 6
+  },
+  {
+    "name": "Candia (Heute Iraklio)",
+    "id": "17473",
+    "page": 6
+  },
+  {
+    "name": "Neustadt (Oberschlesien)",
+    "id": "17474",
+    "page": 6
+  },
+  {
+    "name": "Gleina",
+    "id": "15863",
+    "page": 7
+  },
+  {
+    "name": "Amerika",
+    "id": "15385",
+    "page": 7
+  },
+  {
+    "name": "Indien",
+    "id": "15548",
+    "page": 7
+  },
+  {
+    "name": "Asien",
+    "id": "15887",
+    "page": 7
+  },
+  {
+    "name": "Westminster",
+    "id": "17475",
+    "page": 7
+  },
+  {
+    "name": "Mailand",
+    "id": "2079",
+    "page": 7
+  },
+  {
+    "name": "Brescia",
+    "id": "2081",
+    "page": 7
+  },
+  {
+    "name": "Sachsen Kurfürstentum",
+    "id": "17478",
+    "page": 7
+  },
+  {
+    "name": "Freiberg",
+    "id": "17479",
+    "page": 7
+  },
+  {
+    "name": "Castelfranco Veneto (Venedig)",
+    "id": "17480",
+    "page": 7
+  },
+  {
+    "name": "Eschwege",
+    "id": "16418",
+    "page": 7
+  },
+  {
+    "name": "Naumburg",
+    "id": "17481",
+    "page": 7
+  },
+  {
+    "name": "Manchester",
+    "id": "17482",
+    "page": 7
+  },
+  {
+    "name": "Nettuno",
+    "id": "17483",
+    "page": 7
+  },
+  {
+    "name": "San Martino Sassocorvaro, Urbino",
+    "id": "17484",
+    "page": 7
+  },
+  {
+    "name": "Braunschweig-Wolfenbüttel",
+    "id": "9860",
+    "page": 7
+  },
+  {
+    "name": "Hessen-Kassel",
+    "id": "17488",
+    "page": 7
+  },
+  {
+    "name": "Flensburg",
+    "id": "17489",
+    "page": 7
+  },
+  {
+    "name": "Westfalen",
+    "id": "17490",
+    "page": 7
+  },
+  {
+    "name": "Colmar",
+    "id": "3477",
+    "page": 7
+  },
+  {
+    "name": "Rotenburg",
+    "id": "3478",
+    "page": 7
+  },
+  {
+    "name": "Schweinfurt",
+    "id": "3479",
+    "page": 7
+  },
+  {
+    "name": "Delft",
+    "id": "17494",
+    "page": 7
+  },
+  {
+    "name": "Eichstätt",
+    "id": "17495",
+    "page": 7
+  },
+  {
+    "name": "Schweden",
+    "id": "9861",
+    "page": 8
+  },
+  {
+    "name": "Hubertusburg",
+    "id": "14847",
+    "page": 8
+  },
+  {
+    "name": "Europa",
+    "id": "3264",
+    "page": 8
+  },
+  {
+    "name": "Kurfürstentum Sachsen",
+    "id": "9858",
+    "page": 8
+  },
+  {
+    "name": "Wismar",
+    "id": "17496",
+    "page": 8
+  },
+  {
+    "name": "Siebenbürgen",
+    "id": "15910",
+    "page": 8
+  },
+  {
+    "name": "Ungarn",
+    "id": "15917",
+    "page": 8
+  },
+  {
+    "name": "Tirol",
+    "id": "15926",
+    "page": 8
+  },
+  {
+    "name": "Bodensee",
+    "id": "15927",
+    "page": 8
+  },
+  {
+    "name": "Rhein",
+    "id": "14586",
+    "page": 8
+  },
+  {
+    "name": "Maas",
+    "id": "15933",
+    "page": 8
+  },
+  {
+    "name": "Lothringen",
+    "id": "17497",
+    "page": 8
+  },
+  {
+    "name": "Spanien",
+    "id": "14837",
+    "page": 8
+  },
+  {
+    "name": "Catalonien",
+    "id": "17498",
+    "page": 8
+  },
+  {
+    "name": "Portugal",
+    "id": "15644",
+    "page": 8
+  },
+  {
+    "name": "England",
+    "id": "14833",
+    "page": 8
+  },
+  {
+    "name": "Polen",
+    "id": "17499",
+    "page": 8
+  },
+  {
+    "name": "Freiburg",
+    "id": "17500",
+    "page": 8
+  },
+  {
+    "name": "Seine",
+    "id": "15643",
+    "page": 8
+  },
+  {
+    "name": "Donau",
+    "id": "14579",
+    "page": 8
+  },
+  {
+    "name": "Böhmen",
+    "id": "14881",
+    "page": 8
+  },
+  {
+    "name": "Durlach",
+    "id": "17501",
+    "page": 8
+  },
+  {
+    "name": "Halberstadt",
+    "id": "17502",
+    "page": 8
+  },
+  {
+    "name": "Mansfeld",
+    "id": "17503",
+    "page": 8
+  },
+  {
+    "name": "Pommern",
+    "id": "14790",
+    "page": 9
+  },
+  {
+    "name": "Wittstock",
+    "id": "17504",
+    "page": 9
+  },
+  {
+    "name": "Athen",
+    "id": "17505",
+    "page": 9
+  },
+  {
+    "name": "Elbe",
+    "id": "14589",
+    "page": 9
+  },
+  {
+    "name": "China",
+    "id": "15775",
+    "page": 9
+  },
+  {
+    "name": "Husum",
+    "id": "17506",
+    "page": 9
+  },
+  {
+    "name": "Rensburg",
+    "id": "17507",
+    "page": 9
+  },
+  {
+    "name": "Itzehoe",
+    "id": "17508",
+    "page": 9
+  },
+  {
+    "name": "Oldenburg",
+    "id": "17509",
+    "page": 9
+  },
+  {
+    "name": "Kurfürstentum Köln",
+    "id": "17510",
+    "page": 9
+  },
+  {
+    "name": "Diözese Osnabrück",
+    "id": "17511",
+    "page": 9
+  },
+  {
+    "name": "Reutlingen",
+    "id": "17512",
+    "page": 9
+  },
+  {
+    "name": "Königreich Preußen",
+    "id": "14576",
+    "page": 9
+  },
+  {
+    "name": "Königreich Ungarn",
+    "id": "14580",
+    "page": 9
+  },
+  {
+    "name": "Zittau",
+    "id": "14889",
+    "page": 9
+  },
+  {
+    "name": "Füssen",
+    "id": "17513",
+    "page": 9
+  },
+  {
+    "name": "Sarbinowo (Zorndorf)",
+    "id": "14851",
+    "page": 9
+  },
+  {
+    "name": "Legnica (Liegnitz)",
+    "id": "17514",
+    "page": 9
+  },
+  {
+    "name": "Leuthen",
+    "id": "17515",
+    "page": 9
+  },
+  {
+    "name": "Roßbach",
+    "id": "14769",
+    "page": 9
+  },
+  {
+    "name": "Soor (bei Hajnice)",
+    "id": "17516",
+    "page": 9
+  },
+  {
+    "name": "Kesselsdorf",
+    "id": "14910",
+    "page": 9
+  },
+  {
+    "name": "Lausitz",
+    "id": "17517",
+    "page": 9
+  },
+  {
+    "name": "Strzegom (Striegau)",
+    "id": "14607",
+    "page": 9
+  },
+  {
+    "name": "Čáslav (Czaslau)",
+    "id": "17518",
+    "page": 10
+  },
+  {
+    "name": "Mollwitz",
+    "id": "15986",
+    "page": 10
+  },
+  {
+    "name": "Passau",
+    "id": "17519",
+    "page": 10
+  },
+  {
+    "name": "Rödelheim",
+    "id": "17520",
+    "page": 10
+  },
+  {
+    "name": "Nördlingen",
+    "id": "17521",
+    "page": 10
+  },
+  {
+    "name": "Teschen (heute Cieszyn)",
+    "id": "17522",
+    "page": 10
+  },
+  {
+    "name": "Bad Lauchstädt",
+    "id": "17523",
+    "page": 10
+  },
+  {
+    "name": "Hof (Saale)",
+    "id": "10887",
+    "page": 10
+  },
+  {
+    "name": "Graz",
+    "id": "17527",
+    "page": 10
+  },
+  {
+    "name": "Rothenburg ob der Tauber",
+    "id": "17528",
+    "page": 10
+  },
+  {
+    "name": "Österreich",
+    "id": "14578",
+    "page": 10
+  },
+  {
+    "name": "Pegnitz",
+    "id": "15448",
+    "page": 10
+  },
+  {
+    "name": "Spree",
+    "id": "14593",
+    "page": 10
+  },
+  {
+    "name": "Cölln",
+    "id": "17529",
+    "page": 10
+  },
+  {
+    "name": "Saale",
+    "id": "15099",
+    "page": 10
+  },
+  {
+    "name": "Weser",
+    "id": "15596",
+    "page": 10
+  },
+  {
+    "name": "Trier",
+    "id": "17530",
+    "page": 10
+  },
+  {
+    "name": "Bayern",
+    "id": "15387",
+    "page": 10
+  },
+  {
+    "name": "Kurbrandenburg",
+    "id": "17531",
+    "page": 10
+  },
+  {
+    "name": "Pfalz-Neuburg",
+    "id": "17532",
+    "page": 10
+  },
+  {
+    "name": "Speyer",
+    "id": "15980",
+    "page": 10
+  },
+  {
+    "name": "Weißenfels",
+    "id": "17533",
+    "page": 10
+  },
+  {
+    "name": "Plön",
+    "id": "10726",
+    "page": 10
+  },
+  {
+    "name": "Altona",
+    "id": "11014",
+    "page": 10
+  },
+  {
+    "name": "Eisfeld",
+    "id": "17537",
+    "page": 11
+  },
+  {
+    "name": "Höxter",
+    "id": "17538",
+    "page": 11
+  },
+  {
+    "name": "Paderborn",
+    "id": "17539",
+    "page": 11
+  },
+  {
+    "name": "Wetzlar",
+    "id": "17540",
+    "page": 11
+  },
+  {
+    "name": "Aschaffenburg",
+    "id": "17541",
+    "page": 11
+  },
+  {
+    "name": "Touraine",
+    "id": "17542",
+    "page": 11
+  },
+  {
+    "name": "Moskau",
+    "id": "15143",
+    "page": 11
+  },
+  {
+    "name": "Dänemark",
+    "id": "17543",
+    "page": 11
+  },
+  {
+    "name": "Kloster Oliva",
+    "id": "17544",
+    "page": 11
+  },
+  {
+    "name": "Niedersachsen",
+    "id": "17545",
+    "page": 11
+  },
+  {
+    "name": "Saint-Germain-en-Laye",
+    "id": "16329",
+    "page": 11
+  },
+  {
+    "name": "Elsass",
+    "id": "15117",
+    "page": 11
+  },
+  {
+    "name": "Iberien",
+    "id": "17546",
+    "page": 11
+  },
+  {
+    "name": "Galatien",
+    "id": "17547",
+    "page": 11
+  },
+  {
+    "name": "Scandien",
+    "id": "17548",
+    "page": 11
+  },
+  {
+    "name": "Gomerien",
+    "id": "17549",
+    "page": 11
+  },
+  {
+    "name": "Anatolien",
+    "id": "17550",
+    "page": 11
+  },
+  {
+    "name": "Nimwegen",
+    "id": "17551",
+    "page": 11
+  },
+  {
+    "name": "Lund",
+    "id": "17552",
+    "page": 11
+  },
+  {
+    "name": "Vereinigte Niederlande",
+    "id": "17553",
+    "page": 11
+  },
+  {
+    "name": "Ofen (Buda)",
+    "id": "15386",
+    "page": 11
+  },
+  {
+    "name": "Schloss Altranstädt",
+    "id": "17554",
+    "page": 11
+  },
+  {
+    "name": "Holland",
+    "id": "17555",
+    "page": 11
+  },
+  {
+    "name": "Italien",
+    "id": "14527",
+    "page": 11
+  },
+  {
+    "name": "Nystad",
+    "id": "17556",
+    "page": 12
+  },
+  {
+    "name": "Uusikaupunki",
+    "id": "17557",
+    "page": 12
+  },
+  {
+    "name": "Oberbreitenbach",
+    "id": "17558",
+    "page": 12
+  },
+  {
+    "name": "Camerino",
+    "id": "17559",
+    "page": 12
+  },
+  {
+    "name": "Nemi",
+    "id": "17560",
+    "page": 12
+  },
+  {
+    "name": "Modena",
+    "id": "17561",
+    "page": 12
+  },
+  {
+    "name": "Polistena",
+    "id": "17562",
+    "page": 12
+  },
+  {
+    "name": "El Puerto de Santa Maria",
+    "id": "17563",
+    "page": 12
+  },
+  {
+    "name": "Pamplona",
+    "id": "17564",
+    "page": 12
+  },
+  {
+    "name": "Pesaro",
+    "id": "17565",
+    "page": 12
+  },
+  {
+    "name": "Sulzbach",
+    "id": "17566",
+    "page": 12
+  },
+  {
+    "name": "Verden",
+    "id": "17567",
+    "page": 12
+  },
+  {
+    "name": "Altranstädt",
+    "id": "17568",
+    "page": 12
+  },
+  {
+    "name": "Nil",
+    "id": "17569",
+    "page": 12
+  },
+  {
+    "name": "Damaskus",
+    "id": "17570",
+    "page": 12
+  },
+  {
+    "name": "Residenzschloss Rastatt",
+    "id": "17571",
+    "page": 12
+  },
+  {
+    "name": "Frederiksborg",
+    "id": "17572",
+    "page": 12
+  },
+  {
+    "name": "Karlowitz (heute Sremski Karlovci)",
+    "id": "17573",
+    "page": 12
+  },
+  {
+    "name": "Passarowitz (heute Požarevac)",
+    "id": "17574",
+    "page": 12
+  },
+  {
+    "name": "Passarowitz",
+    "id": "17575",
+    "page": 12
+  },
+  {
+    "name": "Kahlenberg",
+    "id": "17576",
+    "page": 12
+  },
+  {
+    "name": "Pirna",
+    "id": "17577",
+    "page": 12
+  },
+  {
+    "name": "Krems",
+    "id": "11246",
+    "page": 12
+  },
+  {
+    "name": "Fasaneninsel",
+    "id": "17581",
+    "page": 12
+  },
+  {
+    "name": "St. Petersburg",
+    "id": "15895",
+    "page": 13
+  },
+  {
+    "name": "Kleve",
+    "id": "17582",
+    "page": 13
+  },
+  {
+    "name": "Görlitz",
+    "id": "14890",
+    "page": 13
+  },
+  {
+    "name": "Altenburg",
+    "id": "1726",
+    "page": 13
+  },
+  {
+    "name": "Erlangen",
+    "id": "17584",
+    "page": 13
+  },
+  {
+    "name": "Bremen",
+    "id": "17585",
+    "page": 13
+  },
+  {
+    "name": "Arnstadt",
+    "id": "17586",
+    "page": 13
+  },
+  {
+    "name": "Schwabach",
+    "id": "17587",
+    "page": 13
+  },
+  {
+    "name": "Oels",
+    "id": "17588",
+    "page": 13
+  },
+  {
+    "name": "Stolpe",
+    "id": "17589",
+    "page": 13
+  },
+  {
+    "name": "Eisenach",
+    "id": "17590",
+    "page": 13
+  },
+  {
+    "name": "Provinz Geldern",
+    "id": "17591",
+    "page": 13
+  },
+  {
+    "name": "Provinz Holland",
+    "id": "17592",
+    "page": 13
+  },
+  {
+    "name": "Provinz Seeland",
+    "id": "17593",
+    "page": 13
+  },
+  {
+    "name": "Provinz Utrecht",
+    "id": "17594",
+    "page": 13
+  },
+  {
+    "name": "Provinz Friesland Oberyssel",
+    "id": "17595",
+    "page": 13
+  },
+  {
+    "name": "Provinz Groningen",
+    "id": "17596",
+    "page": 13
+  },
+  {
+    "name": "Provinz Ommeland",
+    "id": "17597",
+    "page": 13
+  },
+  {
+    "name": "Lissabon",
+    "id": "17598",
+    "page": 13
+  },
+  {
+    "name": "Persien",
+    "id": "15779",
+    "page": 13
+  },
+  {
+    "name": "Türkei",
+    "id": "17599",
+    "page": 13
+  },
+  {
+    "name": "Parma",
+    "id": "17600",
+    "page": 13
+  },
+  {
+    "name": "Mantua",
+    "id": "17601",
+    "page": 13
+  },
+  {
+    "name": "Heilbronn",
+    "id": "17602",
+    "page": 13
+  },
+  {
+    "name": "Warschau",
+    "id": "15119",
+    "page": 14
+  },
+  {
+    "name": "Kleinpolen",
+    "id": "17603",
+    "page": 14
+  },
+  {
+    "name": "Kehl",
+    "id": "17604",
+    "page": 14
+  },
+  {
+    "name": "Philippsburg",
+    "id": "17605",
+    "page": 14
+  },
+  {
+    "name": "Salmbach",
+    "id": "17606",
+    "page": 14
+  },
+  {
+    "name": "Klausen",
+    "id": "17607",
+    "page": 14
+  },
+  {
+    "name": "Guastalla",
+    "id": "17608",
+    "page": 14
+  },
+  {
+    "name": "Capua",
+    "id": "17609",
+    "page": 14
+  },
+  {
+    "name": "Stein an der Donau",
+    "id": "16343",
+    "page": 14
+  },
+  {
+    "name": "Stein",
+    "id": "17610",
+    "page": 14
+  },
+  {
+    "name": "Otschakiw",
+    "id": "17611",
+    "page": 14
+  },
+  {
+    "name": "Bender",
+    "id": "17612",
+    "page": 14
+  },
+  {
+    "name": "Istanbul",
+    "id": "14590",
+    "page": 14
+  },
+  {
+    "name": "Chotyn",
+    "id": "17613",
+    "page": 14
+  },
+  {
+    "name": "Belgorod",
+    "id": "17614",
+    "page": 14
+  },
+  {
+    "name": "Iași",
+    "id": "17615",
+    "page": 14
+  },
+  {
+    "name": "Klein Knignitz (heute Księginice bei Lubin)",
+    "id": "17616",
+    "page": 14
+  },
+  {
+    "name": "Moldau",
+    "id": "17617",
+    "page": 14
+  },
+  {
+    "name": "Lyon",
+    "id": "17618",
+    "page": 14
+  },
+  {
+    "name": "Padua",
+    "id": "17619",
+    "page": 14
+  },
+  {
+    "name": "Griechenland",
+    "id": "17620",
+    "page": 14
+  },
+  {
+    "name": "Dettingen",
+    "id": "17621",
+    "page": 14
+  },
+  {
+    "name": "Main",
+    "id": "15595",
+    "page": 14
+  },
+  {
+    "name": "Herzogtum Sachsen",
+    "id": "17622",
+    "page": 14
+  },
+  {
+    "name": "Thüringen",
+    "id": "17623",
+    "page": 15
+  },
+  {
+    "name": "Friesland",
+    "id": "17624",
+    "page": 15
+  },
+  {
+    "name": "Baltikum",
+    "id": "17625",
+    "page": 15
+  },
+  {
+    "name": "Havel",
+    "id": "14594",
+    "page": 15
+  },
+  {
+    "name": "Stralsund",
+    "id": "17626",
+    "page": 15
+  },
+  {
+    "name": "Potsdam",
+    "id": "17627",
+    "page": 15
+  },
+  {
+    "name": "Herzogtum Jägerndorf",
+    "id": "17628",
+    "page": 15
+  },
+  {
+    "name": "Friedland",
+    "id": "17629",
+    "page": 15
+  },
+  {
+    "name": "Hennersdorf",
+    "id": "14880",
+    "page": 15
+  },
+  {
+    "name": "Mandau",
+    "id": "17630",
+    "page": 15
+  },
+  {
+    "name": "Herzberg",
+    "id": "17631",
+    "page": 15
+  },
+  {
+    "name": "Mirsk",
+    "id": "17632",
+    "page": 15
+  },
+  {
+    "name": "Cleve",
+    "id": "16351",
+    "page": 15
+  },
+  {
+    "name": "Gymnasium Görlitz",
+    "id": "17633",
+    "page": 15
+  },
+  {
+    "name": "Themse",
+    "id": "14814",
+    "page": 15
+  },
+  {
+    "name": "Po",
+    "id": "17634",
+    "page": 15
+  },
+  {
+    "name": "Ebro",
+    "id": "17635",
+    "page": 15
+  },
+  {
+    "name": "Stadtkirche Altenburg",
+    "id": "17636",
+    "page": 15
+  },
+  {
+    "name": "Friedrichgymnasium Altenburg",
+    "id": "17637",
+    "page": 15
+  },
+  {
+    "name": "Ladozhskoye Ozero",
+    "id": "17638",
+    "page": 15
+  },
+  {
+    "name": "Bol'shaya Neva",
+    "id": "17639",
+    "page": 15
+  },
+  {
+    "name": "Lobositz",
+    "id": "17640",
+    "page": 15
+  },
+  {
+    "name": "Kunersdorf",
+    "id": "17641",
+    "page": 15
+  },
+  {
+    "name": "Zwickau",
+    "id": "11250",
+    "page": 15
+  },
+  {
+    "name": "Elbing",
+    "id": "17645",
+    "page": 16
+  },
+  {
+    "name": "Glückstadt",
+    "id": "17646",
+    "page": 16
+  },
+  {
+    "name": "Rinteln",
+    "id": "17647",
+    "page": 16
+  },
+  {
+    "name": "Stadt Nimwegen",
+    "id": "17648",
+    "page": 16
+  },
+  {
+    "name": "Kurfürstentum Brandenburg",
+    "id": "15138",
+    "page": 16
+  },
+  {
+    "name": "Königreich Dänemark",
+    "id": "9859",
+    "page": 16
+  },
+  {
+    "name": "Russland",
+    "id": "15396",
+    "page": 16
+  },
+  {
+    "name": "Kurfürstentum Trier",
+    "id": "15567",
+    "page": 16
+  },
+  {
+    "name": "Kurfürstentum Mainz",
+    "id": "15563",
+    "page": 16
+  },
+  {
+    "name": "Kurpfalz",
+    "id": "15571",
+    "page": 16
+  },
+  {
+    "name": "Kurfürstentum Bayern",
+    "id": "15559",
+    "page": 16
+  },
+  {
+    "name": "Kurfürstentum Böhmen",
+    "id": "14592",
+    "page": 16
+  },
+  {
+    "name": "Paulinerkirche Jena",
+    "id": "16361",
+    "page": 16
+  },
+  {
+    "name": "Stadtkirche Ilmenau",
+    "id": "17652",
+    "page": 16
+  },
+  {
+    "name": "Fischhausen",
+    "id": "17653",
+    "page": 16
+  },
+  {
+    "name": "Pillau",
+    "id": "17654",
+    "page": 16
+  },
+  {
+    "name": "Smolensk",
+    "id": "17655",
+    "page": 16
+  },
+  {
+    "name": "Semlevo",
+    "id": "17656",
+    "page": 16
+  },
+  {
+    "name": "Lemberg (heute Lwiw)",
+    "id": "17657",
+    "page": 16
+  },
+  {
+    "name": "Synagoge zu Schwerin",
+    "id": "17658",
+    "page": 16
+  },
+  {
+    "name": "Synagoge zu Güstrow",
+    "id": "17659",
+    "page": 16
+  },
+  {
+    "name": "Friedersdorf (Sachsen)",
+    "id": "17660",
+    "page": 16
+  },
+  {
+    "name": "Jerusalem",
+    "id": "17661",
+    "page": 16
+  },
+  {
+    "name": "Oleśnica",
+    "id": "17662",
+    "page": 16
+  },
+  {
+    "name": "Kaukasus",
+    "id": "17663",
+    "page": 17
+  },
+  {
+    "name": "Olymp",
+    "id": "17664",
+    "page": 17
+  },
+  {
+    "name": "Nizza",
+    "id": "17665",
+    "page": 17
+  },
+  {
+    "name": "Hochkirch",
+    "id": "14843",
+    "page": 17
+  },
+  {
+    "name": "Dieterskirch",
+    "id": "16374",
+    "page": 17
+  },
+  {
+    "name": "Kanada",
+    "id": "17666",
+    "page": 17
+  },
+  {
+    "name": "Ladogasee",
+    "id": "17667",
+    "page": 17
+  },
+  {
+    "name": "Lateinschule in Memmingen",
+    "id": "17668",
+    "page": 17
+  },
+  {
+    "name": "Kostrzyn",
+    "id": "17669",
+    "page": 17
+  },
+  {
+    "name": "Bad Colberg",
+    "id": "17670",
+    "page": 17
+  },
+  {
+    "name": "Świdnica",
+    "id": "17671",
+    "page": 17
+  },
+  {
+    "name": "Celle",
+    "id": "9862",
+    "page": 17
+  },
+  {
+    "name": "Olomouc",
+    "id": "17675",
+    "page": 17
+  },
+  {
+    "name": "Mähren",
+    "id": "17676",
+    "page": 17
+  },
+  {
+    "name": "Lahne",
+    "id": "17677",
+    "page": 17
+  },
+  {
+    "name": "Leine",
+    "id": "15597",
+    "page": 17
+  },
+  {
+    "name": "Holzminden",
+    "id": "16385",
+    "page": 17
+  },
+  {
+    "name": "Stade",
+    "id": "12491",
+    "page": 17
+  },
+  {
+    "name": "Aller",
+    "id": "15600",
+    "page": 17
+  },
+  {
+    "name": "Krefeld",
+    "id": "15605",
+    "page": 17
+  },
+  {
+    "name": "Korbach",
+    "id": "15606",
+    "page": 17
+  },
+  {
+    "name": "Warburg",
+    "id": "15607",
+    "page": 17
+  },
+  {
+    "name": "Hamm",
+    "id": "15610",
+    "page": 17
+  },
+  {
+    "name": "Röcknitz",
+    "id": "17678",
+    "page": 17
+  },
+  {
+    "name": "Böhlitz",
+    "id": "17679",
+    "page": 18
+  },
+  {
+    "name": "Hainewalde",
+    "id": "17680",
+    "page": 18
+  },
+  {
+    "name": "Turin",
+    "id": "17681",
+    "page": 18
+  },
+  {
+    "name": "Ronneburg",
+    "id": "17682",
+    "page": 18
+  },
+  {
+    "name": "Herzogtum Sachsen-Altenburg",
+    "id": "17683",
+    "page": 18
+  },
+  {
+    "name": "Zürich",
+    "id": "17684",
+    "page": 18
+  },
+  {
+    "name": "Esslingen",
+    "id": "10508",
+    "page": 18
+  },
+  {
+    "name": "Reichsstadt Esslingen",
+    "id": "17688",
+    "page": 18
+  },
+  {
+    "name": "Iber",
+    "id": "17689",
+    "page": 18
+  },
+  {
+    "name": "Heidenheim",
+    "id": "17690",
+    "page": 18
+  },
+  {
+    "name": "Herzogtum Württemberg",
+    "id": "17691",
+    "page": 18
+  },
+  {
+    "name": "Numancia",
+    "id": "17692",
+    "page": 18
+  },
+  {
+    "name": "Argos",
+    "id": "17693",
+    "page": 18
+  },
+  {
+    "name": "Schelde",
+    "id": "17694",
+    "page": 18
+  },
+  {
+    "name": "Gallien",
+    "id": "17695",
+    "page": 18
+  },
+  {
+    "name": "Livland",
+    "id": "17696",
+    "page": 18
+  },
+  {
+    "name": "Belt",
+    "id": "17697",
+    "page": 18
+  },
+  {
+    "name": "Mittweida",
+    "id": "17698",
+    "page": 18
+  },
+  {
+    "name": "Württemberg",
+    "id": "17699",
+    "page": 18
+  },
+  {
+    "name": "Preußen",
+    "id": "14768",
+    "page": 18
+  },
+  {
+    "name": "Chemnitz",
+    "id": "17700",
+    "page": 18
+  },
+  {
+    "name": "Burgstädt",
+    "id": "17701",
+    "page": 18
+  },
+  {
+    "name": "Frankfurt an der Oder",
+    "id": "17702",
+    "page": 18
+  },
+  {
+    "name": "weißes Meer",
+    "id": "15682",
+    "page": 18
+  },
+  {
+    "name": "schwarzes Meer",
+    "id": "15771",
+    "page": 19
+  },
+  {
+    "name": "Mongolei",
+    "id": "15783",
+    "page": 19
+  },
+  {
+    "name": "Azov",
+    "id": "15788",
+    "page": 19
+  },
+  {
+    "name": "Otschakiw",
+    "id": "15796",
+    "page": 19
+  },
+  {
+    "name": "Versailles",
+    "id": "17703",
+    "page": 19
+  },
+  {
+    "name": "Flandern",
+    "id": "17704",
+    "page": 19
+  },
+  {
+    "name": "Starogard",
+    "id": "17705",
+    "page": 19
+  },
+  {
+    "name": "Breitenfeld",
+    "id": "17706",
+    "page": 19
+  },
+  {
+    "name": "Finnland",
+    "id": "17707",
+    "page": 19
+  },
+  {
+    "name": "Gotland",
+    "id": "17708",
+    "page": 19
+  },
+  {
+    "name": "Finnischer Meerbusen",
+    "id": "17709",
+    "page": 19
+  },
+  {
+    "name": "Ostsee",
+    "id": "17710",
+    "page": 19
+  },
+  {
+    "name": "Usedom",
+    "id": "17711",
+    "page": 19
+  },
+  {
+    "name": "Kolberg (Kołobrzeg)",
+    "id": "17712",
+    "page": 19
+  },
+  {
+    "name": "Rügen",
+    "id": "17713",
+    "page": 19
+  },
+  {
+    "name": "Delitzsch",
+    "id": "17714",
+    "page": 19
+  },
+  {
+    "name": "Irland",
+    "id": "17715",
+    "page": 19
+  },
+  {
+    "name": "Landgrafschaft Hessen-Kassel",
+    "id": "17716",
+    "page": 19
+  },
+  {
+    "name": "Windsheim",
+    "id": "17717",
+    "page": 19
+  },
+  {
+    "name": "Weißenburg",
+    "id": "17718",
+    "page": 19
+  },
+  {
+    "name": "Kempten",
+    "id": "17719",
+    "page": 19
+  },
+  {
+    "name": "Jülich",
+    "id": "17720",
+    "page": 19
+  },
+  {
+    "name": "Xanten",
+    "id": "17721",
+    "page": 19
+  },
+  {
+    "name": "Erkelenz",
+    "id": "17722",
+    "page": 19
+  },
+  {
+    "name": "Stadtschule Starogard",
+    "id": "17723",
+    "page": 20
+  },
+  {
+    "name": "Isola Bella",
+    "id": "17724",
+    "page": 20
+  },
+  {
+    "name": "Tago",
+    "id": "15276",
+    "page": 20
+  },
+  {
+    "name": "Kolin",
+    "id": "15118",
+    "page": 20
+  },
+  {
+    "name": "Maxen",
+    "id": "17725",
+    "page": 20
+  },
+  {
+    "name": "Kay",
+    "id": "17726",
+    "page": 20
+  },
+  {
+    "name": "Schweidnitz",
+    "id": "17727",
+    "page": 20
+  },
+  {
+    "name": "Kollberg",
+    "id": "17728",
+    "page": 20
+  },
+  {
+    "name": "Worms",
+    "id": "15979",
+    "page": 20
+  },
+  {
+    "name": "Mannheim",
+    "id": "15984",
+    "page": 20
+  },
+  {
+    "name": "Riesenberg",
+    "id": "15985",
+    "page": 20
+  },
+  {
+    "name": "Caslav",
+    "id": "15987",
+    "page": 20
+  },
+  {
+    "name": "Pasewalk",
+    "id": "17729",
+    "page": 20
+  },
+  {
+    "name": "Vercelli",
+    "id": "17730",
+    "page": 20
+  },
+  {
+    "name": "Torino",
+    "id": "17731",
+    "page": 20
+  },
+  {
+    "name": "Gerau",
+    "id": "17732",
+    "page": 20
+  },
+  {
+    "name": "Döbeln",
+    "id": "17733",
+    "page": 20
+  },
+  {
+    "name": "Dillingen a.d. Donau",
+    "id": "17734",
+    "page": 20
+  },
+  {
+    "name": "Dillingen",
+    "id": "17735",
+    "page": 20
+  },
+  {
+    "name": "Charenton-le-Pont",
+    "id": "17736",
+    "page": 20
+  },
+  {
+    "name": "Charenton",
+    "id": "17737",
+    "page": 20
+  },
+  {
+    "name": "Genf",
+    "id": "17738",
+    "page": 20
+  },
+  {
+    "name": "Geneve",
+    "id": "17739",
+    "page": 20
+  },
+  {
+    "name": "Schleusingen",
+    "id": "17740",
+    "page": 20
+  },
+  {
+    "name": "Quedlinburg",
+    "id": "17741",
+    "page": 21
+  },
+  {
+    "name": "San Marino",
+    "id": "17742",
+    "page": 21
+  },
+  {
+    "name": "Neustadt an der Aisch",
+    "id": "17743",
+    "page": 21
+  },
+  {
+    "name": "Bevern",
+    "id": "17744",
+    "page": 21
+  },
+  {
+    "name": "Greifswald",
+    "id": "17745",
+    "page": 21
+  },
+  {
+    "name": "Stargard",
+    "id": "17746",
+    "page": 21
+  },
+  {
+    "name": "New York",
+    "id": "17747",
+    "page": 21
+  },
+  {
+    "name": "Rudolstadt",
+    "id": "17748",
+    "page": 21
+  },
+  {
+    "name": "Durham",
+    "id": "17749",
+    "page": 21
+  },
+  {
+    "name": "Washington, DC",
+    "id": "17750",
+    "page": 21
+  },
+  {
+    "name": "Dublin",
+    "id": "17751",
+    "page": 21
+  },
+  {
+    "name": "Nordhausen",
+    "id": "17752",
+    "page": 21
+  },
+  {
+    "name": "Hohenfriedberg",
+    "id": "14882",
+    "page": 21
+  },
+  {
+    "name": "Mosel",
+    "id": "17753",
+    "page": 21
+  },
+  {
+    "name": "Guadalquivir",
+    "id": "17754",
+    "page": 21
+  },
+  {
+    "name": "(Beti) Guadalquivir",
+    "id": "17755",
+    "page": 21
+  },
+  {
+    "name": "Hildesheim",
+    "id": "9863",
+    "page": 21
+  },
+  {
+    "name": "Zeitz",
+    "id": "17759",
+    "page": 21
+  },
+  {
+    "name": "Savoyen",
+    "id": "15969",
+    "page": 21
+  },
+  {
+    "name": "Huis ter Nieuburch",
+    "id": "17760",
+    "page": 21
+  },
+  {
+    "name": "Havent",
+    "id": "17761",
+    "page": 21
+  },
+  {
+    "name": "Baden im Aargau",
+    "id": "17762",
+    "page": 21
+  },
+  {
+    "name": "Festung Weichselmünde",
+    "id": "17763",
+    "page": 21
+  },
+  {
+    "name": "Malmö",
+    "id": "17764",
+    "page": 21
+  },
+  {
+    "name": "Tornby",
+    "id": "17765",
+    "page": 22
+  },
+  {
+    "name": "Falsterbo",
+    "id": "17766",
+    "page": 22
+  },
+  {
+    "name": "Hernals bei Wien",
+    "id": "17767",
+    "page": 22
+  },
+  {
+    "name": "Osmanisches Reich",
+    "id": "14529",
+    "page": 22
+  },
+  {
+    "name": "Palais des Tuileries",
+    "id": "17768",
+    "page": 22
+  },
+  {
+    "name": "Festung Schabaz",
+    "id": "17769",
+    "page": 22
+  },
+  {
+    "name": "Hrvatska Dubica",
+    "id": "17770",
+    "page": 22
+  },
+  {
+    "name": "Save",
+    "id": "17771",
+    "page": 22
+  },
+  {
+    "name": "Galatz",
+    "id": "17772",
+    "page": 22
+  },
+  {
+    "name": "Lech",
+    "id": "14583",
+    "page": 22
+  },
+  {
+    "name": "Armenien",
+    "id": "14587",
+    "page": 22
+  },
+  {
+    "name": "Neisse",
+    "id": "14588",
+    "page": 22
+  },
+  {
+    "name": "Trautenau",
+    "id": "14600",
+    "page": 22
+  },
+  {
+    "name": "Schmiedeberg",
+    "id": "14601",
+    "page": 22
+  },
+  {
+    "name": "Friedeberg",
+    "id": "14602",
+    "page": 22
+  },
+  {
+    "name": "Günthersdorf",
+    "id": "14605",
+    "page": 22
+  },
+  {
+    "name": "Hohenau",
+    "id": "14606",
+    "page": 22
+  },
+  {
+    "name": "Rathaus Wilsdruff",
+    "id": "17773",
+    "page": 22
+  },
+  {
+    "name": "Ravensburg",
+    "id": "17774",
+    "page": 22
+  },
+  {
+    "name": "Exon",
+    "id": "17775",
+    "page": 22
+  },
+  {
+    "name": "Worcester",
+    "id": "17776",
+    "page": 22
+  },
+  {
+    "name": "Exeter",
+    "id": "17777",
+    "page": 22
+  },
+  {
+    "name": "Edinburgh",
+    "id": "17778",
+    "page": 22
+  },
+  {
+    "name": "Belfast",
+    "id": "17779",
+    "page": 22
+  },
+  {
+    "name": "Aberdeen",
+    "id": "17780",
+    "page": 23
+  },
+  {
+    "name": "Güstrow",
+    "id": "17781",
+    "page": 23
+  },
+  {
+    "name": "Lüneburg",
+    "id": "17782",
+    "page": 23
+  },
+  {
+    "name": "Lauban",
+    "id": "17783",
+    "page": 23
+  },
+  {
+    "name": "Zelle",
+    "id": "17784",
+    "page": 23
+  },
+  {
+    "name": "Boston",
+    "id": "17785",
+    "page": 23
+  },
+  {
+    "name": "Ann Arbor MI",
+    "id": "17786",
+    "page": 23
+  },
+  {
+    "name": "Bristol",
+    "id": "17787",
+    "page": 23
+  },
+  {
+    "name": "Wernigerode",
+    "id": "17788",
+    "page": 23
+  },
+  {
+    "name": "Northampton",
+    "id": "17789",
+    "page": 23
+  },
+  {
+    "name": "York",
+    "id": "17790",
+    "page": 23
+  },
+  {
+    "name": "Lichtenstein (Sachsen)",
+    "id": "17791",
+    "page": 23
+  },
+  {
+    "name": "Lichtenstein",
+    "id": "17792",
+    "page": 23
+  },
+  {
+    "name": "Newcastle",
+    "id": "17793",
+    "page": 23
+  },
+  {
+    "name": "New Haven, CT",
+    "id": "17794",
+    "page": 23
+  },
+  {
+    "name": "Williamsburg, VA",
+    "id": "17795",
+    "page": 23
+  },
+  {
+    "name": "Löbau",
+    "id": "17796",
+    "page": 23
+  },
+  {
+    "name": "Portsmouth, NH",
+    "id": "17797",
+    "page": 23
+  },
+  {
+    "name": "New Hampshire",
+    "id": "17798",
+    "page": 23
+  },
+  {
+    "name": "Schneeberg",
+    "id": "17799",
+    "page": 23
+  },
+  {
+    "name": "Kingston, Jamaica",
+    "id": "17800",
+    "page": 23
+  },
+  {
+    "name": "Hanau",
+    "id": "17801",
+    "page": 23
+  },
+  {
+    "name": "Norwich",
+    "id": "17802",
+    "page": 23
+  },
+  {
+    "name": "Pförten, Niederlausitz",
+    "id": "8137",
+    "page": 23
+  },
+  {
+    "name": "Niederlausitz",
+    "id": "17803",
+    "page": 24
+  },
+  {
+    "name": "Bath",
+    "id": "17804",
+    "page": 24
+  },
+  {
+    "name": "Glocester",
+    "id": "17805",
+    "page": 24
+  },
+  {
+    "name": "Taunton",
+    "id": "17806",
+    "page": 24
+  },
+  {
+    "name": "New London, CT",
+    "id": "17807",
+    "page": 24
+  },
+  {
+    "name": "Hartford, CT",
+    "id": "17808",
+    "page": 24
+  },
+  {
+    "name": "Canterbury",
+    "id": "17809",
+    "page": 24
+  },
+  {
+    "name": "Norwich, CT",
+    "id": "17810",
+    "page": 24
+  },
+  {
+    "name": "Worcester, MA",
+    "id": "17811",
+    "page": 24
+  },
+  {
+    "name": "Boston MS",
+    "id": "17812",
+    "page": 24
+  },
+  {
+    "name": "Heidelberg",
+    "id": "17813",
+    "page": 24
+  },
+  {
+    "name": "Providence",
+    "id": "17814",
+    "page": 24
+  },
+  {
+    "name": "Haverhill, MA",
+    "id": "17815",
+    "page": 24
+  },
+  {
+    "name": "Concord, NH",
+    "id": "17816",
+    "page": 24
+  },
+  {
+    "name": "Hudson, NY",
+    "id": "17817",
+    "page": 24
+  },
+  {
+    "name": "Albany",
+    "id": "17818",
+    "page": 24
+  },
+  {
+    "name": "Wilmington, DE",
+    "id": "17819",
+    "page": 24
+  },
+  {
+    "name": "Rogersville, TN",
+    "id": "17820",
+    "page": 24
+  },
+  {
+    "name": "Pittsfield, MA",
+    "id": "17821",
+    "page": 24
+  },
+  {
+    "name": "Abingdon, VA",
+    "id": "17822",
+    "page": 24
+  },
+  {
+    "name": "Hallowell, ME",
+    "id": "17823",
+    "page": 24
+  },
+  {
+    "name": "Republik der Vereinigten Niederlande",
+    "id": "17824",
+    "page": 24
+  },
+  {
+    "name": "Savoyen-Piemont",
+    "id": "17825",
+    "page": 24
+  },
+  {
+    "name": "Dänemark-Norwegen",
+    "id": "17826",
+    "page": 24
+  },
+  {
+    "name": "Stuhmsdorf",
+    "id": "17827",
+    "page": 25
+  },
+  {
+    "name": "Havant",
+    "id": "17828",
+    "page": 25
+  },
+  {
+    "name": "Hampshire",
+    "id": "17829",
+    "page": 25
+  },
+  {
+    "name": "Chester, VT",
+    "id": "17830",
+    "page": 25
+  },
+  {
+    "name": "Petsworth",
+    "id": "17831",
+    "page": 25
+  },
+  {
+    "name": "Gloucester",
+    "id": "17832",
+    "page": 25
+  },
+  {
+    "name": "Saarbrücken",
+    "id": "17833",
+    "page": 25
+  },
+  {
+    "name": "Römhild",
+    "id": "17834",
+    "page": 25
+  },
+  {
+    "name": "Rendsburg",
+    "id": "17835",
+    "page": 25
+  },
+  {
+    "name": "Wroclaw",
+    "id": "17836",
+    "page": 25
+  },
+  {
+    "name": "Lutherstadt Wittenberg",
+    "id": "17837",
+    "page": 25
+  },
+  {
+    "name": "Brandenburg-Preußen",
+    "id": "17838",
+    "page": 25
+  },
+  {
+    "name": "Polen-Litauen",
+    "id": "17839",
+    "page": 25
+  },
+  {
+    "name": "Großen Rettbach",
+    "id": "17840",
+    "page": 25
+  },
+  {
+    "name": "Kurköln",
+    "id": "15575",
+    "page": 25
+  },
+  {
+    "name": "Lamstedt",
+    "id": "17841",
+    "page": 25
+  },
+  {
+    "name": "Tallinn",
+    "id": "17842",
+    "page": 25
+  },
+  {
+    "name": "Narva",
+    "id": "17843",
+    "page": 25
+  },
+  {
+    "name": "Linz",
+    "id": "17844",
+    "page": 25
+  },
+  {
+    "name": "Borne",
+    "id": "14770",
+    "page": 25
+  },
+  {
+    "name": "Fehrbellin",
+    "id": "17845",
+    "page": 25
+  },
+  {
+    "name": "Uelzen",
+    "id": "17846",
+    "page": 25
+  },
+  {
+    "name": "Friedrichswerder",
+    "id": "17847",
+    "page": 25
+  },
+  {
+    "name": "Landshut",
+    "id": "17848",
+    "page": 25
+  },
+  {
+    "name": "Ronneburg (Thüringen)",
+    "id": "17849",
+    "page": 26
+  },
+  {
+    "name": "Düsseldorf",
+    "id": "17850",
+    "page": 26
+  },
+  {
+    "name": "Emden",
+    "id": "17851",
+    "page": 26
+  },
+  {
+    "name": "Lausanne",
+    "id": "17852",
+    "page": 26
+  },
+  {
+    "name": "Lausanne-Dorigny",
+    "id": "17853",
+    "page": 26
+  },
+  {
+    "name": "Chotusitz",
+    "id": "17854",
+    "page": 26
+  },
+  {
+    "name": "Luckau",
+    "id": "17855",
+    "page": 26
+  },
+  {
+    "name": "Harburg",
+    "id": "17856",
+    "page": 26
+  },
+  {
+    "name": "Königsberg in der Neumark",
+    "id": "17857",
+    "page": 26
+  },
+  {
+    "name": "Rheinberg",
+    "id": "17858",
+    "page": 26
+  },
+  {
+    "name": "Wesel",
+    "id": "17859",
+    "page": 26
+  },
+  {
+    "name": "Schenkenschanz",
+    "id": "17860",
+    "page": 26
+  },
+  {
+    "name": "Naerden",
+    "id": "17861",
+    "page": 26
+  },
+  {
+    "name": "Hünningen",
+    "id": "17862",
+    "page": 26
+  },
+  {
+    "name": "Steinheim",
+    "id": "17863",
+    "page": 26
+  },
+  {
+    "name": "Höchstädt",
+    "id": "17864",
+    "page": 26
+  },
+  {
+    "name": "Blindheim",
+    "id": "17865",
+    "page": 26
+  },
+  {
+    "name": "Landau",
+    "id": "17866",
+    "page": 26
+  },
+  {
+    "name": "Küstin",
+    "id": "17867",
+    "page": 26
+  },
+  {
+    "name": "Olmütz",
+    "id": "17868",
+    "page": 26
+  },
+  {
+    "name": "Innsbruck",
+    "id": "17869",
+    "page": 26
+  },
+  {
+    "name": "Leoben",
+    "id": "17870",
+    "page": 26
+  },
+  {
+    "name": "Universität Utrecht",
+    "id": "17871",
+    "page": 26
+  },
+  {
+    "name": "Codroipo (Udine)",
+    "id": "17872",
+    "page": 26
+  },
+  {
+    "name": "Campoformido",
+    "id": "17873",
+    "page": 27
+  },
+  {
+    "name": "Vaticano",
+    "id": "15363",
+    "page": 27
+  },
+  {
+    "name": "Donau (Istro)",
+    "id": "17874",
+    "page": 27
+  },
+  {
+    "name": "Gräfenhainichen",
+    "id": "17875",
+    "page": 27
+  },
+  {
+    "name": "Verona",
+    "id": "17876",
+    "page": 27
+  },
+  {
+    "name": "Bozen",
+    "id": "17877",
+    "page": 27
+  },
+  {
+    "name": "Livorno",
+    "id": "15439",
+    "page": 27
+  },
+  {
+    "name": "Welt",
+    "id": "15445",
+    "page": 27
+  },
+  {
+    "name": "Tebro (Tiber)",
+    "id": "17878",
+    "page": 27
+  },
+  {
+    "name": "Tebro (Tiber)",
+    "id": "17879",
+    "page": 27
+  },
+  {
+    "name": "Osten",
+    "id": "17880",
+    "page": 27
+  },
+  {
+    "name": "Osten",
+    "id": "17881",
+    "page": 27
+  },
+  {
+    "name": "Tracia",
+    "id": "17882",
+    "page": 27
+  },
+  {
+    "name": "Bitonto (Bari)",
+    "id": "17883",
+    "page": 27
+  },
+  {
+    "name": "Hradec Kralové",
+    "id": "17884",
+    "page": 27
+  },
+  {
+    "name": "Toskana",
+    "id": "17885",
+    "page": 27
+  },
+  {
+    "name": "Lützschena",
+    "id": "17886",
+    "page": 27
+  },
+  {
+    "name": "Bobr",
+    "id": "17887",
+    "page": 27
+  },
+  {
+    "name": "Sardinien",
+    "id": "17888",
+    "page": 27
+  },
+  {
+    "name": "Sizilien",
+    "id": "17889",
+    "page": 27
+  },
+  {
+    "name": "Ida (Fluss)",
+    "id": "17890",
+    "page": 27
+  },
+  {
+    "name": "Lunéville",
+    "id": "17891",
+    "page": 27
+  },
+  {
+    "name": "Berlin-Dorotheenstadt",
+    "id": "17892",
+    "page": 27
+  },
+  {
+    "name": "Reichenbach",
+    "id": "17893",
+    "page": 27
+  },
+  {
+    "name": "Belgien",
+    "id": "17894",
+    "page": 28
+  },
+  {
+    "name": "Senna",
+    "id": "17895",
+    "page": 28
+  },
+  {
+    "name": "Thames",
+    "id": "17896",
+    "page": 28
+  },
+  {
+    "name": "Rodano",
+    "id": "17897",
+    "page": 28
+  },
+  {
+    "name": "Schweiz",
+    "id": "17898",
+    "page": 28
+  },
+  {
+    "name": "Buschowitz",
+    "id": "17899",
+    "page": 28
+  },
+  {
+    "name": "Trave",
+    "id": "17900",
+    "page": 28
+  },
+  {
+    "name": "Dieterskirch (Uttenweiler)",
+    "id": "17901",
+    "page": 28
+  },
+  {
+    "name": "Dietrichskirchen",
+    "id": "17902",
+    "page": 28
+  },
+  {
+    "name": "Altenhof (Leisnig)",
+    "id": "17903",
+    "page": 28
+  },
+  {
+    "name": "Mühlhausen",
+    "id": "17904",
+    "page": 28
+  },
+  {
+    "name": "Klein Knignitz",
+    "id": "17905",
+    "page": 28
+  },
+  {
+    "name": "Księginice bei Lubin",
+    "id": "17906",
+    "page": 28
+  },
+  {
+    "name": "Požarevac",
+    "id": "17907",
+    "page": 28
+  },
+  {
+    "name": "Wilsdruff",
+    "id": "17908",
+    "page": 28
+  },
+  {
+    "name": "Sztumska Wieś",
+    "id": "17909",
+    "page": 28
+  },
+  {
+    "name": "Lemberg",
+    "id": "17910",
+    "page": 28
+  },
+  {
+    "name": "Lwiw",
+    "id": "17911",
+    "page": 28
+  },
+  {
+    "name": "Hochkirchen",
+    "id": "15136",
+    "page": 28
+  },
+  {
+    "name": "Foligno",
+    "id": "17912",
+    "page": 28
+  },
+  {
+    "name": "Città della Pieve",
+    "id": "17913",
+    "page": 28
+  },
+  {
+    "name": "Avellino",
+    "id": "17914",
+    "page": 28
+  },
+  {
+    "name": "Freiburg im Breisgau",
+    "id": "17915",
+    "page": 28
+  },
+  {
+    "name": "Waldenburg (Sachsen)",
+    "id": "17916",
+    "page": 28
+  },
+  {
+    "name": "Annaburg",
+    "id": "17917",
+    "page": 29
+  },
+  {
+    "name": "Grünberg (Hessen)",
+    "id": "17918",
+    "page": 29
+  },
+  {
+    "name": "Einghien",
+    "id": "17919",
+    "page": 29
+  },
+  {
+    "name": "Pyrenäen",
+    "id": "15642",
+    "page": 29
+  },
+  {
+    "name": "Jülich-Kleve-Berg",
+    "id": "17920",
+    "page": 29
+  },
+  {
+    "name": "Pfalz-Zweibrücken",
+    "id": "17921",
+    "page": 29
+  },
+  {
+    "name": "Grafschaft Mark",
+    "id": "17922",
+    "page": 29
+  },
+  {
+    "name": "Grafschaft Ravensberg",
+    "id": "17923",
+    "page": 29
+  },
+  {
+    "name": "Herrschaft Ravenstein",
+    "id": "17924",
+    "page": 29
+  },
+  {
+    "name": "Israel",
+    "id": "10514",
+    "page": 29
+  },
+  {
+    "name": "Dillingen a.d.Donau",
+    "id": "17928",
+    "page": 29
+  },
+  {
+    "name": "Lauingen a. d. Donau",
+    "id": "12505",
+    "page": 29
+  },
+  {
+    "name": "Caria",
+    "id": "17929",
+    "page": 29
+  },
+  {
+    "name": "Genua",
+    "id": "17930",
+    "page": 29
+  },
+  {
+    "name": "Toscana",
+    "id": "17931",
+    "page": 29
+  },
+  {
+    "name": "Mantova",
+    "id": "17932",
+    "page": 29
+  },
+  {
+    "name": "Parma",
+    "id": "17933",
+    "page": 29
+  },
+  {
+    "name": "Piacenza",
+    "id": "17934",
+    "page": 29
+  },
+  {
+    "name": "Massa",
+    "id": "17935",
+    "page": 29
+  },
+  {
+    "name": "Carrara",
+    "id": "17936",
+    "page": 29
+  },
+  {
+    "name": "Lucca",
+    "id": "17937",
+    "page": 29
+  },
+  {
+    "name": "Mirandola",
+    "id": "17938",
+    "page": 29
+  },
+  {
+    "name": "Savoia",
+    "id": "17939",
+    "page": 29
+  },
+  {
+    "name": "Päpstlicher Staat",
+    "id": "17940",
+    "page": 29
+  },
+  {
+    "name": "Schießplatz vor St. Johannis",
+    "id": "15461",
+    "page": 30
+  },
+  {
+    "name": "Amalfi",
+    "id": "15472",
+    "page": 30
+  },
+  {
+    "name": "Neapel (Königreich von Neapel)",
+    "id": "14969",
+    "page": 30
+  },
+  {
+    "name": "Spanische Kolonien",
+    "id": "14974",
+    "page": 30
+  },
+  {
+    "name": "Galați",
+    "id": "17941",
+    "page": 30
+  },
+  {
+    "name": "Galatz (Heute Galați)",
+    "id": "17942",
+    "page": 30
+  },
+  {
+    "name": "Padova",
+    "id": "17943",
+    "page": 30
+  },
+  {
+    "name": "Ferrara",
+    "id": "17944",
+    "page": 30
+  },
+  {
+    "name": "Sachsen bei Ansbach",
+    "id": "10712",
+    "page": 30
+  },
+  {
+    "name": "Arras",
+    "id": "17948",
+    "page": 30
+  },
+  {
+    "name": "Bracciano",
+    "id": "17949",
+    "page": 30
+  },
+  {
+    "name": "Küçük Kaynarca",
+    "id": "17950",
+    "page": 30
+  },
+  {
+    "name": "Siena",
+    "id": "17951",
+    "page": 30
+  },
+  {
+    "name": "Ofen (Heute Buda von Budapest)",
+    "id": "17952",
+    "page": 30
+  },
+  {
+    "name": "Ofen (Heute Buda in Budapest)",
+    "id": "17953",
+    "page": 30
+  },
+  {
+    "name": "Markneukirchen",
+    "id": "17954",
+    "page": 30
+  },
+  {
+    "name": "Dessau",
+    "id": "17955",
+    "page": 30
+  },
+  {
+    "name": "Sontra",
+    "id": "17956",
+    "page": 30
+  },
+  {
+    "name": "Brüssel",
+    "id": "10690",
+    "page": 30
+  },
+  {
+    "name": "Ann Arbor/MI",
+    "id": "17960",
+    "page": 30
+  },
+  {
+    "name": "Ann Arbor, Michigan",
+    "id": "10711",
+    "page": 30
+  },
+  {
+    "name": "Beyern",
+    "id": "17964",
+    "page": 30
+  },
+  {
+    "name": "Pomarance (Pisa)",
+    "id": "17965",
+    "page": 30
+  },
+  {
+    "name": "Bergedorf",
+    "id": "17966",
+    "page": 30
+  },
+  {
+    "name": "Lodi",
+    "id": "17967",
+    "page": 31
+  },
+  {
+    "name": "Murano (Venedig)",
+    "id": "17968",
+    "page": 31
+  },
+  {
+    "name": "Basel",
+    "id": "17969",
+    "page": 31
+  },
+  {
+    "name": "Weimar",
+    "id": "10884",
+    "page": 31
+  },
+  {
+    "name": "Rostock",
+    "id": "17973",
+    "page": 31
+  },
+  {
+    "name": "Halle",
+    "id": "10563",
+    "page": 31
+  },
+  {
+    "name": "Glashütten",
+    "id": "17974",
+    "page": 31
+  }
+]

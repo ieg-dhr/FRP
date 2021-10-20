@@ -1,0 +1,666 @@
+[
+  {
+    "Verwalter (Ort)": "Nürnberg",
+    "Verwalter (Bezeichnung)": "Germanisches Nationalmuseum",
+    "id": "31"
+  },
+  {
+    "Verwalter (Ort)": "Schwerin",
+    "Verwalter (Bezeichnung)": "Staatliches Museum Schwerin",
+    "id": "2035"
+  },
+  {
+    "Verwalter (Ort)": "Amsterdam",
+    "Verwalter (Bezeichnung)": "Rijksmuseum",
+    "id": "1066"
+  },
+  {
+    "Verwalter (Ort)": "Hannover",
+    "Verwalter (Bezeichnung)": "Niedersächsisches Landesmuseum",
+    "id": "3823"
+  },
+  {
+    "Verwalter (Ort)": "Coburg",
+    "Verwalter (Bezeichnung)": "Kunstsammlungen der Veste Coburg",
+    "id": "3824"
+  },
+  {
+    "Verwalter (Ort)": "Paris",
+    "id": "3825"
+  },
+  {
+    "Verwalter (Ort)": "Berlin",
+    "Verwalter (Bezeichnung)": "Kupferstichkabinett Berlin",
+    "id": "3826"
+  },
+  {
+    "Verwalter (Ort)": "Augsburg",
+    "Verwalter (Bezeichnung)": "Kunstsammlungen und Museen Augsburg",
+    "id": "3827"
+  },
+  {
+    "Verwalter (Ort)": "Darmstadt",
+    "Verwalter (Bezeichnung)": "Hessische Landesbibliothek",
+    "id": "3828"
+  },
+  {
+    "Verwalter (Ort)": "Gotha",
+    "Verwalter (Bezeichnung)": "Museen der Stadt Gotha",
+    "id": "3829"
+  },
+  {
+    "Verwalter (Ort)": "Wolfenbüttel",
+    "Verwalter (Bezeichnung)": "Herzog August Bibliothek",
+    "id": "115"
+  },
+  {
+    "Verwalter (Ort)": "Prag",
+    "Verwalter (Bezeichnung)": "Nationalmuseum Prag",
+    "id": "3830"
+  },
+  {
+    "Verwalter (Ort)": "Bamberg",
+    "Verwalter (Bezeichnung)": "Staatsbibliothek Bamberg",
+    "id": "3831"
+  },
+  {
+    "Verwalter (Ort)": "Berlin",
+    "Verwalter (Bezeichnung)": "Staatsbibliothek zu Berlin",
+    "id": "146"
+  },
+  {
+    "Verwalter (Ort)": "Ulm",
+    "Verwalter (Bezeichnung)": "Stadtbibliothek Ulm",
+    "id": "3832"
+  },
+  {
+    "Verwalter (Ort)": "Coburg",
+    "Verwalter (Bezeichnung)": "Landesbibliothek Coburg",
+    "id": "124"
+  },
+  {
+    "Verwalter (Ort)": "Den Haag",
+    "Verwalter (Bezeichnung)": "Königliche Bibliothek",
+    "id": "3833"
+  },
+  {
+    "Verwalter (Ort)": "Augsburg",
+    "Verwalter (Bezeichnung)": "Staats- und Stadtbibliothek Augsburg",
+    "id": "3834"
+  },
+  {
+    "Verwalter (Ort)": "Augsburg",
+    "Verwalter (Bezeichnung)": "Grafisches Kabinett im Höhmann-Haus",
+    "id": "3835"
+  },
+  {
+    "Verwalter (Ort)": "Stuttgart",
+    "Verwalter (Bezeichnung)": "Staatsgalerie, Graphische Sammlung",
+    "id": "3836"
+  },
+  {
+    "Verwalter (Ort)": "Rotterdam",
+    "Verwalter (Bezeichnung)": "Historisches Museum Rotterdam, Sammlung Atlas van Stolk",
+    "id": "3837"
+  },
+  {
+    "Verwalter (Ort)": "Rom",
+    "Verwalter (Bezeichnung)": "Biblioteca Vallicelliana",
+    "id": "1022"
+  },
+  {
+    "Verwalter (Ort)": "Amsterdam",
+    "Verwalter (Bezeichnung)": "De Nederlandsche Bank, Nationale Numismatische Collectie",
+    "id": "3838"
+  },
+  {
+    "Verwalter (Ort)": "London",
+    "Verwalter (Bezeichnung)": "British Museum",
+    "id": "3839"
+  },
+  {
+    "Verwalter (Ort)": "Dresden",
+    "Verwalter (Bezeichnung)": "Sächsische Landesbibliothek, Staats- und Universitätsbibliothek",
+    "id": "139"
+  },
+  {
+    "Verwalter (Ort)": "Berlin",
+    "Verwalter (Bezeichnung)": "Staatliche Museen zu Berlin, Münzkabinett",
+    "id": "1803"
+  },
+  {
+    "Verwalter (Ort)": "Nürnberg",
+    "Verwalter (Bezeichnung)": "Germanisches Nationalmuseum (Eigentum der Stadt Nürnberg)",
+    "id": "3490"
+  },
+  {
+    "Verwalter (Ort)": "Münster",
+    "Verwalter (Bezeichnung)": "LWL-Museum für Kunst und Kultur (Westfälisches Landesmuseum)/ Münzkabinett",
+    "id": "10084"
+  },
+  {
+    "Verwalter (Ort)": "Amsterdam",
+    "Verwalter (Bezeichnung)": "Universitätsbibliothek Amsterdam",
+    "id": "10085"
+  },
+  {
+    "Verwalter (Ort)": "Amsterdam",
+    "Verwalter (Bezeichnung)": "Freie Universität Amsterdam",
+    "id": "10086"
+  },
+  {
+    "Verwalter (Ort)": "Haarlem",
+    "Verwalter (Bezeichnung)": "Teylers Museum",
+    "id": "10087"
+  },
+  {
+    "Verwalter (Ort)": "Leiden",
+    "Verwalter (Bezeichnung)": "Universitätsbibliothek Leiden",
+    "id": "10089"
+  },
+  {
+    "Verwalter (Ort)": "Neapel",
+    "Verwalter (Bezeichnung)": "Biblioteca Nazionale Centrale Vittorio Emanuele III",
+    "id": "942"
+  },
+  {
+    "Verwalter (Ort)": "Straßburg",
+    "Verwalter (Bezeichnung)": "Bibliothèque nationale et universitaire de Strasbourg",
+    "id": "10108"
+  },
+  {
+    "Verwalter (Ort)": "Münster",
+    "Verwalter (Bezeichnung)": "Diözesanbibliothek Münster, Santini-Sammlung",
+    "id": "10091"
+  },
+  {
+    "Verwalter (Ort)": "München",
+    "Verwalter (Bezeichnung)": "Bayerische Staatsbibliothek",
+    "id": "269"
+  },
+  {
+    "Verwalter (Ort)": "Göttingen",
+    "Verwalter (Bezeichnung)": "Niedersächsische Staats- und Universitätsbibliothek",
+    "id": "484"
+  },
+  {
+    "Verwalter (Ort)": "Weimar",
+    "Verwalter (Bezeichnung)": "Herzogin Anna Amalia Bibliothek",
+    "id": "757"
+  },
+  {
+    "Verwalter (Ort)": "Halle",
+    "Verwalter (Bezeichnung)": "Universitäts- und Landesbibliothek Sachsen-Anhalt",
+    "id": "685"
+  },
+  {
+    "Verwalter (Ort)": "Den Haag",
+    "Verwalter (Bezeichnung)": "Stadtarchiv Den Haag",
+    "id": "10094"
+  },
+  {
+    "Verwalter (Ort)": "Haarlem",
+    "Verwalter (Bezeichnung)": "Stadtbibliothek Haarlem",
+    "id": "10095"
+  },
+  {
+    "Verwalter (Ort)": "Stuttgart",
+    "Verwalter (Bezeichnung)": "Württembergische Landesbibliothek",
+    "id": "777"
+  },
+  {
+    "Verwalter (Ort)": "Nürnberg",
+    "Verwalter (Bezeichnung)": "Stadtbibliothek Nürnberg",
+    "id": "694"
+  },
+  {
+    "Verwalter (Ort)": "Gotha\nErfurt",
+    "Verwalter (Bezeichnung)": "Universitäts- und Forschungsbibliothek Erfurt/Gotha",
+    "id": "852"
+  },
+  {
+    "Verwalter (Ort)": "Rom",
+    "Verwalter (Bezeichnung)": "Biblioteca Nazionale Centrale Vittorio Emanuele II",
+    "id": "975"
+  },
+  {
+    "Verwalter (Ort)": "Venedig",
+    "Verwalter (Bezeichnung)": "Biblioteca Nazionale Marciana",
+    "id": "2077"
+  },
+  {
+    "Verwalter (Ort)": "Bologna",
+    "Verwalter (Bezeichnung)": "Museo internazionale e Biblioteca della musica",
+    "id": "10096"
+  },
+  {
+    "Verwalter (Ort)": "Venedig",
+    "Verwalter (Bezeichnung)": "Biblioteche della Fondazione Giorgio Cini",
+    "id": "10097"
+  },
+  {
+    "Verwalter (Ort)": "Rom",
+    "Verwalter (Bezeichnung)": "Musikbibliothek - Deutsches Historisches Institut",
+    "id": "134"
+  },
+  {
+    "Verwalter (Ort)": "Den Haag",
+    "Verwalter (Bezeichnung)": "Haags Historisch Museum",
+    "id": "10098"
+  },
+  {
+    "Verwalter (Ort)": "London",
+    "Verwalter (Bezeichnung)": "The National Gallery (London)",
+    "id": "10099"
+  },
+  {
+    "Verwalter (Ort)": "Rom",
+    "Verwalter (Bezeichnung)": "Biblioteca Casanatense",
+    "id": "6345"
+  },
+  {
+    "Verwalter (Ort)": "Einghien",
+    "Verwalter (Bezeichnung)": " Archives d'Arenberg",
+    "id": "10101"
+  },
+  {
+    "Verwalter (Ort)": "Heiligenkreuz im Wienerwald",
+    "Verwalter (Bezeichnung)": "Musikarchiv des Zisterzienserstiftes",
+    "id": "10102"
+  },
+  {
+    "Verwalter (Ort)": "Madrid",
+    "Verwalter (Bezeichnung)": "Biblioteca Nacional de Madrid",
+    "id": "10103"
+  },
+  {
+    "Verwalter (Ort)": "Cambridge, MA",
+    "Verwalter (Bezeichnung)": "Harvard University Library",
+    "id": "10068"
+  },
+  {
+    "Verwalter (Ort)": "Oxford",
+    "Verwalter (Bezeichnung)": "Bodleian Library",
+    "id": "10051"
+  },
+  {
+    "Verwalter (Ort)": "London",
+    "Verwalter (Bezeichnung)": "British Library",
+    "id": "4113"
+  },
+  {
+    "Verwalter (Ort)": "Oxford",
+    "Verwalter (Bezeichnung)": "Ashmolean Museum of Art and Archeology",
+    "id": "10105"
+  },
+  {
+    "Verwalter (Ort)": "Straßburg",
+    "Verwalter (Bezeichnung)": "Grand Séminaire, Bibliothèque musicale",
+    "id": "10090"
+  },
+  {
+    "Verwalter (Ort)": "Mailand",
+    "Verwalter (Bezeichnung)": "Biblioteca Nazionale Braidense",
+    "id": "130"
+  },
+  {
+    "Verwalter (Ort)": "Manchester",
+    "Verwalter (Bezeichnung)": "Central Library, Henry Watson Music Library",
+    "id": "10111"
+  },
+  {
+    "Verwalter (Ort)": "Hamburg",
+    "Verwalter (Bezeichnung)": "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky",
+    "id": "377"
+  },
+  {
+    "Verwalter (Ort)": "Magdeburg",
+    "Verwalter (Bezeichnung)": "Otto-von-Guericke-Universitätsbibliothek",
+    "id": "10116"
+  },
+  {
+    "Verwalter (Ort)": "Frankfurt am Main",
+    "Verwalter (Bezeichnung)": "Universitätsbibliothek Johann Christian Senckenberg",
+    "id": "2048"
+  },
+  {
+    "Verwalter (Ort)": "Osnabrück",
+    "Verwalter (Bezeichnung)": "Universitätsbibliothek Osnabrück",
+    "id": "10117"
+  },
+  {
+    "Verwalter (Ort)": "Berlin",
+    "Verwalter (Bezeichnung)": "Humboldt-Universität zu Berlin, Universitätsbibliothek",
+    "id": "10118"
+  },
+  {
+    "Verwalter (Ort)": "Rom",
+    "Verwalter (Bezeichnung)": "Biblioteca di Archeologia e Storia dell'arte",
+    "id": "10119"
+  },
+  {
+    "Verwalter (Ort)": "Modena",
+    "Verwalter (Bezeichnung)": "Biblioteca  Estense Universitaria",
+    "id": "10120"
+  },
+  {
+    "Verwalter (Ort)": "Rostock",
+    "Verwalter (Bezeichnung)": "Universitätsbibliothek Rostock",
+    "id": "966"
+  },
+  {
+    "Verwalter (Ort)": "Wien",
+    "Verwalter (Bezeichnung)": "Österreichische Nationalbibliothek",
+    "id": "879"
+  },
+  {
+    "Verwalter (Ort)": "Braunschweig",
+    "Verwalter (Bezeichnung)": "Universitätsbibliothek Braunschweig",
+    "id": "3466"
+  },
+  {
+    "Verwalter (Ort)": "Venedig",
+    "Verwalter (Bezeichnung)": "Biblioteca della Fondazione Giorgio Cini",
+    "id": "10121"
+  },
+  {
+    "Verwalter (Ort)": "Zwickau",
+    "Verwalter (Bezeichnung)": "Ratsschulbibliothek Zwickau",
+    "id": "10123"
+  },
+  {
+    "Verwalter (Ort)": "Cambridge",
+    "Verwalter (Bezeichnung)": "Cambridge University Library",
+    "id": "10124"
+  },
+  {
+    "Verwalter (Ort)": "Hannover",
+    "Verwalter (Bezeichnung)": "Gottfried Wilhelm Leibniz Bibliothek",
+    "id": "10125"
+  },
+  {
+    "Verwalter (Ort)": "London",
+    "Verwalter (Bezeichnung)": "Dr. Williams' Library",
+    "id": "10126"
+  },
+  {
+    "Verwalter (Ort)": "Ann Arbor MI",
+    "Verwalter (Bezeichnung)": "Early American Imprints First Series",
+    "id": "9882"
+  },
+  {
+    "Verwalter (Ort)": "Den Haag",
+    "Verwalter (Bezeichnung)": "Koninklijke Bibliotheek, Nationale Bibliotheek van Nederland",
+    "id": "10127"
+  },
+  {
+    "Verwalter (Ort)": "Augsburg",
+    "Verwalter (Bezeichnung)": "Universitätsbibliothek Augsburg",
+    "id": "10128"
+  },
+  {
+    "Verwalter (Ort)": "Tübingen",
+    "Verwalter (Bezeichnung)": "Universitätsbibliothek Tübingen",
+    "id": "10129"
+  },
+  {
+    "Verwalter (Ort)": "Den Haag",
+    "Verwalter (Bezeichnung)": "Rijksbureau voor Kunsthistorische Documentatie",
+    "id": "10130"
+  },
+  {
+    "Verwalter (Ort)": "Neapel",
+    "Verwalter (Bezeichnung)": "Biblioteca del Conservatorio San Pietro a Majella",
+    "id": "10131"
+  },
+  {
+    "Verwalter (Ort)": "Wien",
+    "Verwalter (Bezeichnung)": "Archiv der Gesellschaft der Musikfreunde",
+    "id": "10132"
+  },
+  {
+    "Verwalter (Ort)": "Isola Bella ",
+    "Verwalter (Bezeichnung)": "Archivio Borromeo Isola Bella",
+    "id": "10133"
+  },
+  {
+    "Verwalter (Ort)": "Vercelli",
+    "Verwalter (Bezeichnung)": "Archivio Arcivescovile di Vercelli",
+    "id": "10134"
+  },
+  {
+    "Verwalter (Ort)": "Hamburg",
+    "Verwalter (Bezeichnung)": "Staatsarchiv der Freien und Hansestadt Hamburg",
+    "id": "4201"
+  },
+  {
+    "Verwalter (Ort)": "Jena",
+    "Verwalter (Bezeichnung)": "Thüringer Universitäts- und Landesbibliothek",
+    "id": "10135"
+  },
+  {
+    "Verwalter (Ort)": "Emden",
+    "Verwalter (Bezeichnung)": "Johannes a Lasco Bibliothek",
+    "id": "10136"
+  },
+  {
+    "Verwalter (Ort)": "Helmstedt",
+    "Verwalter (Bezeichnung)": "Ehemalige Universitätsbibliothek Helmstedt",
+    "id": "10138"
+  },
+  {
+    "Verwalter (Ort)": "San Marino",
+    "Verwalter (Bezeichnung)": "The Huntington Library",
+    "id": "10139"
+  },
+  {
+    "Verwalter (Ort)": "Erlangen",
+    "Verwalter (Bezeichnung)": "Universitätsbibliothek Erlangen-Nürnberg",
+    "id": "10140"
+  },
+  {
+    "Verwalter (Ort)": "New York",
+    "Verwalter (Bezeichnung)": "Burke Library at Union Theological Seminary",
+    "id": "10141"
+  },
+  {
+    "Verwalter (Ort)": "Durham",
+    "Verwalter (Bezeichnung)": "University Library Durham",
+    "id": "10142"
+  },
+  {
+    "Verwalter (Ort)": "Washington, DC",
+    "Verwalter (Bezeichnung)": "Folger Shakespeare Library",
+    "id": "10143"
+  },
+  {
+    "Verwalter (Ort)": "Hannover",
+    "Verwalter (Bezeichnung)": "Stadtbibliothek Hannover, Musikbibliothek",
+    "id": "10144"
+  },
+  {
+    "Verwalter (Ort)": "Berlin",
+    "Verwalter (Bezeichnung)": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv",
+    "id": "994"
+  },
+  {
+    "Verwalter (Ort)": "Lyon",
+    "id": "10145",
+    "Verwalter (Bezeichnung)": "Bibliothèque Municipale de Lyon"
+  },
+  {
+    "Verwalter (Ort)": "Stuttgart",
+    "Verwalter (Bezeichnung)": "Landesmuseum Württemberg, Münzkabinett",
+    "id": "218"
+  },
+  {
+    "Verwalter (Ort)": "Ravensburg",
+    "Verwalter (Bezeichnung)": "Museum Humpis-Quartier",
+    "id": "10146"
+  },
+  {
+    "Verwalter (Ort)": "Greifswald",
+    "Verwalter (Bezeichnung)": "Universitätsbibliothek Greifswald",
+    "id": "10147"
+  },
+  {
+    "Verwalter (Ort)": "Cambridge",
+    "Verwalter (Bezeichnung)": "Cambridge University Magdalene College",
+    "id": "10046"
+  },
+  {
+    "Verwalter (Ort)": "Oxford",
+    "Verwalter (Bezeichnung)": "Oxford University Pembroke College",
+    "id": "10148"
+  },
+  {
+    "Verwalter (Ort)": "Hamburg",
+    "Verwalter (Bezeichnung)": "Bibliotheks- und Medienzentrum der Nordkirche",
+    "id": "10149"
+  },
+  {
+    "Verwalter (Ort)": "Boston",
+    "Verwalter (Bezeichnung)": "Boston Public Library",
+    "id": "10151"
+  },
+  {
+    "Verwalter (Ort)": "Washington, DC",
+    "Verwalter (Bezeichnung)": "Library of Congress",
+    "id": "9899"
+  },
+  {
+    "Verwalter (Ort)": "Belfast",
+    "Verwalter (Bezeichnung)": "Union Theological College",
+    "id": "10152"
+  },
+  {
+    "Verwalter (Ort)": "Cambridge",
+    "Verwalter (Bezeichnung)": "Cambridge University Queens' College",
+    "id": "10153"
+  },
+  {
+    "Verwalter (Ort)": "Cambridge",
+    "Verwalter (Bezeichnung)": "Trinity College Library Cambridge",
+    "id": "10154"
+  },
+  {
+    "Verwalter (Ort)": "Dublin",
+    "Verwalter (Bezeichnung)": "Trinity College Library Dublin",
+    "id": "10155"
+  },
+  {
+    "Verwalter (Ort)": "Nürnberg",
+    "Verwalter (Bezeichnung)": "Museen der Stadt Nürnberg, Stadtmuseum im Fembo-Haus",
+    "id": "10156"
+  },
+  {
+    "Verwalter (Ort)": "Saarbrücken",
+    "Verwalter (Bezeichnung)": "Saarländische Universitäts- und Landesbibliothek",
+    "id": "10157"
+  },
+  {
+    "Verwalter (Ort)": "Halberstadt",
+    "Verwalter (Bezeichnung)": "Das Gleimhaus",
+    "id": "10158"
+  },
+  {
+    "Verwalter (Ort)": "Schwerin",
+    "Verwalter (Bezeichnung)": "Landesbibliothek Mecklenburg-Vorpommern",
+    "id": "10159"
+  },
+  {
+    "Verwalter (Ort)": "Braunschweig",
+    "Verwalter (Bezeichnung)": "Stadtbibliothek Braunschweig",
+    "id": "10160"
+  },
+  {
+    "Verwalter (Ort)": "Halle",
+    "Verwalter (Bezeichnung)": "Marienbibliothek",
+    "id": "10161"
+  },
+  {
+    "Verwalter (Ort)": "Wroclaw",
+    "Verwalter (Bezeichnung)": "Biblioteka Uniwersytecka",
+    "id": "10162"
+  },
+  {
+    "Verwalter (Ort)": "Regensburg",
+    "Verwalter (Bezeichnung)": "Staatliche Bibliothek",
+    "id": "10163"
+  },
+  {
+    "Verwalter (Ort)": "Lutherstadt Wittenberg",
+    "Verwalter (Bezeichnung)": "Bibliothek des evangelischen Predigerseminars",
+    "id": "10164"
+  },
+  {
+    "Verwalter (Ort)": "Lausanne-Dorigny",
+    "id": "10166",
+    "Verwalter (Bezeichnung)": "Bibliothèque cantonale et universitaire"
+  },
+  {
+    "Verwalter (Ort)": "Dresden",
+    "Verwalter (Bezeichnung)": "Staatliche Kunstsammlungen Dresden, Münzkabinett",
+    "id": "866"
+  },
+  {
+    "Verwalter (Ort)": "Nürnberg",
+    "Verwalter (Bezeichnung)": "Stadtarchiv Nürnberg",
+    "id": "10167"
+  },
+  {
+    "Verwalter (Ort)": "Berlin",
+    "Verwalter (Bezeichnung)": "Deutsches Historisches Museum",
+    "id": "10168"
+  },
+  {
+    "Verwalter (Ort)": "Mailand",
+    "Verwalter (Bezeichnung)": "Biblioteca e archivio. Civica raccolta delle stampe Achille Bertarelli",
+    "id": "10170"
+  },
+  {
+    "Verwalter (Ort)": "Mailand",
+    "Verwalter (Bezeichnung)": "Biblioteca del Conservatorio Statale di Musica Giuseppe Verdi",
+    "id": "1566"
+  },
+  {
+    "Verwalter (Ort)": "Augsburg",
+    "Verwalter (Bezeichnung)": "Nonnenmacher, Michael u. Renz, Wolfgang",
+    "id": "4210"
+  },
+  {
+    "Verwalter (Ort)": "Avellino",
+    "Verwalter (Bezeichnung)": "Biblioteca provinciale Scipione e Giulio Capone",
+    "id": "4745"
+  },
+  {
+    "Verwalter (Ort)": "Freiburg im Breisgau",
+    "Verwalter (Bezeichnung)": "Universitätsbibliothek Freiburg",
+    "id": "10171"
+  },
+  {
+    "Verwalter (Ort)": "Darmstadt",
+    "Verwalter (Bezeichnung)": "Universitäts- und Landesbibliothek Darmstadt",
+    "id": "4552"
+  },
+  {
+    "Verwalter (Ort)": "Brüssel",
+    "Verwalter (Bezeichnung)": "Conservatoire Royal de Musique, Bibliothèque, Koninklijk Conservatorium, Bibliotheek",
+    "id": "4212"
+  },
+  {
+    "Verwalter (Ort)": "Ann Arbor, Michigan",
+    "Verwalter (Bezeichnung)": "University of Michigan, Music Library",
+    "id": "2073"
+  },
+  {
+    "Verwalter (Ort)": "Magdeburg",
+    "Verwalter (Bezeichnung)": "Zentrum für Telemann-Pflege und -Forschung Magdeburg, Bibliothek",
+    "id": "2046"
+  },
+  {
+    "Verwalter (Ort)": "Neapel",
+    "Verwalter (Bezeichnung)": "Biblioteca Oratoriana del Monumento Nazionale dei Girolamini di Napoli",
+    "id": "10172"
+  }
+]

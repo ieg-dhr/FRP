@@ -54,3 +54,4 @@ exclude:
   - Gemfile.lock
   - node_modules/
   - _assets/
+  - _raw_data/

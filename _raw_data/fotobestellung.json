@@ -1,0 +1,2300 @@
+[
+  {
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "Nur Jpeg.",
+    "Bildnachweis": "Testinstitution/Testagentur/Martin Mustermann/HB0001",
+    "Inventarnummer/Signatur Duplikat": "Duplikat Test_01",
+    "id": "3103"
+  },
+  {
+    "Inventarnummer/Signatur": "RP-P-OB-68.188",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "Public Domain",
+    "Bildnachweis": "Rijksmuseum Amsterdam, RP-P-OB-68.188.",
+    "id": "3104"
+  },
+  {
+    "Inventarnummer/Signatur": "NG896",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "Copyright Notice, Disclaimer, Link zur Lizenz: https://creativecommons.org/licenses/by-nc-nd/4.0/ Link zum Objekt: http://www.nationalgallery.org.uk/paintings/gerard-ter-borch-the-ratification-of-the-treaty-of-munster",
+    "Bildnachweis": "Copyright The National Gallery, London 2017 (CC BY-NC-ND 4.0)",
+    "id": "3105"
+  },
+  {
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "72 dpi",
+    "Bildnachweis": "British Library Board C.161.f.1.(36)",
+    "Inventarnummer/Signatur Duplikat": "74/C.161.f.1.(36.)",
+    "id": "3106"
+  },
+  {
+    "Inventarnummer/Signatur": "MK20003",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "Fotonachweis: Landesmuseum Württemberg, Hendrik Zwietasch",
+    "Bildnachweis": "Landesmuseum Württemberg, Hendrik Zwietasch",
+    "id": "3107"
+  },
+  {
+    "Inventarnummer/Signatur": "18206339",
+    "Status": "Foto bestellt",
+    "Auflagen": "max. 100 x 100 dpi; Link zum Objekt in der Datenbank des MüKa Berlin",
+    "Bildnachweis": "Münzkabinett der staatlichen Museen zu Berlin, 18206339, Foto: Lutz-Jürgen Lübke.",
+    "id": "3108"
+  },
+  {
+    "Inventarnummer/Signatur": "26252 Mz",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "Zusendung des Links der Datenbank",
+    "Bildnachweis": "LWL-Museum für Kunst und Kultur (Westfälisches Landesmuseum), Münster/ Sabine Ahlbrand-Dornseif",
+    "id": "3109"
+  },
+  {
+    "Inventarnummer/Signatur": "DP 1011",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Photo RKD – Netherlands Institute for Art History, The Hague",
+    "id": "3110"
+  },
+  {
+    "Inventarnummer/Signatur": "B 8, Nr. 149/5",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Stadtarchiv Nürnberg, B 8, Nr. 149.",
+    "id": "3111"
+  },
+  {
+    "Inventarnummer/Signatur": "B 8, Nr. 149/3",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Stadtarchiv Nürnberg, B 8, Nr. 149 ",
+    "id": "3112"
+  },
+  {
+    "Inventarnummer/Signatur": "Xb 1704",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 3.0 + Fotonachweis. Fotonachweise auf den Bildern dürfen nicht abgeschnitten werden.",
+    "Bildnachweis": "HAB Wolfenbüttel - Xb 1704, CC BY-SA 3.0",
+    "id": "3113"
+  },
+  {
+    "Inventarnummer/Signatur": "IH 241",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 3.0 + Fotonachweis. Fotonachweise auf den Bildern dürfen nicht abgeschnitten werden.",
+    "Bildnachweis": "HAB Wolfenbüttel: IH 241 ",
+    "id": "3114"
+  },
+  {
+    "Inventarnummer/Signatur": "A: 65.5 Pol.",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 3.0 + Fotonachweis. Fotonachweise auf den Bildern dürfen nicht abgeschnitten werden.",
+    "Bildnachweis": "HAB Wolfenbüttel - A: 65.5 Pol., CC BY-SA 3.0",
+    "id": "3115"
+  },
+  {
+    "Inventarnummer/Signatur": "Gl 488",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 3.0 + Fotonachweis. Fotonachweise auf den Bildern dürfen nicht abgeschnitten werden.",
+    "Bildnachweis": "HAB Wolfenbüttel: Gl 488  (CC BY-SA 3.0)",
+    "id": "3116"
+  },
+  {
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 3.0 + Fotonachweis. Fotonachweise auf den Bildern dürfen nicht abgeschnitten werden.",
+    "Bildnachweis": "HAB Wolfenbüttel: A: 65.15 Poet. (1) ",
+    "Inventarnummer/Signatur Duplikat": "A: 65.15 Poet. (1)",
+    "id": "3117"
+  },
+  {
+    "Inventarnummer/Signatur": "A 2010/7683 (KK)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "72DPI, vor Download und Einbindung auf anderen Websites schützen. Nach Fertigstellung Link zusenden",
+    "Bildnachweis": "Staatsgalerie Stuttgart, Graphische Sammlung, A 2010/7683 (KK).",
+    "id": "3118"
+  },
+  {
+    "Inventarnummer/Signatur": "TMNK 02073",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "Public Domain",
+    "Bildnachweis": "Teylers Museum Haarlem Holland",
+    "id": "3119"
+  },
+  {
+    "Inventarnummer/Signatur": "OEW0149.03",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Museum Humpis-Quartier, Leihgabe des Zweckverbands Oberschwäbische Elektrizitätswerke, OEW0149.03.",
+    "id": "3120"
+  },
+  {
+    "Inventarnummer/Signatur": "B 2410",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 3.0 DE",
+    "Bildnachweis": "SLUB Dresden / B 2410 (CC BY-SA 3.0 DE)",
+    "id": "3121"
+  },
+  {
+    "Inventarnummer/Signatur": "Gm 9",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "72DPI, vor Download und Einbindung auf anderen Websites schützen. Nach Fertigstellung Link zusenden",
+    "Bildnachweis": "Museen der Stadt Nürnberg, Kunstsammlungen.",
+    "id": "3122"
+  },
+  {
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Stadtbibliothek Nürnberg, Ebl. 20.021.",
+    "Inventarnummer/Signatur Duplikat": "Ebl. 20.021",
+    "id": "3123"
+  },
+  {
+    "Inventarnummer/Signatur": "Gm 0189",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "72DPI, vor Download und Einbindung auf anderen Websites schützen. Nach Fertigstellung Link zusenden",
+    "Bildnachweis": "Museen der Stadt Nürnberg, Kunstsammlungen.",
+    "id": "3124"
+  },
+  {
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "Zusendung des Links der Datenbank",
+    "Bildnachweis": "Stadtbibliothek Nürnberg, Nor. 172.2°(1)",
+    "Inventarnummer/Signatur Duplikat": "Nor. 172.2°(1)",
+    "id": "1794"
+  },
+  {
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 3.0 + Fotonachweis. Fotonachweise auf den Bildern dürfen nicht abgeschnitten werden.",
+    "Bildnachweis": "HAB Wolfenbüttel: IH 248 ",
+    "Inventarnummer/Signatur Duplikat": "IH 248",
+    "id": "17199"
+  },
+  {
+    "Inventarnummer/Signatur": "TMNK 00526",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Teylers Museum Haarlem Holland",
+    "id": "17200"
+  },
+  {
+    "Inventarnummer/Signatur": "BGB1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "Fotonachweis: Hinweis auf Standort und Inventarnummer",
+    "Bildnachweis": "Münzkabinett, Staatliche Kunstsammlungen Dresden (Foto: Kathleen Dittrich)",
+    "id": "6205"
+  },
+  {
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "Zusendung des Links der Datenbank. Abbildungen in Bildschirmqualität (Thumbnails: Hochformat: 80 Pixel Breite und Querformat: 130 Pixel; Bildschirmgrafik: Hochformat 600 Pixel Höhe und Querformat: 700 Pixel Breite",
+    "Bildnachweis": "LWL-Museum für Kunst und Kultur (Westfälisches Landesmuseum), Münster / Sabine Ahlbrand-Dornseif",
+    "Inventarnummer/Signatur Duplikat": "26239 Mz",
+    "id": "17201"
+  },
+  {
+    "Inventarnummer/Signatur": "LP P 8° III, 00019 (02)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "Forschungsbibliothek Gotha der Universität Erfurt - LP P 8° III, 00019 (02),\tCC-BY-SA 4.0",
+    "id": "5592"
+  },
+  {
+    "Inventarnummer/Signatur": "Pon Vc 4553, QK",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "Universitäts- und Landesbibliothek Sachsen-Anhalt - Pon Vc 4553, QK, CC BY-SA 4.0",
+    "id": "5176"
+  },
+  {
+    "Inventarnummer/Signatur": "Pon Yd 4966, QK",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "Universitäts- und Landesbibliothek Sachsen-Anhalt - Pon Yd 4966, QK, CC BY-SA 4.0",
+    "id": "6099"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist.Germ.C.583,30",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 4.0 International",
+    "Bildnachweis": "SLUB Dresden - Hist.Germ.C.583,30, CC BY-SA 4.0 International",
+    "id": "8172"
+  },
+  {
+    "Inventarnummer/Signatur": "Res/Bavar. 5199 a",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "NO COPYRIGHT - NON-COMMERCIAL USE ONLY http://rightsstatements.org/vocab/NoC-NC/1.0/",
+    "Bildnachweis": "BSB München - Res/Bavar. 5199 a, S. 3",
+    "id": "5763"
+  },
+  {
+    "Inventarnummer/Signatur": "Pon Ya 1625, QK",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "Universitäts- und Landesbibliothek Sachsen-Anhalt - Pon Ya 1625, QK, CC BY-SA 4.0",
+    "id": "1731"
+  },
+  {
+    "Inventarnummer/Signatur": "Pon Vd 3134",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "Universitäts- und Landesbibliothek Sachsen-Anhalt - Pon Vd 3134, CC BY-SA 4.0",
+    "id": "5202"
+  },
+  {
+    "Inventarnummer/Signatur": "34 in: 50 MA 46065",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-SA 4.0 International",
+    "Bildnachweis": "Staatsbibliothek zu Berlin - PK - 34 in: 50 MA 46065, CC BY-NC-SA 4.0 International",
+    "id": "1595"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist.Germ.D.348,2",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-ND 3.0 DE",
+    "Bildnachweis": "SLUB / Hist.Germ.D.348,2 (CC BY-NC-ND 3.0 DE)",
+    "id": "17202"
+  },
+  {
+    "Inventarnummer/Signatur": "Cf-7370(3).6",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-SA 3.0 DE",
+    "Bildnachweis": "UB Rostock / Cf-7370(3).6 (CC BY-NC-SA 3.0 DE): ",
+    "id": "17203"
+  },
+  {
+    "Inventarnummer/Signatur": "C 349.4° Helmst. (2)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-SA 3.0 DE)",
+    "Bildnachweis": "Herzog August Bibliothek Wolfenbüttel: C 349.4° Helmst. (2) ",
+    "id": "17204"
+  },
+  {
+    "Inventarnummer/Signatur": "916373 4 Hom. 1616 (1)",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "NO COPYRIGHT - NON-COMMERCIAL USE ONLY http://rightsstatements.org/vocab/NoC-NC/1.0/",
+    "Bildnachweis": "Bayerische Staatsbibliothek München, 916373 4 Hom. 1616, S. 31, urn:nbn:de:bvb:12-bsb10365450-5",
+    "id": "17206"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist.Sax.C.906",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-NC-ND 3.0 DE",
+    "Bildnachweis": "SLUB / Hist.Sax.C.906 (CC BY-NC-ND 3.0 DE)",
+    "id": "17207"
+  },
+  {
+    "Inventarnummer/Signatur": "158.3 Theol.",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 3.0 + Fotonachweis. Fotonachweise auf den Bildern dürfen nicht abgeschnitten werden.",
+    "Bildnachweis": "HAB Wolfenbüttel: 158.3 Theol. ",
+    "id": "17208"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist.Sax.H.102,12",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-NC-ND 3.0 DE",
+    "Bildnachweis": "SLUB / Hist.Sax.H.102,12 (CC BY-NC-ND 3.0 DE)",
+    "id": "17209"
+  },
+  {
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 4.0",
+    "id": "6727"
+  },
+  {
+    "Inventarnummer/Signatur": "Pon Yb 531, QK",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "Universitäts- und Landesbibliothek Sachsen-Anhalt - Pon Yb 531, QK, CC BY-SA 4.0",
+    "id": "6697"
+  },
+  {
+    "Inventarnummer/Signatur": "AB 43 14/k, 3 (14)",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "Universitäts- und Landesbibliothek Sachsen-Anhalt, AB 43 14/k, 3 (14) urn:nbn:de:gbv:3:1-309516 (CC BY-SA 4.0)",
+    "id": "17210"
+  },
+  {
+    "Inventarnummer/Signatur": "Xb 146 (14)",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-SA 3.0 DE)",
+    "Bildnachweis": "HAB Wolfenbüttel - Xb 146 (14), CC BY-SA 3.0 DE",
+    "id": "10730"
+  },
+  {
+    "Inventarnummer/Signatur": "Res/2 Hom. 442,VIII,1",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "No copyright – non-commercial use only ",
+    "Bildnachweis": "BSB München - Res/2 Hom. 442,VIII,1, S. 5",
+    "id": "5416"
+  },
+  {
+    "Inventarnummer/Signatur": "463.3 Theol. 2° (3)",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-SA 3.0 DE)",
+    "Bildnachweis": "HAB Wolfenbüttel - 463.3 Theol. 2° (3), CC BY-SA 3.0 DE",
+    "id": "3462"
+  },
+  {
+    "Inventarnummer/Signatur": "DD90 A 33219 (9)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY 4.0",
+    "Bildnachweis": "Niedersächsische Staats- und Universitätsbibliothek, DD90 A 33219 (9) ",
+    "id": "17211"
+  },
+  {
+    "Inventarnummer/Signatur": "Theol.ev.asc.490",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-NC-ND 3.0 DE",
+    "Bildnachweis": "SLUB / Theol.ev.asc.490 (CC BY-NC-ND 3.0 DE)",
+    "id": "17212"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist 8° 01392-1393 (23)",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "Forschungsbibliothek Gotha der Universität Erfurt - Hist 8° 01392-1393 (23), CC-BY-SA 4.0",
+    "id": "5087"
+  },
+  {
+    "Inventarnummer/Signatur": "DD97 A 168",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "Niedersächsische Staats- und Universitätsbibliothek Göttingen - DD97 A 168, CC BY-SA 4.0",
+    "id": "6221"
+  },
+  {
+    "Inventarnummer/Signatur": "H00/4 THL-(XVIIII 100)-25",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 3.0 + Fotonachweis. Fotonachweise auf den Bildern dürfen nicht abgeschnitten werden.",
+    "Bildnachweis": "Universitätsbibliothek Erlangen-Nürnberg, H00/4 THL-(XVIIII 100)-25, CC-BY-SA-3.0.",
+    "id": "17213"
+  },
+  {
+    "Inventarnummer/Signatur": "G 4582",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 3.0 + Fotonachweis. Fotonachweise auf den Bildern dürfen nicht abgeschnitten werden.",
+    "Bildnachweis": "Universitätsbibliothek Freiburg im Breisgau, G 4582  (CC BY-SA 3.0)",
+    "id": "17214"
+  },
+  {
+    "Inventarnummer/Signatur": "A: 145.4 Theol. (3)",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 3.0 + Fotonachweis. Fotonachweise auf den Bildern dürfen nicht abgeschnitten werden.",
+    "Bildnachweis": "HAB Wolfenbüttel: A: 145.4 Theol. (3) ",
+    "id": "17215"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist.Sax.C.1098",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0 International",
+    "Bildnachweis": "SLUB Dresden -  Hist.Sax.C.1098, CC BY-SA 4.0 International",
+    "id": "4938"
+  },
+  {
+    "Inventarnummer/Signatur": "4 .479#Beibd.12",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "NO COPYRIGHT - NON-COMMERCIAL USE ONLY http://rightsstatements.org/vocab/NoC-NC/1.0/",
+    "Bildnachweis": "Bayerische Staatsbibliothek München, 4 .479#Beibd.12, S. 1, urn:nbn:de:bvb:12-bsb10637547-2",
+    "id": "17216"
+  },
+  {
+    "Inventarnummer/Signatur": "A: 145.4 Theol. (5)",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-SA 3.0 DE)",
+    "Bildnachweis": "HAB Wolfenbüttel: A: 145.4 Theol. (5) ",
+    "id": "17217"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist.Sax.C.1100",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-NC-ND 3.0 DE",
+    "Bildnachweis": "SLUB / Hist.Sax.C.1100 (CC BY-NC-ND 3.0 DE)",
+    "id": "17218"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist.Germ.C.584,48",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-NC-ND 3.0 DE",
+    "Bildnachweis": "SLUB / Hist.Germ.C.584,48 (CC BY-NC-ND 3.0 DE)",
+    "id": "17219"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist.Sax.C.1005",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-NC-ND 3.0 DE",
+    "Bildnachweis": "SLUB Dresden - Hist.Sax.C.1005, CC BY-NC-ND 3.0 DE",
+    "id": "5334"
+  },
+  {
+    "Inventarnummer/Signatur": "4 CONC FUN II, 97",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY 4.0",
+    "Bildnachweis": "Niedersächsische Staats- und Universitätsbibliothek Göttingen, 4 CONC FUN II, 97 ",
+    "id": "17220"
+  },
+  {
+    "Inventarnummer/Signatur": "4 CONC FUN II, 97 (1)",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY 4.0",
+    "Bildnachweis": "Niedersächsische Staats- und Universitätsbibliothek, 4 CONC FUN II, 97 ",
+    "id": "17221"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist 8° 01398-1401 (13)",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "Forschungsbibliothek Gotha der Universität Erfurt, Hist 8° 01398-1401 (13) ",
+    "id": "17222"
+  },
+  {
+    "Inventarnummer/Signatur": "393.13 Theol. (19)",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 3.0 + Fotonachweis. Fotonachweise auf den Bildern dürfen nicht abgeschnitten werden.",
+    "Bildnachweis": "HAB Wolfenbüttel - 393.13 Theol. (19)",
+    "id": "6177"
+  },
+  {
+    "Inventarnummer/Signatur": "221.8 Theol.",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 3.0 + Fotonachweis. Fotonachweise auf den Bildern dürfen nicht abgeschnitten werden.",
+    "Bildnachweis": "HAB Wolfenbüttel: 221.8 Theol. ",
+    "id": "17223"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist.Germ.C.583,3",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-NC-ND 3.0 DE",
+    "Bildnachweis": "SLUB / Hist.Germ.C.583,3 (CC BY-NC-ND 3.0 DE)",
+    "id": "17224"
+  },
+  {
+    "Inventarnummer/Signatur": "an Im 3503 (12)",
+    "Status": "Foto bestellt",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "Universitäts- und Landesbibliothek Sachsen-Anhalt, an Im 3503 (12) ",
+    "id": "17225"
+  },
+  {
+    "Inventarnummer/Signatur": "AB 152988 (17)",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "Universitäts- und Landesbibliothek Sachsen-Anhalt, Halle ",
+    "id": "17226"
+  },
+  {
+    "Inventarnummer/Signatur": "4 Hom. 1732 f",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "NO COPYRIGHT - NON-COMMERCIAL USE ONLY http://rightsstatements.org/vocab/NoC-NC/1.0/",
+    "Bildnachweis": "BSB München - 4 Hom. 1732 f, S. 5",
+    "id": "5439"
+  },
+  {
+    "Inventarnummer/Signatur": "Theol.ev.asc.314.b,misc.4",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-NC-ND 3.0 DE",
+    "Bildnachweis": "SLUB - Theol.ev.asc.314.b,misc.4, CC BY-NC-ND 3.0 DE",
+    "id": "10804"
+  },
+  {
+    "Inventarnummer/Signatur": "Pon Vc 3232, QK",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "Universitäts- und Landesbibliothek Sachsen-Anhalt - Pon Vc 3232, CC BY-SA 4.0",
+    "id": "6084"
+  },
+  {
+    "Inventarnummer/Signatur": "3 in: Yk 8661",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-NC-SA 3.0 DE",
+    "Bildnachweis": "Stabi Berlin - 3 in: Yk 8661, CC BY-NC-SA 3.0 DE",
+    "id": "6145"
+  },
+  {
+    "Inventarnummer/Signatur": "4 in: Yk 8661",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-NC-SA 3.0 DE",
+    "Bildnachweis": "Stabi Berlin - 4 inYk 8661, CC BY-NC-SA 3.0 DE",
+    "id": "4785"
+  },
+  {
+    "Inventarnummer/Signatur": "8 P GERM I, 6478 (1)",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "SUB Göttingen - 8 P GERM I, 6478 (1), CC-BY-Lizenz",
+    "id": "10542"
+  },
+  {
+    "Inventarnummer/Signatur": "Film R 2001.281,KPA-1374",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "BSB München - Film R 2001.281,KPA-1374",
+    "id": "5304"
+  },
+  {
+    "Inventarnummer/Signatur": "A/246885",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 4.0 International",
+    "Bildnachweis": "Staats- und Universitätsbibliothek Hamburg - A/246885, CC BY-SA 4.0",
+    "id": "10965"
+  },
+  {
+    "Inventarnummer/Signatur": "220732-B",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "NO COPYRIGHT - NON-COMMERCIAL USE ONLY http://rightsstatements.org/vocab/NoC-NC/1.0/",
+    "Bildnachweis": "Österreichische Nationalbibliothek - 220732-B",
+    "id": "5493"
+  },
+  {
+    "Inventarnummer/Signatur": "Huld C 103",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Klassik Stiftung Weimar/HAAB - Huld C 103",
+    "id": "6514"
+  },
+  {
+    "Inventarnummer/Signatur": "240924 - A",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Klassik Stiftung Weimar/HAAB- 240924 - A",
+    "id": "5276"
+  },
+  {
+    "Inventarnummer/Signatur": "O 9 : 243",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Klassik Stiftung Weimar/HAAB - O 9 : 243 ",
+    "id": "10889"
+  },
+  {
+    "Inventarnummer/Signatur": "Einbl. XI,255",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-SA 4.0 International",
+    "Bildnachweis": "BSB München - Einbl. XI,255, CC BY-NC-SA 4.0 International",
+    "id": "4722"
+  },
+  {
+    "Inventarnummer/Signatur": "AB 154791 (5)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0 International",
+    "Bildnachweis": "Universitäts- und Landesbibliothek Sachsen-Anhalt, AB 154791 (5) ",
+    "id": "17227"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist.Sax.C.81,122",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "SLUB / Hist.Sax.C.81,122 (CC BY-SA 4.0)",
+    "id": "17228"
+  },
+  {
+    "Inventarnummer/Signatur": "2005 A 3754(9)",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Thüringer Universitäts- und Landesbibliothek, 2005 A 3754(9) ",
+    "id": "17229"
+  },
+  {
+    "Inventarnummer/Signatur": "Fl-1144.1",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-SA 4.0 International",
+    "Bildnachweis": "Universitätsbibliothek Rostock, Fl-1144.1  (CC BY-SA 4.0 International)",
+    "id": "17230"
+  },
+  {
+    "Inventarnummer/Signatur": "3 an Solg. 4. 368",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Stadtbibliothek im Bildungscampus Nürnberg, 3 an Solg. 4. 368",
+    "id": "17231"
+  },
+  {
+    "Inventarnummer/Signatur": "Pon Vc 4580, QK",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC 3.0 DE",
+    "Bildnachweis": "ULB Sachsen-Anhalt - Pon Vc 4580, QK, CC BY-NC 3.0 DE",
+    "id": "6367"
+  },
+  {
+    "Inventarnummer/Signatur": "886.7 Theol. (2)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 3.0 + Fotonachweis. ",
+    "Bildnachweis": "HAB Wolfenbüttel, 886.7 Theol. (2) ",
+    "id": "17232"
+  },
+  {
+    "Inventarnummer/Signatur": "317.15 Theol. (16)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 3.0 + Fotonachweis. Fotonachweise auf den Bildern dürfen nicht abgeschnitten werden.",
+    "Bildnachweis": "HAB Wolfenbüttel, 317.15 Theol. (16) ",
+    "id": "17233"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist.Germ.C.579,30",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-ND 3.0 DE",
+    "Bildnachweis": "SLUB Dresden / Hist. Germ. C. 579,30 / ",
+    "id": "4239"
+  },
+  {
+    "Inventarnummer/Signatur": "67 in: Yf 6653",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "CC BY-NC-SA 4.0 International",
+    "Bildnachweis": "Staatsbibliothek zu Berlin - PK, 67 in: Yf 6653, CC BY-NC-SA 4.0 International",
+    "id": "10765"
+  },
+  {
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Universitäts- und Landesbibliothek Sachsen-Anhalt, http://nbn-resolving.de/urn:nbn:de:gbv:3:1-35005 (CC BY-SA 4.0)",
+    "Inventarnummer/Signatur Duplikat": "Pon Vc 3377, QK",
+    "id": "17234"
+  },
+  {
+    "Inventarnummer/Signatur": "253.5 Theol. (17)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 3.0",
+    "Bildnachweis": "HAB Wolfenbüttel, 253.5 Theol. (17)  (CC BY-SA 3.0)",
+    "id": "17235"
+  },
+  {
+    "Inventarnummer/Signatur": "Fl-1419.7",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "Universitätsbibliothek Rostock - Fl-1419.7, CC BY-SA 4.0",
+    "id": "4994"
+  },
+  {
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "Universitäts- und Landesbibliothek Sachsen-Anhalt, AB 122262  (CC BY-SA 4.0)",
+    "Inventarnummer/Signatur Duplikat": "AB 122262",
+    "id": "17236"
+  },
+  {
+    "Inventarnummer/Signatur": "NG-VG-1-1769",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "Public Domain",
+    "Bildnachweis": "Rijksmuseum Amsterdam, NG-VG-1-1769.",
+    "id": "17237"
+  },
+  {
+    "Inventarnummer/Signatur": "Einbl. YA 8248 m",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-SA 4.0 International",
+    "Bildnachweis": "Staatsbibliothek zu Berlin - PK, Einbl. YA 8248 m, CC BY-NC-SA 4.0 International",
+    "id": "10787"
+  },
+  {
+    "Inventarnummer/Signatur": "Dd 957 (23)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "ULB Sachsen-Anhalt / Dd 957 (23):  (CC BY-SA 4.0)",
+    "id": "17238"
+  },
+  {
+    "Inventarnummer/Signatur": "Xb 1898",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 3.0 DE",
+    "Bildnachweis": "HAB Wolfenbüttel - Xb 1898, CC BY-SA 3.0 DE",
+    "id": "4383"
+  },
+  {
+    "Inventarnummer/Signatur": "Dd 957 (16)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "UB Sachsen-Anhalt - Dd 957 (16), CC BY-SA 4.0",
+    "id": "10817"
+  },
+  {
+    "Inventarnummer/Signatur": "Yq 7496",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-SA 4.0 International",
+    "Bildnachweis": "Stabi Berlin - Yq 7496, CC BY-NC-SA 4.0 International",
+    "id": "5425"
+  },
+  {
+    "Inventarnummer/Signatur": "Pon Yb 630, FK",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "ULB Sachsen-Anhalt - Pon Yb 630, FK, CC BY-SA 4.0",
+    "id": "6711"
+  },
+  {
+    "Inventarnummer/Signatur": "4\" Yl 521",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-SA 4.0 International",
+    "Bildnachweis": "Stabi Berlin - 4\" Yl 521, CC BY-NC-SA 4.0",
+    "id": "4807"
+  },
+  {
+    "Inventarnummer/Signatur": "Biogr.erud.D.732,misc.2",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-ND 3.0 DE",
+    "Bildnachweis": "SLUB Dresden - Biogr.erud.D.732,misc.2, CC BY-NC-ND 3.0 DE",
+    "id": "4794"
+  },
+  {
+    "Inventarnummer/Signatur": "Dd 957 (10)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "ULB Sachsen-Anhalt / Dd 957 (10):  (CC BY-SA 4.0)",
+    "id": "17239"
+  },
+  {
+    "Inventarnummer/Signatur": "M: Lo Sammelbd. 90 (2)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-SA 4.0 International",
+    "Bildnachweis": "Stabi Berlin / Yf 6757-30:  (CC BY-NC-SA 4.0)",
+    "Inventarnummer/Signatur Duplikat": "Yf 6757-30",
+    "id": "17240"
+  },
+  {
+    "Inventarnummer/Signatur": "Yf 9996",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "  CC BY-NC-SA 4.0 International",
+    "Bildnachweis": "Stabi Berlin - Yf 9996, CC BY-NC-SA 4.0",
+    "id": "5812"
+  },
+  {
+    "Inventarnummer/Signatur": "Dd 957 (21)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "ULB Sachsen-Anhalt / Dd 957 (21):  (CC BY-SA 4.0)",
+    "id": "1611"
+  },
+  {
+    "Inventarnummer/Signatur": "Pon Za 575 b/2, QK",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-SA 3.0 DE",
+    "Bildnachweis": "ULB Sachsen-Anhalt - Pon Za 575 b/2, QK, CC BY-NC-SA 3.0",
+    "id": "6110"
+  },
+  {
+    "Inventarnummer/Signatur": "Yq 4661",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "ULB Sachsen-Anhalt- Yq 4661, CC BY-SA 4.0",
+    "id": "5785"
+  },
+  {
+    "Inventarnummer/Signatur": "Q: 153.2° Helmst. (51)",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "HAB Wolfenbüttel / Q: 153.2° Helmst. (51)",
+    "id": "10877"
+  },
+  {
+    "Inventarnummer/Signatur": "8 P GERM II, 8581",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "AGPL-3.0",
+    "Bildnachweis": "SUB Göttingen - 8 P GERM II, 8581, AGPL-3.0",
+    "id": "6157"
+  },
+  {
+    "Inventarnummer/Signatur": "Ta 10",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-SA 4.0",
+    "Bildnachweis": "UB Coburg - Ta 10, CC BY-NC-SA 4.0",
+    "id": "4447"
+  },
+  {
+    "Inventarnummer/Signatur": "Ebl. 20.020",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-SA 2.5",
+    "Bildnachweis": "Stadtbibliothek Nürnberg- Ebl. 20.020, CC BY-NC-SA 2.5",
+    "id": "6234"
+  },
+  {
+    "Inventarnummer/Signatur": "M: Lo 400 (1)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 3.0",
+    "Bildnachweis": "HAB Wolfenbüttel / M: Lo 400 (1):  (CC BY-SA 3.0)",
+    "id": "17241"
+  },
+  {
+    "Inventarnummer/Signatur": "M: Lo 6992",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 3.0",
+    "Bildnachweis": "HAB Wolfenbüttel -  M: Lo 6992, CC BY-SA 3.0",
+    "id": "5967"
+  },
+  {
+    "Inventarnummer/Signatur": "SP 10579, Kapsel 1068",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - SP 10579, Kapsel 1068, CC-BY-NC-ND",
+    "id": "4608"
+  },
+  {
+    "Inventarnummer/Signatur": "Lit.Germ.rec.B.201,12 ",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0 International",
+    "Bildnachweis": "SLUB Dresden - Lit.Germ.rec.B.201,12, CC BY-SA 4.0 International",
+    "id": "6272"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist.Suec.421.m,misc.3",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-ND 3.0 DE",
+    "Bildnachweis": "SLUB Dresden - Hist.Suec.421.m,misc.3, CC BY-NC-ND 3.0 DE",
+    "id": "10900"
+  },
+  {
+    "Inventarnummer/Signatur": "Dd 957 (17)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "ULB Sachsen-Anhalt - Dd 957 (17), CC BY-SA 4.0",
+    "id": "5289"
+  },
+  {
+    "Inventarnummer/Signatur": "Mb 3802 a (11)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 4.0",
+    "Bildnachweis": "ULB Sachsen-Anhalt- Mb 3802 a (11), CC BY-SA 4.0",
+    "id": "5101"
+  },
+  {
+    "Inventarnummer/Signatur": "Xb 6904",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 3.0",
+    "Bildnachweis": "HAB Wolfenbüttel - Xb 6904, CC BY-SA 3.0",
+    "id": "5226"
+  },
+  {
+    "Inventarnummer/Signatur": "H: 506 Helmst. Dr. (1)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 3.0 ",
+    "Bildnachweis": "HAB Wolfenbüttel - H: 506 Helmst. Dr. (1), CC BY-SA 3.0",
+    "id": "8154"
+  },
+  {
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "Signatur und Standort ",
+    "Bildnachweis": "Württembergische Landesbibliothek Stuttgart, Sign.: D.D.qt.123. ",
+    "id": "17242"
+  },
+  {
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Württembergische Landesbibliothek Stuttgart, Sign.: D.D.qt.123.",
+    "id": "17243"
+  },
+  {
+    "Inventarnummer/Signatur": "Bb, 4:37 (2) (a)",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Herzogin Anna Amalia Bibliothek - Bb, 4:37 (2) (a)",
+    "id": "5542"
+  },
+  {
+    "Inventarnummer/Signatur": "N 77/416",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Eigentümer: Fritz Rudolf Künker GmbH & Co. KG, Osnabrück und Lübke + Wiedemann KG, Leonberg, www.kuenker.de",
+    "id": "17244"
+  },
+  {
+    "Inventarnummer/Signatur": "35. 6.L.4.4",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Biblioteca Nazionale Centrale Vittorio Emanuele II, Roma",
+    "id": "10910"
+  },
+  {
+    "Inventarnummer/Signatur": "Rar. Libr. Orat. 17. Jh. 12",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Musikbibliothek - Deutsches Historisches Institut, Rom ",
+    "id": "10928"
+  },
+  {
+    "Inventarnummer/Signatur": "M C/90",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky - M C/90, CC BY-SA 4.0",
+    "id": "10597"
+  },
+  {
+    "Inventarnummer/Signatur": "Rar. Libr. Ven. 43_",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Musikbibliothek - Deutsches Historisches Institut, Rom",
+    "id": "3864"
+  },
+  {
+    "Inventarnummer/Signatur": "Rar. Libr. Ven. 43",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Musikbibliothek - Deutsches Historisches Institut, Rom",
+    "id": "17245"
+  },
+  {
+    "Inventarnummer/Signatur": "Rar. Libr. Orat. 18. Jh. 164",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Musikbibliothek - Deutsches Historisches Institut, Rom",
+    "id": "17246"
+  },
+  {
+    "Inventarnummer/Signatur": "Misc. Val. 695",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Biblioteca Nazionale Centrale Vittorio Emanuele II, Rom",
+    "id": "6353"
+  },
+  {
+    "Inventarnummer/Signatur": "Part. Tr. ms. 151",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Biblioteca del Conservatorio Statale di Musica Giuseppe Verdi, Mailand",
+    "id": "6061"
+  },
+  {
+    "Inventarnummer/Signatur": "ARCA VII 24_1",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Biblioteca Vallicelliana, Rom",
+    "id": "5526"
+  },
+  {
+    "Inventarnummer/Signatur": "34. 4.I.18.8",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Biblioteca Nazionale Centrale Vittorio Emanuele II, Rom",
+    "id": "5449"
+  },
+  {
+    "Inventarnummer/Signatur": "Corniani Algarotti Racc. Dramm. 613",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Biblioteca Nazionale Braidense, Mailand",
+    "id": "4400"
+  },
+  {
+    "Inventarnummer/Signatur": "Rar. Libr. Op. 17. Jh. 105",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Musikbibliothek - Deutsches Historisches Institut, Rom",
+    "id": "4753"
+  },
+  {
+    "Inventarnummer/Signatur": "Rar. Libr. Orat. 17. Jh. 62",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Musikbibliothek - Deutsches Historisches Institut, Rom",
+    "id": "4691"
+  },
+  {
+    "Inventarnummer/Signatur": "Corniani Algarotti Racc. Dramm. 5974",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Biblioteca Nazionale Braidense, Mailand",
+    "id": "5460"
+  },
+  {
+    "Inventarnummer/Signatur": "V.F. 154 I 15 (0011",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Biblioteca Nazionale Centrale Vittorio Emanuele III, Neapel",
+    "id": "10744"
+  },
+  {
+    "Inventarnummer/Signatur": "Corniani Algarotti Racc. Dramm. 5598",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Biblioteca Nazionale Braidense, Mailand",
+    "id": "2085"
+  },
+  {
+    "Inventarnummer/Signatur": "ARCA VII 24",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Biblioteca Vallicelliana, Rom",
+    "id": "17247"
+  },
+  {
+    "Inventarnummer/Signatur": "Dep. Musique, VM2-90",
+    "Status": "Reprorechte erhalten",
+    "id": "17248"
+  },
+  {
+    "Inventarnummer/Signatur": "Mus.ms.autogr. Scarlatti, A. 5",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung - Mus.ms.autogr. Scarlatti, A. 5, CC BY-NC-SA 3.0",
+    "id": "10754"
+  },
+  {
+    "Inventarnummer/Signatur": "74.C.16(3)",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Biblioteca Nazionale Centrale Vittorio Emanuele III., Neapel",
+    "id": "5476"
+  },
+  {
+    "Inventarnummer/Signatur": "204. 3.B.12",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Biblioteca Nazionale Centrale Vittorio Emanuele II, Rom",
+    "id": "5263"
+  },
+  {
+    "Inventarnummer/Signatur": "MISC. B. 1234.28",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Biblioteca Nazionale Centrale Vittorio Emanuele II",
+    "id": "6340"
+  },
+  {
+    "Inventarnummer/Signatur": "32 in: Mus. T 4",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-SA 4.0 International",
+    "Bildnachweis": "Staatbibliothek zu  Berlin, 32 in: Mus. T 4, CC BY-NC-SA 4.0 International",
+    "id": "10709"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 198, Kapsel 1220",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 198, Kapsel 1220, CC-BY-NC-ND",
+    "id": "2012"
+  },
+  {
+    "Inventarnummer/Signatur": "Mus.ms.autogr. Herbst, J. A. 1",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Staatsbibliothek zu Berlin - Mus.ms.autogr. Herbst, J. A. 1, CC BY-NC-SA 4.0 International",
+    "id": "3844"
+  },
+  {
+    "Inventarnummer/Signatur": "PB Mus. T99, Nr. 40",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Staatsbibliothek zu Berlin - PB Mus. T99, Nr. 40, CC BY-NC-SA 4.0 International",
+    "id": "4351"
+  },
+  {
+    "Inventarnummer/Signatur": "30 in: Mus. T 4",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Staatsbibliothek zu Berlin - 30 in: Mus. T 4, CC BY-NC-SA 4.0 International",
+    "id": "10846"
+  },
+  {
+    "Inventarnummer/Signatur": "2 Mus.pr. 12269",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Bayerische Staatsbibliothek München - 2 Mus.pr. 12269",
+    "id": "10674"
+  },
+  {
+    "Inventarnummer/Signatur": "P.o.germ. 1558 a-5/6 (3)",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Bayerische Staatsbibliothek München - P.o.germ. 1558 a-5/6",
+    "id": "4333"
+  },
+  {
+    "Inventarnummer/Signatur": "P.o.germ. 1558 a-5/6 (1)",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Bayerische Staatsbibliothek München - P.o.germ. 1558 a-5/6 (1)",
+    "id": "10869"
+  },
+  {
+    "Inventarnummer/Signatur": "P.o.germ. 1558 a-5/6 (2)",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Bayerische Staatsbibliothek München - P.o.germ. 1558 a-5/6",
+    "id": "4545"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist.Boruss.259,39.s (1)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-NC-ND 3.0 DE",
+    "Bildnachweis": "SLUB Dresden - Hist.Boruss.259,39.s, CC BY-NC-ND 3.0 DE",
+    "id": "10775"
+  },
+  {
+    "Inventarnummer/Signatur": "M: QuN 278.2 (5)",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "HAB Wolfenbüttel -  M: QuN 278.2 (5), CC BY-SA 3.0",
+    "id": "3470"
+  },
+  {
+    "Inventarnummer/Signatur": "Hist.Suec.406,misc.53",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "SLUB Dresden - Hist.Suec.406,misc.53, CC BY-SA 4.0",
+    "id": "4862"
+  },
+  {
+    "Inventarnummer/Signatur": "Rar. Libr. Ven. 283",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Musikbibliothek - Deutsches Historisches Institut, Rom",
+    "id": "6379"
+  },
+  {
+    "Inventarnummer/Signatur": "65.15 Poet. (1)",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "HAB Wolfenbüttel - 65.15 Poet. (1), CC BY-SA 3.0",
+    "id": "10833"
+  },
+  {
+    "Inventarnummer/Signatur": "4 Th Pr 1001",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Staats- und Stadtbibliothek Augsburg - 4 Th Pr 1001, OOC-NC",
+    "id": "10942"
+  },
+  {
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Musikbibliothek - Deutsches Historisches Institut, Rom",
+    "id": "17249"
+  },
+  {
+    "Inventarnummer/Signatur": "Einbl. V,8 a-107",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "BSB München - Einbl. V,8 a-107, CC BY-NC-SA 4.0",
+    "id": "10556"
+  },
+  {
+    "Inventarnummer/Signatur": "Rar. Libr. Cant. / Fest 154",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Musikbibliothek - Deutsches Historisches Institut, Rom",
+    "id": "4739"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 194, Kapsel 1220",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 194, Kapsel 1220, CC-BY-NC-ND",
+    "id": "4525"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 196, Kapsel 1030a",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 196, Kapsel 1030a, CC-BY-NC-ND",
+    "id": "3534"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 19123, Kapsel 1314a",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 19123, Kapsel 1314a, CC-BY-NC-ND",
+    "id": "5315"
+  },
+  {
+    "Inventarnummer/Signatur": "Hz 6988 ",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Hz 6988, CC-BY-NC-ND",
+    "id": "5576"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 6384, Kapsel 1220",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 6384, Kapsel 1220, CC-BY-NC-ND",
+    "id": "4832"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 303, Kapsel 1313",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 303, Kapsel 1313, CC-BY-NC-ND",
+    "id": "5836"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 23508, Kapsel 1337a",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 23508, Kapsel 1337a, CC-BY-NC-ND",
+    "id": "6481"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 4.7.14",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 4.7.14, CC-BY-NC-ND",
+    "id": "5397"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 2616",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 2616, CC-BY-NC-ND",
+    "id": "5617"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 3374",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 3374, CC-BY-NC-ND",
+    "id": "6297"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 3.5.7",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 3.5.7, CC-BY-NC-ND",
+    "id": "3585"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 15560, Kapsel 1220",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 15560, Kapsel 1220, CC-BY-NC-ND",
+    "id": "4847"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 1827",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 1827, CC-BY-NC-ND",
+    "id": "6575"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 21839, Kapsel 1220",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 21839, Kapsel 1220, CC-BY-NC-ND",
+    "id": "5072"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 1.5.8",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 1.5.8, CC-BY-NC-ND",
+    "id": "5158"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 192, Kapsel 1030a",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 192, Kapsel 1030a, CC-BY-NC-ND",
+    "id": "4484"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 25059, Kapsel 1314",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 25059, Kapsel 1314, CC-BY-NC-ND",
+    "id": "5948"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 14796, Kapsel 1220",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 14796, Kapsel 1220, CC-BY-NC-ND",
+    "id": "4774"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 19792, Kapsel 1314",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 19792, Kapsel 1314, CC-BY-NC-ND",
+    "id": "5897"
+  },
+  {
+    "Inventarnummer/Signatur": "MS 661, Kapsel 1428",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - MS 661, Kapsel 1428, CC-BY-NC-ND",
+    "id": "5706"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 15098, Kapsel 1248a",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 15098, Kapsel 1248a, CC-BY-NC-ND",
+    "id": "6454"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 203, Kapsel 1219a",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 203, Kapsel 1219a, CC-BY-NC-ND",
+    "id": "6259"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 24217, Kapsel 1223",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 24217, Kapsel 1223, CC-BY-NC-ND",
+    "id": "4927"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 8178, Kapsel 1314a",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 8178, Kapsel 1314a, CC-BY-NC-ND",
+    "id": "4898"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 26194, Kapsel 1234",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 26194, Kapsel 1234, CC-BY-NC-ND",
+    "id": "5558"
+  },
+  {
+    "Inventarnummer/Signatur": "K 1633, Kapsel 147",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - K 1633, Kapsel 147, CC-BY-NC-ND",
+    "id": "3610"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 6731, Kapsel 1337a",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 6731, Kapsel 1337a, CC-BY-NC-ND",
+    "id": "6437"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 1.10.23",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 1.10.23, CC-BY-NC-ND",
+    "id": "6659"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 14522",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 14522, CC-BY-NC-ND",
+    "id": "5649"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 5.5.22",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 5.5.22, CC-BY-NC-ND",
+    "id": "6677"
+  },
+  {
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 24911, Kapsel 1336a, CC-BY-NC-ND",
+    "id": "6501"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 18773, Kapsel 1220",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 18773, Kapsel 1220, CC-BY-NC-ND",
+    "id": "3917"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 23077, Kapsel 1314a",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 23077, Kapsel 1314a, CC-BY-NC-ND",
+    "id": "4911"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 24519, Kapsel 1313",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 24519, Kapsel 1313, CC-BY-NC-ND",
+    "id": "5919"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 1.5.6",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 1.5.6, CC-BY-NC-ND",
+    "id": "4640"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 8078",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 8078, CC-BY-NC-ND",
+    "id": "6019"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 15310",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 15310, CC-BY-NC-ND",
+    "id": "5691"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 15350",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 15350, CC-BY-NC-ND",
+    "id": "8261"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 4218",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 198, Kapsel 1220, CC-BY-NC-ND",
+    "id": "5991"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 14475",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 14475, CC-BY-NC-ND",
+    "id": "5363"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 711, Kapsel 1248",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 711, Kapsel 1248, CC-BY-NC-ND",
+    "id": "3056"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 25188, Kapsel 1220",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 25188, Kapsel 1220, CC-BY-NC-ND",
+    "id": "4679"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 6717, Kapsel 1249",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 6717, Kapsel 1249, CC-BY-NC-ND",
+    "id": "5063"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 15054, Kapsel 1220",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 15054, Kapsel 1220, CC-BY-NC-ND",
+    "id": "5873"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 692, Kapsel 1220",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 692, Kapsel 1220, CC-BY-NC-ND",
+    "id": "5022"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 1.3.34",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 1.3.34, CC-BY-NC-ND",
+    "id": "6325"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 483, Kapsel 1313a",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 483, Kapsel 1313a, CC-BY-NC-ND",
+    "id": "5856"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 24659, Kapsel 1220",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 24659, Kapsel 1220, CC-BY-NC-ND",
+    "id": "4669"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 4.8.7",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 4.8.7, CC-BY-NC-ND",
+    "id": "8202"
+  },
+  {
+    "Inventarnummer/Signatur": "A: 65.15 poet (2)",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "CC BY-SA 3.0 + Fotonachweis. Fotonachweise auf den Bildern dürfen nicht abgeschnitten werden.",
+    "Bildnachweis": "HAB Wolfenbüttel - A: 65.15 Poet. (2), CC BY-SA 3.0",
+    "id": "5247"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Colmar 83",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Colmar 83, CC-BY-NC-ND",
+    "id": "17250"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 491, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 491, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17251"
+  },
+  {
+    "Inventarnummer/Signatur": "MS 869, Kapsel 1429",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - MS 869, Kapsel 1429, CC-BY-NC-ND",
+    "id": "10452"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 1676, Kapsel 1219a",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 1676, Kapsel 1219a, CC-BY-NC-ND",
+    "id": "17252"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 17649, Kapsel 1314a",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 17649, Kapsel 1314a, CC-BY-NC-ND",
+    "id": "17253"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 19102, Kapsel 1313",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 19102, Kapsel 1313, CC-BY-NC-ND",
+    "id": "11107"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 21844, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 21844, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17258"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 6381, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 6381, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17259"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 10286",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 10286, CC-BY-NC-ND",
+    "id": "6619"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Colmar 124",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Colmar 124, CC-BY-NC-ND",
+    "id": "17260"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Colmar 126",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Colmar 126, CC-BY-NC-ND",
+    "id": "3509"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 12233",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 12233, CC-BY-NC-ND",
+    "id": "5123"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 2446",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 2446, CC-BY-NC-ND",
+    "id": "17261"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 3094",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 3094, CC-BY-NC-ND",
+    "id": "17262"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 4195",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 4195, CC-BY-NC-ND",
+    "id": "17263"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 6561",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 6561, CC-BY-NC-ND",
+    "id": "17264"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 7529",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 7529, CC-BY-NC-ND",
+    "id": "17265"
+  },
+  {
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 5017, CC-BY-NC-ND",
+    "id": "17266"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 1.3.5",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 1.3.5, CC-BY-NC-ND",
+    "id": "17267"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 2759",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 2759, CC-BY-NC-ND",
+    "id": "17268"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 15315",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 15315, CC-BY-NC-ND",
+    "id": "17269"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 24680, Kapsel 1248a",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 24680, Kapsel 1248a, CC-BY-NC-ND",
+    "id": "17270"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 26676, Kapsel 1248a",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 26676, Kapsel 1248a, CC-BY-NC-ND",
+    "id": "17271"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 7234",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 7234, CC-BY-NC-ND",
+    "id": "17272"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 28422, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 28422, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17273"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 24234, Kapsel 1249",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 24234, Kapsel 1249, CC-BY-NC-ND",
+    "id": "3897"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 24240, Kapsel 1249",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 24240, Kapsel 1249, CC-BY-NC-ND",
+    "id": "17274"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 14523",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 14523, CC-BY-NC-ND",
+    "id": "17275"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 18231, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 18231, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17276"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 6915, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 6915, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17277"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 24131, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 24131, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17278"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 13849, Kapsel 1248a",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 13849, Kapsel 1248a, CC-BY-NC-ND",
+    "id": "17279"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 14152, Kapsel 1337a",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 14152, Kapsel 1337a, CC-BY-NC-ND",
+    "id": "17280"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 1756, Kapsel 1348a",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 1756, Kapsel 1348a, CC-BY-NC-ND",
+    "id": "17281"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 1229, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 1229, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17282"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 24950, Kapsel 1314",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 24950, Kapsel 1314, CC-BY-NC-ND",
+    "id": "17283"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 5300, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 5300, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17284"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 4136",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 4136, CC-BY-NC-ND",
+    "id": "17285"
+  },
+  {
+    "Inventarnummer/Signatur": "Mü 15354",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Mü 15354, CC-BY-NC-ND",
+    "id": "17286"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 21710, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 21710, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17287"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 2592, Kapsel 1379a",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 2592, Kapsel 1379a, CC-BY-NC-ND",
+    "id": "17288"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 14259, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 14259, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17289"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 320, Kapsel 1220",
+    "Status": "Foto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 320, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17290"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 10498, Kapsel 1365",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 10498, Kapsel 1365, CC-BY-NC-ND",
+    "id": "17291"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 14504",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 14504, CC-BY-NC-ND",
+    "id": "17292"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 23923, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 23923, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17293"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 1594, Kapsel 1337a",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 1594, Kapsel 1337a, CC-BY-NC-ND",
+    "id": "17294"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 18453, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 18453, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17295"
+  },
+  {
+    "Inventarnummer/Signatur": "K 14869, Kapsel 148",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - K 14869, Kapsel 148, CC-BY-NC-ND",
+    "id": "17296"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 15019, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 15019, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17297"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 6388, Kapsel 1314a",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 6388, Kapsel 1314a, CC-BY-NC-ND",
+    "id": "17298"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 21842, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 21842, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17299"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 195, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 195, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17300"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 193, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 193, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17301"
+  },
+  {
+    "Inventarnummer/Signatur": "HB13855, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB13855, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17302"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 14516",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 14516, CC-BY-NC-ND",
+    "id": "17303"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 15229, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 15229, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17304"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 23236, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 23236, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17305"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 14479",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 14479, CC-BY-NC-ND",
+    "id": "17306"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 14495",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 14495, CC-BY-NC-ND",
+    "id": "17307"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Colmar 109",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum -Med Colmar 109, CC-BY-NC-ND",
+    "id": "17308"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 14500",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 14500, CC-BY-NC-ND",
+    "id": "17309"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 3.10.11",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 3.10.11, CC-BY-NC-ND",
+    "id": "17310"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 2.4.1",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 2.4.1, CC-BY-NC-ND",
+    "id": "17311"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 1.7.35",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 1.7.35, CC-BY-NC-ND",
+    "id": "17312"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 14926, Kapsel 1314",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 14926, Kapsel 1314, CC-BY-NC-ND",
+    "id": "17313"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 1974, Kapsel 1219a",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 1974, Kapsel 1219a, CC-BY-NC-ND",
+    "id": "17314"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 3.1.4",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 3.1.4, CC-BY-NC-ND",
+    "id": "17315"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Colmar 89",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Colmar 89, CC-BY-NC-ND",
+    "id": "17316"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 1947",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 1947, CC-BY-NC-ND",
+    "id": "17317"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 4057",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 4057, CC-BY-NC-ND",
+    "id": "17318"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 2.3.17",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 2.3.17, CC-BY-NC-ND",
+    "id": "17319"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 7245",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 7245, CC-BY-NC-ND",
+    "id": "17320"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 6788",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 6788, CC-BY-NC-ND",
+    "id": "17321"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 15313",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 15313, CC-BY-NC-ND",
+    "id": "17322"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 12528",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 12528, CC-BY-NC-ND",
+    "id": "17323"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 1621",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 1621, CC-BY-NC-ND",
+    "id": "17324"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 5356",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 5356, CC-BY-NC-ND",
+    "id": "17325"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 15312",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 15312, CC-BY-NC-ND",
+    "id": "17326"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 1.4.5",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 1.4.5, CC-BY-NC-ND",
+    "id": "17327"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 6610",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 6610, CC-BY-NC-ND",
+    "id": "17328"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 1.2.6",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 1.2.6, CC-BY-NC-ND",
+    "id": "17329"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 1.5.9",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 1.5.9, CC-BY-NC-ND",
+    "id": "17330"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 8017",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 8017, CC-BY-NC-ND",
+    "id": "17331"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 4.6.1",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 4.6.1, CC-BY-NC-ND",
+    "id": "17332"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 14501",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 14501, CC-BY-NC-ND",
+    "id": "17333"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Colmar 1896",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Colmar 1896, CC-BY-NC-ND",
+    "id": "17334"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 1.3.1",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 1.3.1, CC-BY-NC-ND",
+    "id": "17335"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 14492",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 14492, CC-BY-NC-ND",
+    "id": "17336"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 4212",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 4212, CC-BY-NC-ND",
+    "id": "17337"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 2.1.5",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 2.1.5, CC-BY-NC-ND",
+    "id": "17338"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 14493",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 14493, CC-BY-NC-ND",
+    "id": "17339"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 7524",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 7524, CC-BY-NC-ND",
+    "id": "17340"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 1.6.1",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 1.6.1, CC-BY-NC-ND",
+    "id": "17341"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 3375",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 3375, CC-BY-NC-ND",
+    "id": "17342"
+  },
+  {
+    "Inventarnummer/Signatur": "MS 1006, Kapsel 1431",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - MS 1006, Kapsel 1431, CC-BY-NC-ND",
+    "id": "17343"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 29936, Kapsel 1314a",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 29936, Kapsel 1314a, CC-BY-NC-ND",
+    "id": "17344"
+  },
+  {
+    "Inventarnummer/Signatur": "MS 664, Kapsel 1428",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - MS 664, Kapsel 1428, CC-BY-NC-ND",
+    "id": "17345"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 5.2.61",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 5.2.61, CC-BY-NC-ND",
+    "id": "17346"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 15055, Kapsel 1313",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 15055, Kapsel 1313, CC-BY-NC-ND",
+    "id": "17347"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Kress 140",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Kress 140, CC-BY-NC-ND",
+    "id": "17348"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 5.5.21",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 5.5.21, CC-BY-NC-ND",
+    "id": "17349"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 6350, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 6350, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17350"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 13601, Kapsel 1314",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 13601, Kapsel 1314, CC-BY-NC-ND",
+    "id": "17351"
+  },
+  {
+    "Inventarnummer/Signatur": "MS 673, Kapsel 1428",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - MS 673, Kapsel 1428, CC-BY-NC-ND",
+    "id": "17352"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 1.8.12 ",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 1.8.12 , CC-BY-NC-ND",
+    "id": "17353"
+  },
+  {
+    "Inventarnummer/Signatur": "Med Merkel 1.1.23",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med Merkel 1.1.23, CC-BY-NC-ND",
+    "id": "17354"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 8059",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 8059, CC-BY-NC-ND",
+    "id": "17355"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 1065",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 1065, CC-BY-NC-ND",
+    "id": "17356"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 25331, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 25331, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17357"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 1675, Kapsel 1219a",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 1675, Kapsel 1219a, CC-BY-NC-ND",
+    "id": "17358"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 15322",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 15322, CC-BY-NC-ND",
+    "id": "17359"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 18452, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 18452, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17360"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 15349",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 15349, CC-BY-NC-ND",
+    "id": "17361"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 907, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 907, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17362"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 24471, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 24471, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17363"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 7770, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 7770, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17364"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 7194, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 7194, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17365"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 15261, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 15261, Kapsel 1220, CC-BY-NC-ND",
+    "id": "10431"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 23960, Kapsel 1247",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 23960, Kapsel 1247, CC-BY-NC-ND",
+    "id": "17366"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 23995, Kapsel 1248",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 23995, Kapsel 1248, CC-BY-NC-ND",
+    "id": "17367"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 24615, Kapsel 1248",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 24615, Kapsel 1248, CC-BY-NC-ND",
+    "id": "17368"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 4502, Kapsel 1247",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 4502, Kapsel 1247, CC-BY-NC-ND",
+    "id": "17369"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 6894, Kapsel 1247",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 6894, Kapsel 1247, CC-BY-NC-ND",
+    "id": "17370"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 6895, Kapsel 1248",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 6895, Kapsel 1248, CC-BY-NC-ND",
+    "id": "17371"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 1719, Kapsel 1241a",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 1719, Kapsel 1241a, CC-BY-NC-ND",
+    "id": "17372"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 21843, Kapsel 1220",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 21843, Kapsel 1220, CC-BY-NC-ND",
+    "id": "17373"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 3811, Kapsel 1328",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 3811, Kapsel 1328, CC-BY-NC-ND",
+    "id": "17374"
+  },
+  {
+    "Inventarnummer/Signatur": "MS 918, Kapsel 1430",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - MS 918, Kapsel 1430, CC-BY-NC-ND",
+    "id": "17375"
+  },
+  {
+    "Inventarnummer/Signatur": "Graph. A1: 1061",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Auflagen": "Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-SA 3.0 DE)",
+    "Bildnachweis": "HAB Wolfenbüttel: Graph. A1: 1061  (CC BY-SA 3.0)",
+    "id": "17376"
+  },
+  {
+    "Inventarnummer/Signatur": "Med 1293",
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - Med 1293, CC-BY-NC-ND",
+    "id": "17377"
+  },
+  {
+    "Inventarnummer/Signatur": "SWV 465",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "Eigentlich kein Download, Sabine prüft nochmal, 12.06.2018.",
+    "Bildnachweis": "Heinrich Schütz, Weltliche Konzerte, hrsg. von Werner Bittinger, Kassel 1971, in: Heinrich Schütz, Neue Ausgabe sämtlicher Werke, Bd. 38, S. 75–78",
+    "id": "4367"
+  },
+  {
+    "Status": "Reprorechte erhalten\nFoto bestellt",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 24660, Kapsel 1220, CC-BY-NC-ND",
+    "Inventarnummer/Signatur Duplikat": "HB 24660, Kapsel 1220",
+    "id": "10329"
+  },
+  {
+    "Inventarnummer/Signatur": "111-1, Senat, Cl. VII Lit. Ha Nr. 4",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Staatsarchiv Hamburg, 111-1, Senat, Cl. VII Lit. Ha Nr. 4 Vol. 1e, Nr. 37, S. 2–4, 15–16",
+    "id": "4222"
+  },
+  {
+    "Inventarnummer/Signatur": "M 1549 .K52 M8",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "University of Michigan, Music Library, M 1549 .K52 M8",
+    "id": "4271"
+  },
+  {
+    "Inventarnummer/Signatur": "MS 639/3:5, Nr. 75",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky - MS 639/3:5, Nr. 75",
+    "id": "10618"
+  },
+  {
+    "Inventarnummer/Signatur": "Cod. in scrin. 251",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky - Cod. in scrin. 251",
+    "id": "4253"
+  },
+  {
+    "Inventarnummer/Signatur": "75 var. 14",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Stadtbibliothek Nürnberg - 75 var. 14",
+    "id": "4310"
+  },
+  {
+    "Inventarnummer/Signatur": "R.M.20.g.5",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "The British Library London - R.M.20.g.5",
+    "id": "10661"
+  },
+  {
+    "Inventarnummer/Signatur": "R.M.20.g.7",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "The British Library London - R.M.20.g.7",
+    "id": "10646"
+  },
+  {
+    "Inventarnummer/Signatur": "Mus.ms. 11481",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv - Mus.ms. 11481",
+    "id": "10628"
+  },
+  {
+    "Inventarnummer/Signatur": "Mus.ms. 21758",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv - Mus.ms. 21758",
+    "id": "10577"
+  },
+  {
+    "Inventarnummer/Signatur": "HB 199, Kapsel 1220",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Germanisches Nationalmuseum - HB 199, Kapsel 1220, CC-BY-NC-ND",
+    "id": "4571"
+  },
+  {
+    "Inventarnummer/Signatur": "AB 43 14/k, 3 (14) (1)",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Universitäts- und Landesbibliothek Sachsen-Anhalt - AB 43 14/k, 3 (14)",
+    "id": "4886"
+  },
+  {
+    "Inventarnummer/Signatur": "8 P DRAM III, 940",
+    "Status": "Reprorechte erhalten",
+    "Auflagen": "AGPL-3.0 + Änderungen am Bild sind nicht erlaubt",
+    "Bildnachweis": "SUB Göttingen - 8 P DRAM III, 940, AGPL-3.0",
+    "id": "4977"
+  },
+  {
+    "Inventarnummer/Signatur": "Mus. W 300",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Universitätsbibliothek Johann Christian Senckenberg - Mus. W 300",
+    "id": "10677"
+  },
+  {
+    "Inventarnummer/Signatur": "N.Mus.ms. 497",
+    "Status": "Reprorechte erhalten",
+    "Bildnachweis": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv - N.Mus.ms. 497",
+    "id": "10686"
+  }
+]

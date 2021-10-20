@@ -1,0 +1,677 @@
+[
+  {
+    "name": ",",
+    "id": "68689",
+    "page": 1
+  },
+  {
+    "name": ",",
+    "id": "68691",
+    "page": 1
+  },
+  {
+    "name": "Archives d'Arenberg, Einghien",
+    "id": "10101",
+    "page": 1
+  },
+  {
+    "name": "Archiv der Gesellschaft der Musikfreunde, Wien",
+    "id": "10132",
+    "page": 1
+  },
+  {
+    "name": "Archivio Arcivescovile di Vercelli, Vercelli",
+    "id": "10134",
+    "page": 1
+  },
+  {
+    "name": "Archivio Borromeo Isola Bella, Isola Bella",
+    "id": "10133",
+    "page": 1
+  },
+  {
+    "name": "Ashmolean Museum of Art and Archeology, Oxford",
+    "id": "10105",
+    "page": 1
+  },
+  {
+    "name": "Bayerische Staatsbibliothek, München",
+    "id": "269",
+    "page": 1
+  },
+  {
+    "name": "Biblioteca Estense Universitaria, Modena",
+    "id": "10120",
+    "page": 1
+  },
+  {
+    "name": "Biblioteca Casanatense, Rom",
+    "id": "6345",
+    "page": 1
+  },
+  {
+    "name": "Biblioteca Nacional de Madrid, Madrid",
+    "id": "10103",
+    "page": 1
+  },
+  {
+    "name": "Biblioteca Nazionale Braidense, Mailand",
+    "id": "130",
+    "page": 1
+  },
+  {
+    "name": "Biblioteca Nazionale Centrale Vittorio Emanuele II, Rom",
+    "id": "975",
+    "page": 1
+  },
+  {
+    "name": "Biblioteca Nazionale Centrale Vittorio Emanuele III, Neapel",
+    "id": "942",
+    "page": 1
+  },
+  {
+    "name": "Biblioteca Nazionale Marciana, Venedig",
+    "id": "2077",
+    "page": 1
+  },
+  {
+    "name": "Biblioteca Oratoriana del Monumento Nazionale dei Girolamini di Napoli, Neapel",
+    "id": "10172",
+    "page": 1
+  },
+  {
+    "name": "Biblioteca Vallicelliana, Rom",
+    "id": "1022",
+    "page": 1
+  },
+  {
+    "name": "Biblioteca del Conservatorio San Pietro a Majella, Neapel",
+    "id": "10131",
+    "page": 1
+  },
+  {
+    "name": "Biblioteca del Conservatorio Statale di Musica Giuseppe Verdi, Mailand",
+    "id": "1566",
+    "page": 1
+  },
+  {
+    "name": "Biblioteca della Fondazione Giorgio Cini, Venedig",
+    "id": "10121",
+    "page": 1
+  },
+  {
+    "name": "Biblioteca di Archeologia e Storia dell'arte, Rom",
+    "id": "10119",
+    "page": 1
+  },
+  {
+    "name": "Biblioteca e archivio. Civica raccolta delle stampe Achille Bertarelli, Mailand",
+    "id": "10170",
+    "page": 1
+  },
+  {
+    "name": "Biblioteca provinciale Scipione e Giulio Capone, Avellino",
+    "id": "4745",
+    "page": 1
+  },
+  {
+    "name": "Biblioteche della Fondazione Giorgio Cini, Venedig",
+    "id": "10097",
+    "page": 1
+  },
+  {
+    "name": "Biblioteka Uniwersytecka, Wroclaw",
+    "id": "10162",
+    "page": 2
+  },
+  {
+    "name": "Bibliothek des evangelischen Predigerseminars, Lutherstadt Wittenberg",
+    "id": "10164",
+    "page": 2
+  },
+  {
+    "name": "Bibliotheks- und Medienzentrum der Nordkirche, Hamburg",
+    "id": "10149",
+    "page": 2
+  },
+  {
+    "name": "Bibliothèque Municipale de Lyon, Lyon",
+    "id": "10145",
+    "page": 2
+  },
+  {
+    "name": "Bibliothèque Nationale de France, Paris",
+    "id": "3825",
+    "page": 2
+  },
+  {
+    "name": "Bibliothèque cantonale et universitaire, Lausanne-Dorigny",
+    "id": "10166",
+    "page": 2
+  },
+  {
+    "name": "Bibliothèque nationale et universitaire de Strasbourg, Straßburg",
+    "id": "10108",
+    "page": 2
+  },
+  {
+    "name": "Bodleian Library, Oxford",
+    "id": "10051",
+    "page": 2
+  },
+  {
+    "name": "Boston Public Library, Boston",
+    "id": "10151",
+    "page": 2
+  },
+  {
+    "name": "British Library, London",
+    "id": "4113",
+    "page": 2
+  },
+  {
+    "name": "British Museum, London",
+    "id": "3839",
+    "page": 2
+  },
+  {
+    "name": "Burke Library at Union Theological Seminary, New York",
+    "id": "10141",
+    "page": 2
+  },
+  {
+    "name": "Cambridge University Library, Cambridge",
+    "id": "10124",
+    "page": 2
+  },
+  {
+    "name": "Cambridge University Magdalene College, Cambridge",
+    "id": "10046",
+    "page": 2
+  },
+  {
+    "name": "Cambridge University Queens' College, Cambridge",
+    "id": "10153",
+    "page": 2
+  },
+  {
+    "name": "Central Library, Henry Watson Music Library, Manchester",
+    "id": "10111",
+    "page": 2
+  },
+  {
+    "name": "Conservatoire Royal de Musique, Bibliothèque, Koninklijk Conservatorium, Bibliotheek, Brüssel",
+    "id": "4212",
+    "page": 2
+  },
+  {
+    "name": "Das Gleimhaus, Halberstadt",
+    "id": "10158",
+    "page": 2
+  },
+  {
+    "name": "De Nederlandsche Bank, Nationale Numismatische Collectie, Amsterdam",
+    "id": "3838",
+    "page": 2
+  },
+  {
+    "name": "Deutsches Historisches Museum, Berlin",
+    "id": "10168",
+    "page": 2
+  },
+  {
+    "name": "Diözesanbibliothek Münster, Santini-Sammlung, Münster",
+    "id": "10091",
+    "page": 2
+  },
+  {
+    "name": "Dr. Williams' Library, London",
+    "id": "10126",
+    "page": 2
+  },
+  {
+    "name": "Early American Imprints First Series, Ann Arbor MI",
+    "id": "9882",
+    "page": 2
+  },
+  {
+    "name": "Ehemalige Universitätsbibliothek Helmstedt, Helmstedt",
+    "id": "10138",
+    "page": 2
+  },
+  {
+    "name": "Folger Shakespeare Library, Washington, DC",
+    "id": "10143",
+    "page": 3
+  },
+  {
+    "name": "Freie Universität Amsterdam, Amsterdam",
+    "id": "10086",
+    "page": 3
+  },
+  {
+    "name": "Germanisches Nationalmuseum, Nürnberg",
+    "id": "31",
+    "page": 3
+  },
+  {
+    "name": "Germanisches Nationalmuseum (Eigentum der Stadt Nürnberg), Nürnberg",
+    "id": "3490",
+    "page": 3
+  },
+  {
+    "name": "Gottfried Wilhelm Leibniz Bibliothek, Hannover",
+    "id": "10125",
+    "page": 3
+  },
+  {
+    "name": "Grafisches Kabinett im Höhmann-Haus, Augsburg",
+    "id": "3835",
+    "page": 3
+  },
+  {
+    "name": "Grand Séminaire, Bibliothèque musicale, Straßburg",
+    "id": "10090",
+    "page": 3
+  },
+  {
+    "name": "Haags Historisch Museum, Den Haag",
+    "id": "10098",
+    "page": 3
+  },
+  {
+    "name": "Harvard University Library, Cambridge, MA",
+    "id": "10068",
+    "page": 3
+  },
+  {
+    "name": "Herzog August Bibliothek, Wolfenbüttel",
+    "id": "115",
+    "page": 3
+  },
+  {
+    "name": "Herzogin Anna Amalia Bibliothek, Weimar",
+    "id": "757",
+    "page": 3
+  },
+  {
+    "name": "Hessische Landesbibliothek, Darmstadt",
+    "id": "3828",
+    "page": 3
+  },
+  {
+    "name": "Historisches Museum Rotterdam, Sammlung Atlas van Stolk, Rotterdam",
+    "id": "3837",
+    "page": 3
+  },
+  {
+    "name": "Humboldt-Universität zu Berlin, Universitätsbibliothek, Berlin",
+    "id": "10118",
+    "page": 3
+  },
+  {
+    "name": "Johannes a Lasco Bibliothek, Emden",
+    "id": "10136",
+    "page": 3
+  },
+  {
+    "name": "Koninklijke Bibliotheek, Nationale Bibliotheek van Nederland, Den Haag",
+    "id": "10127",
+    "page": 3
+  },
+  {
+    "name": "Kunstsammlungen der Veste Coburg, Coburg",
+    "id": "3824",
+    "page": 3
+  },
+  {
+    "name": "Kunstsammlungen und Museen Augsburg, Augsburg",
+    "id": "3827",
+    "page": 3
+  },
+  {
+    "name": "Kupferstichkabinett Berlin, Berlin",
+    "id": "3826",
+    "page": 3
+  },
+  {
+    "name": "Königliche Bibliothek, Den Haag",
+    "id": "3833",
+    "page": 3
+  },
+  {
+    "name": "LWL-Museum für Kunst und Kultur (Westfälisches Landesmuseum)/ Münzkabinett, Münster",
+    "id": "10084",
+    "page": 3
+  },
+  {
+    "name": "Landesbibliothek Coburg, Coburg",
+    "id": "124",
+    "page": 3
+  },
+  {
+    "name": "Landesbibliothek Mecklenburg-Vorpommern, Schwerin",
+    "id": "10159",
+    "page": 3
+  },
+  {
+    "name": "Landesmuseum Württemberg, Münzkabinett, Stuttgart",
+    "id": "218",
+    "page": 3
+  },
+  {
+    "name": "Library of Congress, Washington, DC",
+    "id": "9899",
+    "page": 4
+  },
+  {
+    "name": "Marienbibliothek, Halle",
+    "id": "10161",
+    "page": 4
+  },
+  {
+    "name": "Museen der Stadt Gotha, Gotha",
+    "id": "3829",
+    "page": 4
+  },
+  {
+    "name": "Museen der Stadt Nürnberg, Stadtmuseum im Fembo-Haus, Nürnberg",
+    "id": "10156",
+    "page": 4
+  },
+  {
+    "name": "Museo internazionale e Biblioteca della musica, Bologna",
+    "id": "10096",
+    "page": 4
+  },
+  {
+    "name": "Museum Humpis-Quartier, Ravensburg",
+    "id": "10146",
+    "page": 4
+  },
+  {
+    "name": "Musikarchiv des Zisterzienserstiftes, Heiligenkreuz im Wienerwald",
+    "id": "10102",
+    "page": 4
+  },
+  {
+    "name": "Musikbibliothek - Deutsches Historisches Institut, Rom",
+    "id": "134",
+    "page": 4
+  },
+  {
+    "name": "Nationalmuseum Prag, Prag",
+    "id": "3830",
+    "page": 4
+  },
+  {
+    "name": "Niedersächsische Staats- und Universitätsbibliothek, Göttingen",
+    "id": "484",
+    "page": 4
+  },
+  {
+    "name": "Niedersächsisches Landesmuseum, Hannover",
+    "id": "3823",
+    "page": 4
+  },
+  {
+    "name": "Nonnenmacher, Michael u. Renz, Wolfgang, Augsburg",
+    "id": "4210",
+    "page": 4
+  },
+  {
+    "name": "Otto-von-Guericke-Universitätsbibliothek, Magdeburg",
+    "id": "10116",
+    "page": 4
+  },
+  {
+    "name": "Oxford University Pembroke College, Oxford",
+    "id": "10148",
+    "page": 4
+  },
+  {
+    "name": "Ratsschulbibliothek Zwickau, Zwickau",
+    "id": "10123",
+    "page": 4
+  },
+  {
+    "name": "Rijksbureau voor Kunsthistorische Documentatie, Den Haag",
+    "id": "10130",
+    "page": 4
+  },
+  {
+    "name": "Rijksmuseum, Amsterdam",
+    "id": "1066",
+    "page": 4
+  },
+  {
+    "name": "Saarländische Universitäts- und Landesbibliothek, Saarbrücken",
+    "id": "10157",
+    "page": 4
+  },
+  {
+    "name": "Staatliche Bibliothek, Regensburg",
+    "id": "10163",
+    "page": 4
+  },
+  {
+    "name": "Staatliche Kunstsammlungen Dresden, Münzkabinett, Dresden",
+    "id": "866",
+    "page": 4
+  },
+  {
+    "name": "Staatliche Museen zu Berlin, Münzkabinett, Berlin",
+    "id": "1803",
+    "page": 4
+  },
+  {
+    "name": "Staatliches Museum Schwerin, Schwerin",
+    "id": "2035",
+    "page": 4
+  },
+  {
+    "name": "Staats- und Stadtbibliothek Augsburg, Augsburg",
+    "id": "3834",
+    "page": 4
+  },
+  {
+    "name": "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky, Hamburg",
+    "id": "377",
+    "page": 4
+  },
+  {
+    "name": "Staatsarchiv der Freien und Hansestadt Hamburg, Hamburg",
+    "id": "4201",
+    "page": 5
+  },
+  {
+    "name": "Staatsbibliothek Bamberg, Bamberg",
+    "id": "3831",
+    "page": 5
+  },
+  {
+    "name": "Staatsbibliothek zu Berlin, Berlin",
+    "id": "146",
+    "page": 5
+  },
+  {
+    "name": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv, Berlin",
+    "id": "994",
+    "page": 5
+  },
+  {
+    "name": "Staatsgalerie, Graphische Sammlung, Stuttgart",
+    "id": "3836",
+    "page": 5
+  },
+  {
+    "name": "Stadtarchiv Den Haag, Den Haag",
+    "id": "10094",
+    "page": 5
+  },
+  {
+    "name": "Stadtarchiv Nürnberg, Nürnberg",
+    "id": "10167",
+    "page": 5
+  },
+  {
+    "name": "Stadtbibliothek Braunschweig, Braunschweig",
+    "id": "10160",
+    "page": 5
+  },
+  {
+    "name": "Stadtbibliothek Haarlem, Haarlem",
+    "id": "10095",
+    "page": 5
+  },
+  {
+    "name": "Stadtbibliothek Hannover, Musikbibliothek, Hannover",
+    "id": "10144",
+    "page": 5
+  },
+  {
+    "name": "Stadtbibliothek Nürnberg, Nürnberg",
+    "id": "694",
+    "page": 5
+  },
+  {
+    "name": "Stadtbibliothek Ulm, Ulm",
+    "id": "3832",
+    "page": 5
+  },
+  {
+    "name": "Sächsische Landesbibliothek, Staats- und Universitätsbibliothek, Dresden",
+    "id": "139",
+    "page": 5
+  },
+  {
+    "name": "Teylers Museum, Haarlem",
+    "id": "10087",
+    "page": 5
+  },
+  {
+    "name": "The Huntington Library, San Marino",
+    "id": "10139",
+    "page": 5
+  },
+  {
+    "name": "The National Gallery (London), London",
+    "id": "10099",
+    "page": 5
+  },
+  {
+    "name": "Thüringer Universitäts- und Landesbibliothek, Jena",
+    "id": "10135",
+    "page": 5
+  },
+  {
+    "name": "Trinity College Library Cambridge, Cambridge",
+    "id": "10154",
+    "page": 5
+  },
+  {
+    "name": "Trinity College Library Dublin, Dublin",
+    "id": "10155",
+    "page": 5
+  },
+  {
+    "name": "Union Theological College, Belfast",
+    "id": "10152",
+    "page": 5
+  },
+  {
+    "name": "University Library Durham, Durham",
+    "id": "10142",
+    "page": 5
+  },
+  {
+    "name": "University of Michigan, Music Library, Ann Arbor, Michigan",
+    "id": "2073",
+    "page": 5
+  },
+  {
+    "name": "Universitäts- und Forschungsbibliothek Erfurt/Gotha, Gotha",
+    "id": "852",
+    "page": 5
+  },
+  {
+    "name": "Universitäts- und Landesbibliothek Darmstadt, Darmstadt",
+    "id": "4552",
+    "page": 5
+  },
+  {
+    "name": "Universitäts- und Landesbibliothek Sachsen-Anhalt, Halle",
+    "id": "685",
+    "page": 6
+  },
+  {
+    "name": "Universitätsbibliothek Amsterdam, Amsterdam",
+    "id": "10085",
+    "page": 6
+  },
+  {
+    "name": "Universitätsbibliothek Augsburg, Augsburg",
+    "id": "10128",
+    "page": 6
+  },
+  {
+    "name": "Universitätsbibliothek Braunschweig, Braunschweig",
+    "id": "3466",
+    "page": 6
+  },
+  {
+    "name": "Universitätsbibliothek Erlangen-Nürnberg, Erlangen",
+    "id": "10140",
+    "page": 6
+  },
+  {
+    "name": "Universitätsbibliothek Freiburg, Freiburg im Breisgau",
+    "id": "10171",
+    "page": 6
+  },
+  {
+    "name": "Universitätsbibliothek Greifswald, Greifswald",
+    "id": "10147",
+    "page": 6
+  },
+  {
+    "name": "Universitätsbibliothek Johann Christian Senckenberg, Frankfurt am Main",
+    "id": "2048",
+    "page": 6
+  },
+  {
+    "name": "Universitätsbibliothek Leiden, Leiden",
+    "id": "10089",
+    "page": 6
+  },
+  {
+    "name": "Universitätsbibliothek Osnabrück, Osnabrück",
+    "id": "10117",
+    "page": 6
+  },
+  {
+    "name": "Universitätsbibliothek Rostock, Rostock",
+    "id": "966",
+    "page": 6
+  },
+  {
+    "name": "Universitätsbibliothek Tübingen, Tübingen",
+    "id": "10129",
+    "page": 6
+  },
+  {
+    "name": "Württembergische Landesbibliothek, Stuttgart",
+    "id": "777",
+    "page": 6
+  },
+  {
+    "name": "Zentrum für Telemann-Pflege und -Forschung Magdeburg, Bibliothek, Magdeburg",
+    "id": "2046",
+    "page": 6
+  },
+  {
+    "name": "Österreichische Nationalbibliothek, Wien",
+    "id": "879",
+    "page": 6
+  }
+]

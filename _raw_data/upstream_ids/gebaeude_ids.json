@@ -1,0 +1,432 @@
+[
+  {
+    "name": "Semper-Oper",
+    "id": "3058",
+    "page": 1
+  },
+  {
+    "name": "St. Bernhardin, Breslau",
+    "id": "3059",
+    "page": 1
+  },
+  {
+    "name": "Collegio dei Nobili di Sant'Antonio",
+    "id": "3060",
+    "page": 1
+  },
+  {
+    "name": "Schlosskirche, Freiberg",
+    "id": "3061",
+    "page": 1
+  },
+  {
+    "name": "Hofkirche, Kassel",
+    "id": "3062",
+    "page": 1
+  },
+  {
+    "name": "St. Maria Magdalena, Breslau",
+    "id": "3063",
+    "page": 1
+  },
+  {
+    "name": "St. Marien, Flensburg",
+    "id": "3064",
+    "page": 1
+  },
+  {
+    "name": "St. Alban, Basel",
+    "id": "3065",
+    "page": 1
+  },
+  {
+    "name": "St. Nicolai, Jüterbog",
+    "id": "3066",
+    "page": 1
+  },
+  {
+    "name": "Piazza Santi XII Apostoli",
+    "id": "3067",
+    "page": 1
+  },
+  {
+    "name": "Palazzo Apostolico Vaticano",
+    "id": "3068",
+    "page": 1
+  },
+  {
+    "name": "Sopra una gran macchina eretta nella Gran Laguna di Venezia",
+    "id": "3069",
+    "page": 1
+  },
+  {
+    "name": "Stadtpfarrkirche S.Nicolai, Stein",
+    "id": "3070",
+    "page": 1
+  },
+  {
+    "name": "Palazzo Reale, Neapel",
+    "id": "3071",
+    "page": 1
+  },
+  {
+    "name": "gran Piazza del Real Palazzo, Neapel",
+    "id": "3072",
+    "page": 1
+  },
+  {
+    "name": "Stadtkirche St. Marien, Ronneburg",
+    "id": "3073",
+    "page": 1
+  },
+  {
+    "name": "St. Peter, Rostock",
+    "id": "3074",
+    "page": 1
+  },
+  {
+    "name": "Teatro di SS. Giovanni e Paolo",
+    "id": "3075",
+    "page": 1
+  },
+  {
+    "name": "Palazzo del Principe Ruspoli",
+    "id": "3076",
+    "page": 1
+  },
+  {
+    "name": "St. Pauls Church",
+    "id": "3077",
+    "page": 1
+  },
+  {
+    "name": "Heilige Drei Könige-Kirche, Dresden",
+    "id": "3078",
+    "page": 1
+  },
+  {
+    "name": "St. Michael, Zeitz",
+    "id": "3079",
+    "page": 1
+  },
+  {
+    "name": "Collège Royale des Jesuites",
+    "id": "3080",
+    "page": 1
+  },
+  {
+    "name": "Seminaire des Jesuites",
+    "id": "3081",
+    "page": 1
+  },
+  {
+    "name": "Stiftskirche St. Johannis, Liegnitz",
+    "id": "3187",
+    "page": 2
+  },
+  {
+    "name": "Collegio dei Nobili di Sant'Antonio",
+    "id": "3188",
+    "page": 2
+  },
+  {
+    "name": "Synagoge, Berlin",
+    "id": "3189",
+    "page": 2
+  },
+  {
+    "name": "Palazzo Barberini",
+    "id": "3190",
+    "page": 2
+  },
+  {
+    "name": "St. Katharinen, Hamburg",
+    "id": "3191",
+    "page": 2
+  },
+  {
+    "name": "Chiesa dei Santi XII Apostoli",
+    "id": "3192",
+    "page": 2
+  },
+  {
+    "name": "Hofkirche St. Martin, Kassel",
+    "id": "3193",
+    "page": 2
+  },
+  {
+    "name": "Stadtpfarrkirche St. Nicolai, Stein an der Donau",
+    "id": "3194",
+    "page": 2
+  },
+  {
+    "name": "St. Marien, Lübeck",
+    "id": "3195",
+    "page": 2
+  },
+  {
+    "name": "St. Pauls Cathedral",
+    "id": "3196",
+    "page": 2
+  },
+  {
+    "name": "Pfarrkirche, Lamstedt",
+    "id": "3197",
+    "page": 2
+  },
+  {
+    "name": "Pfarrkirche",
+    "id": "3198",
+    "page": 2
+  },
+  {
+    "name": "Pfarrkirche St. Marien",
+    "id": "3199",
+    "page": 2
+  },
+  {
+    "name": "St. Andreas",
+    "id": "3200",
+    "page": 2
+  },
+  {
+    "name": "Frauenkirche",
+    "id": "3201",
+    "page": 2
+  },
+  {
+    "name": "Dom",
+    "id": "3202",
+    "page": 2
+  },
+  {
+    "name": "Gymnasium, Hörsaal, Hamburg",
+    "id": "3203",
+    "page": 2
+  },
+  {
+    "name": "Hörsaal des Gymnasiums",
+    "id": "3204",
+    "page": 2
+  },
+  {
+    "name": "Hauptkirche St. Martin",
+    "id": "3205",
+    "page": 2
+  },
+  {
+    "name": "Haus des russischen Residenten Johann Friederich von Bötticher",
+    "id": "3206",
+    "page": 2
+  },
+  {
+    "name": "Hauptkirche",
+    "id": "3207",
+    "page": 2
+  },
+  {
+    "name": "Hofoper",
+    "id": "3208",
+    "page": 2
+  },
+  {
+    "name": "Kreuzkirche",
+    "id": "3209",
+    "page": 2
+  },
+  {
+    "name": "Cappella del Nobile collegio Tolomei",
+    "id": "3210",
+    "page": 2
+  },
+  {
+    "name": "Pfarrkirche, Dieterskirch (Uttenweiler)",
+    "id": "3211",
+    "page": 3
+  },
+  {
+    "name": "Unterkunft des/der Gesandten",
+    "id": "3212",
+    "page": 3
+  },
+  {
+    "name": "Klosterkirche der Franziskaner",
+    "id": "3213",
+    "page": 3
+  },
+  {
+    "name": "St. Anna",
+    "id": "3214",
+    "page": 3
+  },
+  {
+    "name": "Synagoge",
+    "id": "3215",
+    "page": 3
+  },
+  {
+    "name": "Whitehall chapel",
+    "id": "3216",
+    "page": 3
+  },
+  {
+    "name": "Stadtpfarrkirche S.Nicolai, Stein an der Donau",
+    "id": "3217",
+    "page": 3
+  },
+  {
+    "name": "Kirche, St. Petri",
+    "id": "3218",
+    "page": 3
+  },
+  {
+    "name": "Gymnasium",
+    "id": "3219",
+    "page": 3
+  },
+  {
+    "name": "Stadtkirche St. Marien, Rendsburg",
+    "id": "3220",
+    "page": 3
+  },
+  {
+    "name": "Stadtkirche St. Marien",
+    "id": "3221",
+    "page": 3
+  },
+  {
+    "name": "Pfarrkirche, Dietrichskirchen",
+    "id": "3222",
+    "page": 3
+  },
+  {
+    "name": "Pfarrkirche Dieterskirch (Uttenweiler)",
+    "id": "3223",
+    "page": 3
+  },
+  {
+    "name": "Pfarrkirche St. Petri, Hamburg",
+    "id": "3224",
+    "page": 3
+  },
+  {
+    "name": "Klosterkirche Notre Dame de la Mercy",
+    "id": "3225",
+    "page": 3
+  },
+  {
+    "name": "Louvre, Grand-Chapelle",
+    "id": "3226",
+    "page": 3
+  },
+  {
+    "name": "Schlosskirche St. Georg, Altenburg",
+    "id": "3227",
+    "page": 3
+  },
+  {
+    "name": "Lutherische Kirche, Den Haag",
+    "id": "3228",
+    "page": 3
+  },
+  {
+    "name": "Lutherische Gemeinde",
+    "id": "3229",
+    "page": 3
+  },
+  {
+    "name": "Hugenottenkirche, Erlangen",
+    "id": "3230",
+    "page": 3
+  },
+  {
+    "name": "Liebfrauenmünster, Straßburg",
+    "id": "3231",
+    "page": 3
+  },
+  {
+    "name": "St. Afra, Meißen",
+    "id": "3232",
+    "page": 3
+  },
+  {
+    "name": "Schloss Annaburg",
+    "id": "3233",
+    "page": 3
+  },
+  {
+    "name": "Pfarrkirche St. Johannis, Gera",
+    "id": "3234",
+    "page": 3
+  },
+  {
+    "name": "St. Anna, Augsburg",
+    "id": "3235",
+    "page": 4
+  },
+  {
+    "name": "Thomaskirche, Leipzig",
+    "id": "3236",
+    "page": 4
+  },
+  {
+    "name": "Dom- und Schlosskirche Zur Heiligen Dreifaltigkeit, Halle",
+    "id": "3237",
+    "page": 4
+  },
+  {
+    "name": "Bethlehemskirche, Berlin",
+    "id": "3238",
+    "page": 4
+  },
+  {
+    "name": "Stadtpfarrkirche St. Martin, Memmingen",
+    "id": "3239",
+    "page": 4
+  },
+  {
+    "name": "Teatro SS. Giovanni e Paolo",
+    "id": "3240",
+    "page": 4
+  },
+  {
+    "name": "Pfarrkirche Heilig-Geist, Magdeburg",
+    "id": "3241",
+    "page": 4
+  },
+  {
+    "name": "Metropolitana (Kirche)",
+    "id": "3242",
+    "page": 4
+  },
+  {
+    "name": "Grote Zaal, Binnenhof",
+    "id": "3243",
+    "page": 4
+  },
+  {
+    "name": "Garnison-Gottesdienst",
+    "id": "3244",
+    "page": 4
+  },
+  {
+    "name": "St. Pauls Cathedral, London",
+    "id": "3245",
+    "page": 4
+  },
+  {
+    "name": "sächssischen Haupt-Theater",
+    "id": "3246",
+    "page": 4
+  },
+  {
+    "name": "Palazzo a Pasquino",
+    "id": "3247",
+    "page": 4
+  },
+  {
+    "name": "Sala grande del Nobile collegio Tolomei",
+    "id": "3248",
+    "page": 4
+  }
+]
