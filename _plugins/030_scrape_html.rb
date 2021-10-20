@@ -1,6 +1,3 @@
-require 'pry'
-require 'selenium-webdriver'
-
 Jekyll::Hooks.register :site, :after_init do |site|
   puts "scraping html from wisski objekt pages ... "
 
@@ -12,7 +9,15 @@ Jekyll::Hooks.register :site, :after_init do |site|
     data.each_with_index do |record, i|
       client.navigate.to "#{ENV['UPSTREAM_URL']}/wisski/navigate/#{record['id']}/view"
 
-      binding.pry
+      client.all(:css, '.field--name-fafca0b186007f0af55dce0c5bbbedb9').each do |k|
+        record['Kommentar-html'] = k['innerHTML']
+      end
+
+      puts "#{i}/#{data.size}"
+    end
+
+    File.open target, 'w+' do |f|
+      f.puts JSON.pretty_generate(data)
     end
   end
 end

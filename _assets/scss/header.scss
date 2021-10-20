@@ -8,6 +8,22 @@ nav {
     display: none;
     margin: 0 0.5rem;
   }
+
+  .navbar-toggler {
+    border: none;
+  }
+}
+
+nav.navbar-dark {
+  .navbar-nav {
+    .nav-link:focus {
+      color: white;
+    }
+
+    .nav-link:hover {
+      color: $orange;
+    }
+  }
 }
 
 @include media-breakpoint-up('lg') {
@@ -20,9 +36,10 @@ nav {
         position: relative;
         background-color: white;
         height: 10px;
-        margin-bottom: -10px;
+        margin-bottom: -7px;
         top: 30px;
       }
     }
   }
 }
+

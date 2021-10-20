@@ -1,7 +1,3 @@
-require 'pry'
-require 'selenium-webdriver'
-require 'digest'
-
 jobs = {
   'ereignis' => 'b0b3d5c18f9c38cf9655078cb0bfffe6',
   'motiv' => 'b86a7fe89da3031b6c7cc8227b8d87cb',

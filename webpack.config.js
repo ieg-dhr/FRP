@@ -5,10 +5,13 @@ module.exports = (env, argv) => {
 
   return {
     mode: mode,
-    entry: __dirname + '/_assets/app.js',
+    entry: {
+      app: __dirname + '/_assets/app.js',
+      database: __dirname + '/_assets/database.js'
+    },
     output: {
       path: __dirname + '/assets',
-      filename: 'app.js'
+      filename: '[name].js'
     },
     devtool: mode == 'development' ? 'eval-source-map' : false,
     module: {

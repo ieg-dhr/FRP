@@ -1,3 +1,9 @@
+require 'dotenv/load'
+
+require 'pry'
+require 'selenium-webdriver'
+require 'digest'
+
 def make_client
   if ENV['HEADLESS_SCRAPING'] == 'true'
     opts = Selenium::WebDriver::Firefox::Options.new(args: ['-headless'])

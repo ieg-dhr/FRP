@@ -1,5 +1,3 @@
-require 'pry'
-
 Jekyll::Hooks.register :site, :after_init do |site|
   puts 'checking data integrity ...'
 
@@ -72,7 +70,7 @@ Jekyll::Hooks.register :site, :after_init do |site|
       # some locations are just strings
     end
 
-    binding.pry if record['id'] == '658'
+    # binding.pry if record['id'] == '658'
   end
 
   # inhalt.each do ||

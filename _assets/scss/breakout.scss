@@ -2,6 +2,9 @@
   @return calc((var(--vw, 1vw) * $amount));
 }
 
+
+// all breakpoints
+
 @include media-breakpoint-up('xs') {
   $mw: calc((actual-vw(100) - actual-vw(98)) / -2 - $container-padding-x);
 
@@ -38,6 +41,25 @@
   $mw: calc((1920px - 614px) / -2 - $container-padding-x);
 
   .breakout {
+    margin: 0 $mw;
+  }
+}
+
+
+// lg-up
+
+@include media-breakpoint-up('lg') {
+  $mw: calc((actual-vw(100) - 614px) / -2 - $container-padding-x);
+
+  .breakout-lg {
+    margin: 0 $mw;
+  }
+}
+
+@include media-breakpoint-up('xxl') {
+  $mw: calc((1920px - 614px) / -2 - $container-padding-x);
+
+  .breakout-lg {
     margin: 0 $mw;
   }
 }

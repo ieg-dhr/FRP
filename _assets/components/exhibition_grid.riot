@@ -1,0 +1,29 @@
+<exhibition-grid>
+  <ul>
+    <li each={record in this.state.records}>{record['Titel/Incipit']}</li>
+  </ul>
+
+  <script>
+    import {Url} from '@wendig/lib'
+
+    export default class {
+      onMounted() {
+        this.db = new Worker('/assets/database.js', {credentials: 'same-origin'});
+
+        this.db.onmessage = event => {
+          console.log(event)
+          if (event.data.action == 'search-results') {
+            console.log(this)
+            this.update({
+              records: event.data.results
+            })
+          }
+        }
+
+        const u = Url.current()
+        const category = decodeURIComponent(u.params().category)
+        this.db.postMessage({action: 'search', criteria: {category: category}})
+      }
+    }
+  </script>
+</exhibition-grid>
