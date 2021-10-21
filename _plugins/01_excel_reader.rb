@@ -1,7 +1,3 @@
-require 'pry'
-require 'roo'
-require 'digest'
-
 IDS = {}
 
 def ensure_images(record)
@@ -16,7 +12,7 @@ def ensure_images(record)
     next if u.match?(/^entity:node/)
 
     u.gsub! ' ', '%20'
-    h = Digest::SHA2.hexdigest(u)[0..14]
+    h = hash_for(u)
     base = u.split('/').last
     parts = base.split('.')
     ext = (parts.size > 1 ? parts.last : nil) || 'jpg'

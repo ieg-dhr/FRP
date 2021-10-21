@@ -5,6 +5,10 @@
 
 // all breakpoints
 
+.breakout {
+  overflow-x: hidden;
+}
+
 @include media-breakpoint-up('xs') {
   $mw: calc((actual-vw(100) - actual-vw(98)) / -2 - $container-padding-x);
 

@@ -23,3 +23,9 @@ riot.register('to-top', ToTop)
 riot.mount('app, bibliography, exhibition-grid, to-top')
 
 // feather.replace()
+
+document.addEventListener('readystatechange', event => {
+  if (document.readyState == 'complete') {
+    document.body.removeAttribute('style')
+  }
+})

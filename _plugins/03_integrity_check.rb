@@ -70,6 +70,12 @@ Jekyll::Hooks.register :site, :after_init do |site|
       # some locations are just strings
     end
 
+    urls = 
+      (record['Bild-URL'] || '').split("\n") + 
+      (record['Bearbeitetes Bild URL'] || '').split("\n")
+    hashes = record['W-Image'] || []
+    puts "MISSING IMAGE: record id #{record['id']}: #{urls.size} urls vs #{hashes.size} downloaded" unless urls.size == hashes.size
+
     # binding.pry if record['id'] == '658'
   end
 

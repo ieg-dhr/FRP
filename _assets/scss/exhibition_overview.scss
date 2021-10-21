@@ -1,0 +1,63 @@
+@use "sass:color";
+
+.exhibition-category-tile {
+  .caption {
+    font-family: corporates-bold;
+    // font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+
+    padding: map-get($spacers, 2);
+  }
+}
+
+@include media-breakpoint-up('sm') {
+  .exhibition-category-tile {
+    .caption {
+      font-size: 1.4rem;
+      padding: map-get($spacers, 3);
+    }
+  }
+}
+
+
+@include media-breakpoint-up('lg') {
+  .exhibition-category-tile {
+    margin-bottom: -61px;
+
+    .caption {
+      position: relative;
+      top: -61px;
+      color: white;
+      font-size: 1.6rem;
+      padding-left: map-get($spacers, 4);
+    }
+
+    .overlay-bg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      opacity: 0.8;
+      background-color: $yellow;
+    }
+
+    .text {
+      position: relative;
+      display: block;
+    }
+  }
+}
+
+@include media-breakpoint-up('xl') {
+  .exhibition-category-tile {
+    margin-bottom: -84px;
+
+    .caption {
+      top: -84px;
+      font-size: 2rem;
+      padding: map-get($spacers, 4);
+    }
+  }
+}

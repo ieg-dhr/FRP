@@ -4,6 +4,13 @@ require 'pry'
 require 'selenium-webdriver'
 require 'digest'
 
+def hash_for(url)
+  out = url.gsub ' ', '%20'
+  r = Digest::SHA2.hexdigest(out)[0..14]
+  bindnig.pry if r.match?('-')
+  r
+end
+
 def make_client
   if ENV['HEADLESS_SCRAPING'] == 'true'
     opts = Selenium::WebDriver::Firefox::Options.new(args: ['-headless'])

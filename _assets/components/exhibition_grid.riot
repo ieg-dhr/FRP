@@ -1,19 +1,72 @@
 <exhibition-grid>
-  <ul>
-    <li each={record in this.state.records}>{record['Titel/Incipit']}</li>
-  </ul>
+  <h1 class="mt-7 mb-5">{this.state.category}</h1>
+
+  <div class="breakout">
+    <div class="d-flex flex-column align-items-center mb-6">
+      <img src="/assets/images/categories/{coverImage()}.jpg" class="mw-100" />
+    </div>
+  </div>
+
+  <hr class="d-none d-lg-block mt-5 mb-5"/>
+
+  <div class="text-center mb-5 mb-lg-0">
+    <a
+      class="d-block d-lg-inline-block btn btn-primary"
+      data-bs-toggle="collapse"
+      href="#category-selector"
+    >
+      zu den anderen Galerien&nbsp;
+      <svg class="feather">
+        <use href="/assets/feather.svg#compass" />
+      </svg>
+    </a>
+  
+    <div class="collapse mt-lg-4" id="category-selector">
+      <div class="card card-body">
+        <a
+          each={c in this.categories()}
+          class="fs-4 fs-md-3 fs-lg-2 btn mb-2 mb-md-3 me-2 {active(c)}"
+          href="/exhibition?category={c}"
+        >{c}</a>
+      </div>
+    </div>
+  </div>
+
+  <hr class="d-none d-lg-block mt-5 mb-6"/>
+
+  <exhibition-description class="d-block mb-7" category={this.state.category} />
+
+  <div class="breakout">
+    <div class="row g-0 grid">
+      <div
+        class="tile col-12 col-sm-6 col-md-4 col-xl-3 d-flex flex-column justify-content-start align-items-center"
+        each={record in this.state.records}
+      >
+        <div class="frame">
+          <img src={this.imageUrlFor(record)} />
+        </div>
+        <div class="caption">
+          {record['Titel/Incipit']}
+        </div>
+        <a href="{objectUrl(record)}" class="stretched-link"></a>
+      </div>
+    </div>
+  </div>
 
   <script>
     import {Url} from '@wendig/lib'
+    import ExhibitionDescription from './exhibition_description.riot'
 
     export default class {
-      onMounted() {
-        this.db = new Worker('/assets/database.js', {credentials: 'same-origin'});
+      static components = {
+        'exhibition-description': ExhibitionDescription
+      }
 
+      onBeforeMount() {
+        this.db = new Worker('/assets/database.js', {credentials: 'same-origin'});
         this.db.onmessage = event => {
           console.log(event)
           if (event.data.action == 'search-results') {
-            console.log(this)
             this.update({
               records: event.data.results
             })
@@ -22,7 +75,72 @@
 
         const u = Url.current()
         const category = decodeURIComponent(u.params().category)
+        this.state = {category: category}
+
         this.db.postMessage({action: 'search', criteria: {category: category}})
+      }
+
+      onUpdated() {
+        const elements = this.root.querySelectorAll('.category-links > *') 
+        for (const e of elements) {
+          e.append(' ')
+        }
+      }
+
+      imageUrlFor(record) {
+        let upstreamUrls = []
+
+        const bbu = record['Bearbeitetes Bild URL']
+        if (bbu) {
+          upstreamUrls = upstreamUrls.concat(bbu.split("\n"))
+        }
+
+        const bu = record['Bild-URL']
+        if (bu) {
+          upstreamUrls = upstreamUrls.concat(bu.split("\n"))
+        }
+
+        const hashes = record['W-Image'] || []
+
+        if (upstreamUrls.length && upstreamUrls.length == hashes.length) {
+          const hash = hashes[0].split(/[\.\/]/)[3]
+          return `/assets/images/thumbs/${hash}.jpg`
+        }
+      }
+
+      categories() {
+        return [
+          'Diplomatie',
+          'Herrscherrepräsentation',
+          'Frieden durch göttliches Handeln',
+          'Jubiläum',
+          'Friedenszeit',
+          'Ordnungsvorstellungen',
+          'Friedensbotschaft',
+          'Natur'
+        ]
+      }
+
+      coverImage() {
+        return {
+          'Diplomatie': 'diplomatie',
+          'Herrscherrepräsentation': 'herrscher_repraesentationen',
+          'Frieden durch göttliches Handeln': 'goettliches_handeln',
+          'Jubiläum': 'jubilaeum',
+          'Friedenszeit': 'friedenszeit',
+          'Ordnungsvorstellungen': 'ordnungsvorstellungen',
+          'Friedensbotschaft': 'friedensbotschaft',
+          'Natur': 'natur'
+        }[this.state.category]
+      }
+
+      objectUrl(record) {
+        const wisskiUrl = document.querySelector('meta[name="wisski-url"]').getAttribute('content')
+        return `${wisskiUrl}/wisski/navigate/${record['id']}/view`
+      }
+
+      active(category) {
+        return this.state.category == category ? 'disabled' : ''
       }
     }
   </script>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="en" dir="ltr" class="overflow-x-hiddens">
+<html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8" />
     <meta
@@ -8,6 +8,7 @@
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
     <meta name="description" content="{{site.description}}" />
+    <meta name="wisski-url" content="{{site.wisski_url}}" />
 
     <link
       rel="shortcut icon"
@@ -24,7 +25,7 @@
 
     <title>{{site.title}}</title>
   </head>
-  <body class="position-relative">
+  <body class="position-relative" style="display: none">
     {% include header.html %}
 
     {{ content }}

@@ -28,7 +28,7 @@ const handler = event => {
     const criteria = event.data.criteria || {}
 
     if (criteria.title) {
-      const regex = new RegExp(`${criteria.title}`)
+      const regex = new RegExp(`${criteria.title}`, 'i')
       results = results.filter(r => {
         return (r['Titel/Incipit'] || '').match(regex)
       })

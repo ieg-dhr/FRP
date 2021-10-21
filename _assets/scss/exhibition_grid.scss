@@ -1,67 +1,94 @@
-@use "sass:color";
+exhibition-grid {
+  #category-selector {
+    .btn:hover {
+      color: $orange;
+    }
+  }
+  // .category-links {
+  //   a {
+  //     color: $gray-600;
+  //     text-decoration: none;
+  //     display: block;
+  //   }
 
-.exhibition-grid {
-  .caption {
-    font-family: corporates-bold;
-    // font-weight: bold;
-    text-transform: uppercase;
-    text-align: center;
+  //   a.active {
+  //     color: $gray-900;
+  //   }
 
-    padding: map-get($spacers, 2);
+  //   a:hover {
+  //     color: $orange;
+  //   }
+  // }
+
+  .grid {
+    .tile {
+      position: relative;
+      margin-bottom: map-get($spacers, 5);
+    }
+
+    .caption {
+      margin-top: map-get($spacers, 4);
+      padding: 0 map-get($spacers, 3);
+    }
+
+    img {
+      width: 100%;
+    }
   }
 }
 
 @include media-breakpoint-up('sm') {
-  .exhibition-grid {
-    .caption {
-      font-size: 1.4rem;
-      padding: map-get($spacers, 3);
+  exhibition-grid {
+    // .category-links {
+    //   a {
+    //     text-align: center;
+    //   }
+    // }
+
+    .grid {
+      .tile {
+        padding: map-get($spacers, 3);
+      }
+
+      .frame {
+        height: 15rem;
+      }
+
+      img {
+        max-height: 15rem;
+        width: auto;
+        max-width: 100%;
+      }
+
+      .caption {
+        text-align: center;
+        padding: 0;
+      }
     }
   }
 }
-
 
 @include media-breakpoint-up('lg') {
-  .exhibition-grid {
-    .col-lg-6 {
-      margin-bottom: -61px;
-    }
+  exhibition-grid {
+    // .category-links {
+    //   a {
+    //     display: inline;
+    //     white-space: nowrap;
+    //   }
+    // }
 
-    .caption {
-      position: relative;
-      top: -61px;
-      color: white;
-      font-size: 1.6rem;
-      padding-left: map-get($spacers, 4);
-    }
+    .grid {
+      .tile {
+        margin-bottom: map-get($spacers, 6);
+      }
 
-    .overlay-bg {
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      opacity: 0.8;
-      background-color: $yellow;
-    }
+      .frame {
+        height: 18rem;
+      }
 
-    .text {
-      position: relative;
-      display: block;
-    }
-  }
-}
-
-@include media-breakpoint-up('xl') {
-  .exhibition-grid {
-    .col-lg-6 {
-      margin-bottom: -84px;
-    }
-
-    .caption {
-      top: -84px;
-      font-size: 2rem;
-      padding: map-get($spacers, 4);
+      img {
+        max-height: 18rem;
+      }
     }
   }
 }
