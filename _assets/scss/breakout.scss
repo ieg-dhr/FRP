@@ -6,7 +6,8 @@
 // all breakpoints
 
 .breakout {
-  
+  max-width: actual-vw(100);
+  overflow-x: hidden;
 }
 
 @include media-breakpoint-up('xs') {
@@ -45,6 +46,7 @@
   $mw: calc((1920px - 614px) / -2 - $container-padding-x);
 
   .breakout {
+    width: 1920px;
     margin: 0 $mw;
   }
 }

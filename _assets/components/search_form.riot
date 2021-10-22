@@ -24,7 +24,7 @@
 
       onHashChange(doUpdate) {
         const url = Url.current()
-        this.state.value = decodeURIComponent(url.hashParams()['terms'])
+        this.state.value = decodeURIComponent(url.hashParams()['terms'] || '')
 
         if (doUpdate) {
           this.update()

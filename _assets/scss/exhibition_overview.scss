@@ -1,9 +1,10 @@
 @use "sass:color";
 
 .exhibition-category-tile {
+  margin: map-get($spacers, 4) 0;
+
   .caption {
     font-family: corporates-bold;
-    // font-weight: bold;
     text-transform: uppercase;
     text-align: center;
 
@@ -17,6 +18,12 @@
       font-size: 1.4rem;
       padding: map-get($spacers, 3);
     }
+  }
+}
+
+@include media-breakpoint-up('md') {
+  .exhibition-category-tile {
+    margin: map-get($spacers, 5) 0;
   }
 }
 
@@ -48,16 +55,32 @@
       display: block;
     }
   }
+
+  .exhibition-category-tile:nth-child(2n + 1) {
+    padding-right: map-get($spacers, 5) / 2;
+  }
+
+  .exhibition-category-tile:nth-child(2n) {
+    padding-left: map-get($spacers, 5) / 2;
+  }
 }
 
 @include media-breakpoint-up('xl') {
   .exhibition-category-tile {
-    margin-bottom: -84px;
+    margin-bottom: -84px + 30px;
 
     .caption {
       top: -84px;
       font-size: 2rem;
       padding: map-get($spacers, 4);
     }
+  }
+
+  .exhibition-category-tile:nth-child(2n + 1) {
+    padding-right: map-get($spacers, 6) / 2;
+  }
+
+  .exhibition-category-tile:nth-child(2n) {
+    padding-left: map-get($spacers, 6) / 2;
   }
 }

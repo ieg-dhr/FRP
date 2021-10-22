@@ -54,6 +54,12 @@
   width: 10%;
 }
 
+@include media-breakpoint-up('xl') {
+  .w-xl-100 {
+    width: 100%;
+  }
+}
+
 .mw-50 {
   max-width: 40%;
 }
