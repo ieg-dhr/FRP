@@ -19,12 +19,18 @@ module.exports = (env, argv) => {
         {
           test: /\.riot$/,
           exclude: /node_modules/,
-          use: [{
-            loader: '@riotjs/webpack-loader',
-            options: {
-              hot: false, // set it to true if you are using hmr
-              // add here all the other @riotjs/compiler options riot.js.org/compiler
-              // template: 'pug' for example
+          use: [
+            {
+              loader: 'babel-loader',
+              options: {
+                presets: ['@babel/preset-env']
+              },
+            },{
+              loader: '@riotjs/webpack-loader',
+              options: {
+                hot: true, // set it to true if you are using hmr
+                // add here all the other @riotjs/compiler options riot.js.org/compiler
+                // template: 'pug' for example
             }
           }]
         }, {
@@ -36,6 +42,16 @@ module.exports = (env, argv) => {
             },
             'sass-loader'
           ]
+        },
+        {
+          test: /\.m?js$/,
+          exclude: /node_modules/,
+          use: {
+            loader: 'babel-loader',
+            options: {
+              presets: ['@babel/preset-env']
+            }
+          }
         }
       ]
     }

@@ -29,30 +29,33 @@
 
 // text
 
+@include media-breakpoint-up('sm') {
+  .fs-sm-6 {
+    font-size: $h6-font-size !important;
+  }
+}
+
 @include media-breakpoint-up('md') {
   .fs-md-3 {
-    font-size: $h3-font-size;
+    font-size: $h3-font-size !important;
   }
 }
 
-@include media-breakpoint-up('md') {
+@include media-breakpoint-up('lg') {
   .fs-lg-2 {
-    font-size: $h2-font-size;
+    font-size: $h2-font-size !important;
   }
 }
-
-// $h1-font-size:                $font-size-base * 2.5 !default;
-// $h2-font-size:                $font-size-base * 2 !default;
-// $h3-font-size:                $font-size-base * 1.75 !default;
-// $h4-font-size:                $font-size-base * 1.5 !default;
-// $h5-font-size:                $font-size-base * 1.25 !default;
-// $h6-font-size:                $font-size-base !default;
 
 
 // widths
 
 .w-10 {
   width: 10%;
+}
+
+.mw-50 {
+  max-width: 40%;
 }
 
 .overflow-x-hidden {

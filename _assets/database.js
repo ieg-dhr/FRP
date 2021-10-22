@@ -15,32 +15,67 @@ fetch('/data/objekt.json').
     queue = []
   })
 
+const fold = (str) => {
+  return str.toString().
+    replaceAll(/[äáàâå]/g, 'a').
+    replaceAll(/[öóòôðø]/g, 'o').
+    replaceAll(/[iíìî]/g, 'i').
+    replaceAll(/[ëéèê]/g, 'e').
+    replaceAll(/[üúùû]/g, 'u').
+    replaceAll(/[ÿ]/g, 'y').
+    replaceAll(/æ/g, 'ae').
+    replaceAll(/ß/g, 'ss')
+}
+
 const handler = event => {
   if (!ready) {
     queue.push(event)
     return
   }
 
+  const now = new Date()
   console.log(event.data)
 
   if (event.data.action == 'search') {
     let results = storage.objects
     const criteria = event.data.criteria || {}
 
-    if (criteria.title) {
-      const regex = new RegExp(`${criteria.title}`, 'i')
-      results = results.filter(r => {
-        return (r['Titel/Incipit'] || '').match(regex)
-      })
-    }
+    results = results.filter(r => {
+      if (criteria.title) {
+        const value = fold(r['Titel/Incipit'])
+        const terms = criteria.title.split(/\s/)
+        const m = terms.every(t => {
+          const regex = new RegExp(`${fold(t)}`, 'i')
+          return value.match(regex)
+        })
+        if (!m) {return false}
+      }
 
-    if (criteria.category) {
-      results = results.filter(r => {
-        return r['Präsentationsgruppe'] == criteria.category
-      })
-    }
+      if (criteria.category) {
+        let categories = r['Präsentationsgruppe']
+        if (!categories) {return false}
 
-    postMessage({action: 'search-results', results: results})
+        categories = categories.split("\n")
+        const m = categories.includes(criteria.category)
+        if (!m) {return false}
+      }
+
+      return true
+    })
+
+    results = results.sort((x, y) => {
+      const xt = (x['Titel/Incipit'] || '').trim()
+      const yt = (y['Titel/Incipit'] || '').trim()
+      if (xt == yt) return 0
+      return xt < yt ? -1 : 1 
+    })
+
+    postMessage({
+      action: 'search-results',
+      results: results
+    })
+
+    console.log(`search results generated in ${new Date() - now} ms`)
     return
   }
 

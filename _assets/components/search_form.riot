@@ -1,0 +1,45 @@
+<search-form>
+  <div class="form-floating mb-3">
+    <input
+      type="search"
+      class="form-control"
+      id="search-terms"
+      placeholder="taube"
+      oninput={event => onChange(event)}
+      value={state.value}
+    >
+    <label for="floatingInput">Suchbegriff</label>
+  </div>
+
+  <script>
+    import {Url} from '@wendig/lib'
+    import {delay} from '../lib/utils'
+
+    export default class {
+      onBeforeMount() {
+        this.onHashChange()
+
+        window.addEventListener('hashchange', event => this.onHashChange(true))
+      }
+
+      onHashChange(doUpdate) {
+        const url = Url.current()
+        this.state.value = decodeURIComponent(url.hashParams()['terms'])
+
+        if (doUpdate) {
+          this.update()
+        }
+      }
+
+      onChange(event) {
+        delay(this.submit, 200)(event)
+      }
+
+      submit(event) {
+        const url = Url.current()
+        url.updateHashParams({terms: event.target.value})
+        url.apply()
+      }
+    }
+  </script>
+</search-form>

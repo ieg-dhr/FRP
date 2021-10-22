@@ -1,0 +1,39 @@
+<search-results>
+  <ul class="list-unstyled">
+    <li each={item in state.items} class="mb-4 mb-md-4" >
+      <a href={item.upstreamUrl()} target="_blank" class="text-decoration-none">
+        {item.title()}
+      </a>&nbsp;
+      <a href={item.upstreamEditUrl()} target="_blank" class="text-decoration-none">
+        <svg class="feather">
+          <use href="/assets/feather.svg#edit" />
+        </svg>
+      </a>
+    </li>
+  </ul>
+
+  <script>
+    import {Url} from '@wendig/lib'
+    import {Search} from '../lib/search'
+
+    export default class {
+      onBeforeMount() {
+        this.search = new Search()
+        this.search.addListener(items => {
+          this.update({
+            items: items
+          })
+        })
+        window.addEventListener('hashchange', event => this.onHashChange())
+        this.onHashChange()
+      }
+
+      onHashChange() {
+        const url = Url.current()
+        const terms = decodeURIComponent(url.hashParams()['terms'])
+        console.log(terms)
+        this.search.query({title: terms})
+      }
+    }
+  </script>
+</search-results>

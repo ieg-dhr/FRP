@@ -1,10 +1,8 @@
 <exhibition-grid>
   <h1 class="mt-7 mb-5">{this.state.category}</h1>
 
-  <div class="breakout">
-    <div class="d-flex flex-column align-items-center mb-6">
-      <img src="/assets/images/categories/{coverImage()}.jpg" class="mw-100" />
-    </div>
+  <div class="d-flex flex-column align-items-center mb-6">
+    <img src="/assets/images/categories/{coverImage()}.jpg" class="mw-100" />
   </div>
 
   <hr class="d-none d-lg-block mt-5 mb-5"/>
@@ -36,25 +34,30 @@
 
   <exhibition-description class="d-block mb-7" category={this.state.category} />
 
-  <div class="breakout">
+  <div class="breakout overflow-x-hidden">
     <div class="row g-0 grid">
       <div
-        class="tile col-12 col-sm-6 col-md-4 col-xl-3 d-flex flex-column justify-content-start align-items-center"
-        each={record in this.state.records}
+        class="tile col-12 col-sm-6 col-lg-4 col-xl-3 d-flex flex-column justify-content-start align-items-center"
+        each={item in this.state.items}
       >
         <div class="frame">
-          <img src={this.imageUrlFor(record)} />
+          <img src={item.imageUrl()} />
+          <div
+            if={!item.hasImage()}
+            class="dummy-text text-white fs-3 fs-sm-6"
+          >keine<br />Abbildung<br />verfügbar</div>
         </div>
         <div class="caption">
-          {record['Titel/Incipit']}
+          {item.title()}
         </div>
-        <a href="{objectUrl(record)}" class="stretched-link"></a>
+        <a href="{item.upstreamUrl()}" class="stretched-link"></a>
       </div>
     </div>
   </div>
 
   <script>
     import {Url} from '@wendig/lib'
+    import {Search} from '../lib/search'
     import ExhibitionDescription from './exhibition_description.riot'
 
     export default class {
@@ -63,48 +66,23 @@
       }
 
       onBeforeMount() {
-        this.db = new Worker('/assets/database.js', {credentials: 'same-origin'});
-        this.db.onmessage = event => {
-          console.log(event)
-          if (event.data.action == 'search-results') {
-            this.update({
-              records: event.data.results
-            })
-          }
-        }
+        this.search = new Search()
+        this.search.addListener(items => {
+          this.update({
+            items: items
+          })
+        })
 
         const u = Url.current()
         const category = decodeURIComponent(u.params().category)
         this.state = {category: category}
-
-        this.db.postMessage({action: 'search', criteria: {category: category}})
+        this.search.query({category: category})
       }
 
       onUpdated() {
         const elements = this.root.querySelectorAll('.category-links > *') 
         for (const e of elements) {
           e.append(' ')
-        }
-      }
-
-      imageUrlFor(record) {
-        let upstreamUrls = []
-
-        const bbu = record['Bearbeitetes Bild URL']
-        if (bbu) {
-          upstreamUrls = upstreamUrls.concat(bbu.split("\n"))
-        }
-
-        const bu = record['Bild-URL']
-        if (bu) {
-          upstreamUrls = upstreamUrls.concat(bu.split("\n"))
-        }
-
-        const hashes = record['W-Image'] || []
-
-        if (upstreamUrls.length && upstreamUrls.length == hashes.length) {
-          const hash = hashes[0].split(/[\.\/]/)[3]
-          return `/assets/images/thumbs/${hash}.jpg`
         }
       }
 
@@ -132,11 +110,6 @@
           'Friedensbotschaft': 'friedensbotschaft',
           'Natur': 'natur'
         }[this.state.category]
-      }
-
-      objectUrl(record) {
-        const wisskiUrl = document.querySelector('meta[name="wisski-url"]').getAttribute('content')
-        return `${wisskiUrl}/wisski/navigate/${record['id']}/view`
       }
 
       active(category) {

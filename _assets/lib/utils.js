@@ -6,6 +6,7 @@ const delay = (fn, millies) => {
       timeout = clearTimeout(timeout)
     }
 
+    // console.log(fn, millies, ...args)
     timeout = setTimeout(fn, millies, ...args)
   }
 }
@@ -13,7 +14,6 @@ const delay = (fn, millies) => {
 const togglingCollapses = (root) => {
   const collapses = root.querySelectorAll('.collapse')
   for (const c of collapses) {
-    console.log(c)
     const toggle = c.getAttribute('toggle')
     if (toggle) {
       c.addEventListener('show.bs.collapse', event => {
