@@ -7,5 +7,6 @@
 /node_modules
 
 /assets/app*
+/_assets/edit/*~
 
 /_raw_data/images/
