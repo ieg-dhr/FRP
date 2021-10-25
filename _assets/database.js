@@ -72,7 +72,8 @@ const handler = event => {
 
     postMessage({
       action: 'search-results',
-      results: results
+      results: results,
+      total: storage.objects.length
     })
 
     console.log(`search results generated in ${new Date() - now} ms`)

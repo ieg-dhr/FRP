@@ -16,6 +16,10 @@ nav {
   .navbar-toggler {
     border: none;
   }
+
+  .navbar-brand {
+    max-width: 80%
+  }
 }
 
 nav.navbar-dark {
@@ -46,4 +50,3 @@ nav.navbar-dark {
     }
   }
 }
-

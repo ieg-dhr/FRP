@@ -1,4 +1,9 @@
 <search-results>
+  <div
+    if={state.items && state.items.length}
+    class="text-center my-4 my-lg-5"
+  >{state.items.length} / {state.total}</div>
+
   <ul class="list-unstyled">
     <li each={item in state.items} class="mb-4 mb-md-4" >
       <a href={item.upstreamUrl()} target="_blank" class="text-decoration-none">
@@ -19,9 +24,10 @@
     export default class {
       onBeforeMount() {
         this.search = new Search()
-        this.search.addListener(items => {
+        this.search.addListener((items, total) => {
           this.update({
-            items: items
+            items: items,
+            total: total
           })
         })
         window.addEventListener('hashchange', event => this.onHashChange())

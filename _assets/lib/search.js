@@ -54,8 +54,9 @@ class Search {
     this.worker.onmessage = event => {
       if (event.data.action == 'search-results') {
         const items = event.data.results.map(r => new Item(r))
+        const total = event.data.total
         for (const l of this.listeners) {
-          l(items)
+          l(items, total)
         }
       }
     }
