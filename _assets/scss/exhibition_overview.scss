@@ -1,4 +1,5 @@
 @use "sass:color";
+@use "sass:math";
 
 .exhibition-category-tile {
   margin: map-get($spacers, 4) 0;
@@ -57,11 +58,11 @@
   }
 
   .exhibition-category-tile:nth-child(2n + 1) {
-    padding-right: map-get($spacers, 5) / 2;
+    padding-right: math.div(map-get($spacers, 5), 2);
   }
 
   .exhibition-category-tile:nth-child(2n) {
-    padding-left: map-get($spacers, 5) / 2;
+    padding-left: math.div(map-get($spacers, 5), 2);
   }
 }
 
@@ -77,10 +78,10 @@
   }
 
   .exhibition-category-tile:nth-child(2n + 1) {
-    padding-right: map-get($spacers, 6) / 2;
+    padding-right: math.div(map-get($spacers, 6), 2);
   }
 
   .exhibition-category-tile:nth-child(2n) {
-    padding-left: map-get($spacers, 6) / 2;
+    padding-left: math.div(map-get($spacers, 6), 2);
   }
 }

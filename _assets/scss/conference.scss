@@ -1,0 +1,17 @@
+ul.downloads {
+  .icon {
+
+  }
+}
+
+@include media-breakpoint-up('sm') {
+  ul.downloads {
+    .icon {
+      position: absolute;
+      margin: {
+        top: 5px;
+        left: -60px;
+      };
+    }
+  }
+}

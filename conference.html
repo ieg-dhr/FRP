@@ -1,9 +1,72 @@
 ---
 layout: default
 page_id: publications
+
+entries:
+  - title: Vorwort
+    author:
+      first_name: Henning P.
+      last_name: JÜRGENS
+  - title: Aufrufe an die Christenheit in der Friedenspublizistik um 1648
+    author:
+      first_name: Claire GANTET
+  - title: Die Neuerfindung des Schwedischen Friedensmahls als nationales Friedensfest
+    author:
+      first_name: Siegrid
+      last_name: WESTPHAL
+  - title: |
+      "Der Karlowitzer Vertrag (1699) aus polnischer und osmanischer Sicht:
+      Repräsentation und damalige Bewertung"
+    author:
+      first_name: Dariusz
+      last_name: KOŁODZIEJCZYK
+  - title: An Italian Musical Journey around the Peace of the Pyrenees
+    author:
+      first_name: Chiara
+      last_name: PELLICCIA
+  - title: |
+      »Wohlauf und nimm nun wieder dein Saitenspiel hervor« Friedensfeste und
+      Friedensmusiken nach dem Dreißigjährigen Krieg  
+    author:
+      first_name: Sabine
+      last_name: EHRMANN-HERFORT
+  - title: |
+      Augsburger Friedensfest oder Festtag der Heiligen Hilaria? Inszenatorische
+      »Umcodierungen« in katholischen Predigten des 18. Jahrhunderts
+    author:
+      first_name: Florian
+      last_name: BOCK
+  - title: |
+      "Naher Krieg und ferner Frieden: Friedensrepräsentationen in den
+      Friedenspredigten der Frühen Neuzeit"
+    author:
+      first_name: Henning P.
+      last_name: JÜRGENS
+  - title: |
+      »da das Jubel-Jahr der Freyheit in Holland festgestellet worden« Der
+      Friede von Aachen (1748) und das   hundertjährige Jubiläum des Friedens
+      von Münster in den Niederlanden
+    author:
+      first_name: Anna Lisa
+      last_name: SCHWARTZ
+  - title: |
+      Politikum, Erinnerungsort, Informationsquelle ‒ Sächsische
+      Friedensdichtungen zum Frieden von Hubertusburg
+    author:
+      first_name: Franziska
+      last_name: BAUER
+  - title: VIFigurationen der Zeit in Friedensbildern
+    author:
+      first_name: Marius A. T.
+      last_name: WITTKE
+  - title: |
+      Gedenken und Identität. Zur bildlichen Gestaltung von Friedensjubiläen in
+      der Medaillenkunst des 17. und 18. Jahrhunderts
+    author:
+      first_name: Matthias
+      last_name: NUDING
 ---
-
-
+  
 <div class="container">
   <div class="breakout">
     <img src="/assets/images/publications_cover.jpg" class="img-fluid w-100" />
@@ -23,4 +86,23 @@ page_id: publications
       </div>
     </div>
   </div>
+
+  <ul class="list-unstyled downloads">
+    {% for entry in page.entries %}
+      <li class="mt-4 mt-sm-5 mt-xl-6">
+        <div class="icon d-none d-sm-block">
+          <svg class="feather feather-lg">
+            <use href="/assets/feather.svg#download" />
+          </svg>
+        </div>
+        <div class="title">
+          <a href="#">{{ entry.title }}</a>
+        </div>
+        <div class="author">
+          <span class="first-name">{{entry.author.first_name}}</span>
+          <span class="last-name">{{entry.author.last_name}}</span>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
