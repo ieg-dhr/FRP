@@ -13,6 +13,12 @@ class Item {
   }
 
   imageUrl() {
+    if (this.d['W-Image-First-Is-Primary']) {
+      const comps = this.d['W-Image'][0].split(/[\/\.]/)
+      const hash = comps[comps.length - 2]
+      return `/assets/images/thumbs/${hash}.jpg`
+    }
+
     let upstreamUrls = []
 
     const bu = this.d['Bild-URL']

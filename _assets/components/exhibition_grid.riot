@@ -34,6 +34,8 @@
 
   <exhibition-description class="d-block mb-7" category={this.state.category} />
 
+  <div class="text-center mb-7"><strong>{this.state.total} Objekte</strong></div>
+
   <div class="breakout overflow-x-hidden">
     <div class="row g-0 grid">
       <div
@@ -48,7 +50,7 @@
           >keine<br />Abbildung<br />verfügbar</div>
         </div>
         <div class="caption">
-          {item.title()}
+          {shorten(item.title(), 100)}
         </div>
         <a href="{item.upstreamUrl()}" class="stretched-link"></a>
       </div>
@@ -56,7 +58,7 @@
   </div>
 
   <script>
-    import {Url} from '@wendig/lib'
+    import {Url, util} from '@wendig/lib'
     import {Search} from '../lib/search'
     import ExhibitionDescription from './exhibition_description.riot'
 
@@ -65,11 +67,16 @@
         'exhibition-description': ExhibitionDescription
       }
 
+      constructor() {
+        this.shorten = util.shorten.bind(this)
+      }
+
       onBeforeMount() {
         this.search = new Search()
-        this.search.addListener(items => {
+        this.search.addListener((items, total) => {
           this.update({
-            items: items
+            items: items,
+            total: items.length
           })
         })
 

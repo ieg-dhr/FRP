@@ -52,6 +52,8 @@ const handler = event => {
       }
 
       if (criteria.category) {
+        if (r['Objekt in Ausstellung'] != 'Virtuelle Ausstellung') {return false}
+
         let categories = r['Präsentationsgruppe']
         if (!categories) {return false}
 
