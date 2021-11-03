@@ -24,9 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Dass Gerechtigkeit und Fiede sich küssen – Repräsentationen des Friedens im
   vormodernen Europa
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://frieden.wendig.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+
+permalink: pretty
 
 # Build settings
 theme: minima

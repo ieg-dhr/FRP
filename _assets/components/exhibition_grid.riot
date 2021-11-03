@@ -52,7 +52,7 @@
         <div class="caption">
           {shorten(item.title(), 100)}
         </div>
-        <a href="{item.upstreamUrl()}" class="stretched-link"></a>
+        <a title={item.title().length > 100 ? item.title() : ''} href="{item.upstreamUrl()}" class="stretched-link"></a>
       </div>
     </div>
   </div>
