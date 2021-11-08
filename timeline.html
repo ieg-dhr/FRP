@@ -3,10 +3,43 @@ layout: default
 page_id: timeline
 ---
 
+<link rel="stylesheet" type="text/css" href="/assets/timeline.css">
+<style type="text/css">
+  @font-face {
+    font-family: 'tl-icons';
+    src: url(/assets/timelinejs/css/icons/tl-icons.eot);
+    src:
+      url(/assets/timeline/css/icons/tl-icons.eot?#iefix) format('embedded-opentype'),
+      url(/assets/timeline/css/icons/tl-icons.ttf) format('truetype'),
+      url(/assets/timeline/css/icons/tl-icons.woff2) format('woff2'),
+      url(/assets/timeline/css/icons/tl-icons.woff) format('woff'),
+      url(/assets/timeline/css/icons/tl-icons.svg#tl-icons) format('svg');
+  }
+
+  .tl-timeline a {
+    color: var(--bs-orange);
+    font-size: 0.8em;
+  }
+
+  .tl-timeline a:hover {
+    color: var(--bs-orange);
+    text-decoration: none;
+  }
+</style>
+
+
 <div class="container">
   <div class="breakout">
     <img src="/assets/images/publications_cover.jpg" class="img-fluid w-100" />
   </div>
 
   <h1 class="mt-7 mb-5">Zeitstrahl</h1>
+
+  <div class="breakout">
+    <div class="mx-3">
+      <div id="timeline" style="width: 100%;"></div>
+    </div>
+  </div>
 </div>
+
+<script type="module" src="/assets/timeline.js"></script>

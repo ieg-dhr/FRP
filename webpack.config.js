@@ -7,7 +7,8 @@ module.exports = (env, argv) => {
     mode: mode,
     entry: {
       app: __dirname + '/_assets/app.js',
-      database: __dirname + '/_assets/database.js'
+      database: __dirname + '/_assets/database.js',
+      timeline: __dirname + '/_assets/timeline.js'
     },
     output: {
       path: __dirname + '/assets',
@@ -42,8 +43,16 @@ module.exports = (env, argv) => {
             },
             'sass-loader'
           ]
-        },
-        {
+        }, {
+          test: /\.less$/i,
+          use: [
+            {
+              loader: 'file-loader',
+              options: {outputPath: '.', name: 'timeline.css'}
+            },
+            'less-loader'
+          ]
+        }, {
           test: /\.m?js$/,
           exclude: /node_modules/,
           use: {
