@@ -79,7 +79,8 @@ class Item {
 
     if (this.d['W-Image-First-Is-Primary']) {
       data = this.d['images'][0]
-      return this.urlForImageData(data, resolution)
+
+      return data ? this.urlForImageData(data, resolution) : undefined
     }
 
     data = this.d['cropped'][0] || this.d['images'][0]
