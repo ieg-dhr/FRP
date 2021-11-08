@@ -1,0 +1,36 @@
+<field class="d-block">
+  <div if={enabled()} class="mb-4">
+    <div class="label fw-bold">{props.label}</div>
+    <div class="value">
+      <template if={props.value}>{props.value}</template>
+      <template if={props.values}>
+        <span each={(value, i) in props.values}>
+          <span if={i != 0}>, </span>
+          <a
+            if={value.id}
+            href="/object#?id={value.id}"
+          >{value.name}</a>
+          <span
+            if={!value.id}
+          >{value.name}</span>
+        </span>
+      </template>
+    </div>
+  </div>
+
+  <script>
+    export default class {
+      onBeforeMount() {
+        console.log(this.props)
+      }
+
+      enabled() {
+        if (this.props.values) {
+          return this.props.values.length > 0
+        } else {
+          return !!this.props.value
+        }
+      }
+    }
+  </script>
+</field>

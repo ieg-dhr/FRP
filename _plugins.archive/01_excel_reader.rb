@@ -13,9 +13,7 @@ def ensure_images(record)
 
     u.gsub! ' ', '%20'
     h = hash_for(u)
-    base = u.split('/').last
-    parts = base.split('.')
-    ext = (parts.size > 1 ? parts.last : nil) || 'jpg'
+    ext = ext_map(u)
 
     # TODO: investigate if we can still get images for these
     next if [
@@ -30,31 +28,6 @@ def ensure_images(record)
       '4a734a3b81a88ad',
       '9f9fe0848e95004',
       'cf99726c75ba79b'
-    ].include?(h)
-
-    # force jpg format for these
-    ext = 'jpg' if [
-      '0ddd11da4e961a5'
-    ].include?(h)
-
-    # force png format for these
-    ext = 'png' if [
-      '9e48d6ab64ce34f',
-      '24f4223b9f1c250',
-      '9e48d6ab64ce34f',
-      '78b71077c71bd41',
-      '39aa1421587a67c',
-      '12a0b97b93ea369'
-    ].include?(h)
-
-    # force gif format for these
-    ext = 'gif' if [
-      'eb5f88326331d50'
-    ].include?(h)
-
-    ext = 'pdf' if [
-      '9ecb09a9c50200a',
-      'e853942da0f4294'
     ].include?(h)
 
     file = "_raw_data/images/original/#{h}.#{ext}"

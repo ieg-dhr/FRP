@@ -41,6 +41,10 @@ const handler = event => {
     const criteria = event.data.criteria || {}
 
     results = results.filter(r => {
+      if (criteria.id) {
+        if (r['id'] != criteria.id) {return false}
+      }
+
       if (criteria.title) {
         const value = fold(r['Titel/Incipit'])
         const terms = criteria.title.split(/\s/)

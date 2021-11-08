@@ -1,0 +1,77 @@
+<exhibit>
+  <template if={state.item}>
+    <div class="container">
+      <div class="breakout">
+        <carousel
+          carousel-id="object-carousel"
+          urls={state.item.imageUrls('full')}
+          ratio="1x1"
+          ratio-md="21x9"
+        />
+      </div>
+
+      <h3 class="mt-5">{state.item.title()}</h3>
+
+      <field
+        value={state.item.d['Datum']}
+      />
+
+      <div class="py-4">
+        <raw html={state.item.d.exhibition_text}></raw>
+      </div>
+
+      <field
+        label="Verwalter"
+        values={state.item.verwalter()}
+      />
+
+      <field
+        each={e in Object.entries(state.item.herstellung())}
+        label={e[0]}
+        values={e[1]}
+      />
+
+      <field
+        label="Herstellungsort"
+        value={state.item.d['Herstellungsort']}
+      />
+
+      <field
+        label="Technik"
+        values={state.item.technique()}
+      />
+
+      <field
+        label="Beschreibstoff"
+        value={state.item.d['Beschreibstoff']}
+      />
+    </div>
+  </template>
+
+  <script>
+    import {Url, util} from '@wendig/lib'
+    import {Search} from '../lib/search'
+
+    import carousel from './carousel.riot'
+    import field from './field.riot'
+    import raw from './raw.riot'
+
+    export default class {
+      static components = {
+        carousel,
+        field,
+        raw
+      }
+
+      onBeforeMount() {
+        this.search = new Search()
+        this.search.addListener((items, total) => {
+          this.update({item: items[0]})
+        })
+
+        const u = Url.current()
+        this.search.query({id: u.hashParams().id})
+      }
+    }
+  </script>
+</exhibit>

@@ -8,8 +8,10 @@
 
 /assets/app*
 /assets/database.js
-/assets/images/thumbs/
 
 /_assets/edit/*~
 
 /_raw_data/images/
+
+/data/images/thumbs/
+/data/images/full/

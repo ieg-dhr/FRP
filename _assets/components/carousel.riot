@@ -1,0 +1,82 @@
+<carousel>
+  <div id={id()} class="carousel carousel-dark slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div
+        each={(url, i) in props.urls}
+        class="carousel-item"
+      >
+        <img src={url} class="mx-auto">
+      </div>
+    </div>
+    
+    <button
+      if={props.urls.length > 1}
+      class="carousel-control-prev"
+      type="button"
+      data-bs-target="#{id()}"
+      data-bs-slide="prev"
+    >
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button
+      if={props.urls.length > 1}
+      class="carousel-control-next"
+      type="button"
+      data-bs-target="#{id()}"
+      data-bs-slide="next"
+    >
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+
+    <div class="carousel-indicators" if={props.urls.length > 1}>
+      <a
+        each={(url, i) in props.urls}
+        href={currentUrl()}
+        data-bs-target="#{id()}"
+        data-bs-slide-to={i}
+        class="carousel-icon"
+      >
+        <img class="d-none d-md-inline-block" src={url} />
+      </a>
+    </div>
+  </div>
+
+  <script>
+    import {Url} from '@wendig/lib'
+    import {Carousel} from 'bootstrap'
+
+    export default class {
+      onBeforeMount() {
+        this.state = {created: false}
+      }
+
+      onMounted() {
+        const element = this.root.querySelector(`#${this.id()}`)
+        const items = element.querySelectorAll(
+          '.carousel-icon:first-child, .carousel-item:first-child'
+        )
+        for (const e of items) {
+          e.classList.add('active')
+        }
+        this.instance = new Carousel(element, {interval: false})
+      }
+
+      id() {
+        return this.props.carouselId || 'my-carousel'
+      }
+
+      ratio() {
+        if (this.props.urls.length <= 1) {return ''}
+
+        return `ratio ratio-${this.props.ratio} ratio-md-${this.props.ratioMd}`
+      }
+
+      currentUrl() {
+        const url = Url.current()
+        return url.resource()
+      }
+    }
+  </script>
+</carousel>

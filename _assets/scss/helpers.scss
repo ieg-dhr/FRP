@@ -68,6 +68,12 @@
   overflow-x: hidden;
 }
 
+@include media-breakpoint-up('md') {
+  .ratio-md-21x9 {
+    --bs-aspect-ratio: 42%;
+  }
+}
+
 
 // position
 

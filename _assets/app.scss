@@ -15,18 +15,5 @@
 @import './scss/exhibition_grid';
 @import './scss/database';
 @import './scss/conference';
-
-.feather {
-  width: 24px;
-  height: 24px;
-  stroke: currentColor;
-  stroke-width: 2;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  fill: none;
-}
-
-.feather-lg {
-  width: 40px;
-  height: 40px;
-}
+@import './scss/icons';
+@import './scss/carousel';

@@ -1,0 +1,17 @@
+<raw>
+  <script>
+    export default class {
+      onMounted() {
+        this.setInnerHTML()
+      }
+
+      onUpdated() {
+        this.setInnerHTML()
+      }
+
+      setInnerHTML() {
+        this.root.innerHTML = this.props.html
+      }
+    }
+  </script>
+</raw>

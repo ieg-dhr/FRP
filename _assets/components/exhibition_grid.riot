@@ -43,7 +43,7 @@
         each={item in this.state.items}
       >
         <div class="frame">
-          <img src={item.imageUrl()} />
+          <img src={item.exhibitImageUrl()} />
           <div
             if={!item.hasImage()}
             class="dummy-text text-white fs-3 fs-sm-6"
@@ -52,10 +52,41 @@
         <div class="caption">
           {shorten(item.title(), 100)}
         </div>
-        <a title={item.title().length > 100 ? item.title() : ''} href="{item.upstreamUrl()}" class="stretched-link"></a>
+        <a
+          class="stretched-link"
+          title={item.title().length > 100 ? item.title() : ''}
+          href={item.exhibitUrl()}
+        />
       </div>
     </div>
   </div>
+
+  <hr class="d-none d-lg-block mt-5 mb-5"/>
+
+  <div class="text-center mb-5 mb-lg-0">
+    <a
+      class="d-block d-lg-inline-block btn btn-primary"
+      data-bs-toggle="collapse"
+      href="#category-selector"
+    >
+      zu den anderen Galerien&nbsp;
+      <svg class="feather">
+        <use href="/assets/feather.svg#compass" />
+      </svg>
+    </a>
+  
+    <div class="collapse mt-lg-4" id="category-selector">
+      <div class="card card-body">
+        <a
+          each={c in this.categories()}
+          class="fs-4 fs-md-3 fs-lg-2 btn mb-2 mb-md-3 me-2 {active(c)}"
+          href="/exhibition?category={c}"
+        >{c}</a>
+      </div>
+    </div>
+  </div>
+
+  <hr class="d-none d-lg-block mt-5 mb-6"/>
 
   <script>
     import {Url, util} from '@wendig/lib'

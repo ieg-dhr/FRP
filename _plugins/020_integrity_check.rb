@@ -23,16 +23,16 @@ Jekyll::Hooks.register :site, :after_init do |site|
     'verwalter'
   ]
 
-  objekt = JSON.parse(File.read("_raw_data/objekt.json"))
-  ort = JSON.parse(File.read("_raw_data/ort.json"))
-  gebaeude = JSON.parse(File.read("_raw_data/gebaeude.json"))
-  verwalter = JSON.parse(File.read("_raw_data/verwalter.json"))
-  person = JSON.parse(File.read("_raw_data/person.json"))
-  inhalt = JSON.parse(File.read("_raw_data/inhalt.json"))
+  objekt = JSON.parse(File.read("data/objekt.json"))
+  ort = JSON.parse(File.read("data/ort.json"))
+  gebaeude = JSON.parse(File.read("data/gebaeude.json"))
+  verwalter = JSON.parse(File.read("data/verwalter.json"))
+  person = JSON.parse(File.read("data/person.json"))
+  inhalt = JSON.parse(File.read("data/inhalt.json"))
 
   ids = {}
   types.each do |type|
-    data = JSON.parse(File.read("_raw_data/#{type}.json"))
+    data = JSON.parse(File.read("data/#{type}.json"))
 
     data.each do |record|
       unless record['id']
