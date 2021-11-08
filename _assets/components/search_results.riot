@@ -6,7 +6,7 @@
 
   <ul class="list-unstyled">
     <li each={item in state.items} class="mb-4 mb-md-4" >
-      <a href={item.upstreamUrl()} target="_blank" class="text-decoration-none">
+      <a href={item.objectUrl()} target="_blank" class="text-decoration-none">
         {item.title()}
       </a>&nbsp;
       <a href={item.upstreamEditUrl()} target="_blank" class="text-decoration-none">

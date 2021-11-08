@@ -1,0 +1,11 @@
+@include media-breakpoint-up('md') {
+  exhibit, db-object {
+    .identifier {
+      width: 100px;
+      position: absolute;
+      top: map-get($spacers, 5) + 0.2rem;
+      left: -130px;
+      text-align: right;
+    }
+  }
+}

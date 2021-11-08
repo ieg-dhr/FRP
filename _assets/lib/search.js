@@ -133,11 +133,11 @@ class Item {
   }
 
   exhibitUrl() {
-    return `/exhibit#?id=${this.id()}`
+    return `/exhibit?id=${this.id()}`
   }
 
   objectUrl() {
-    return `/object#?id=${this.id()}`
+    return `/object?id=${this.id()}`
   }
 }
 

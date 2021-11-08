@@ -1,4 +1,4 @@
-<exhibit>
+<db-object>
   <template if={state.item}>
     <div class="container">
       <div class="breakout">
@@ -24,13 +24,23 @@
         value={state.item.d['Datum']}
       />
 
-      <div class="py-4">
-        <raw html={state.item.d.exhibition_text}></raw>
-      </div>
+      <field
+        html={state.item.d['comment_html']}
+      />
+
+      <field
+        label="Objektart"
+        value={state.item.d['Objektart']}
+      />
 
       <field
         label="Verwalter"
         values={state.item.verwalter()}
+      />
+
+      <field
+        label="Inventarnummer/Signatur"
+        value={state.item.d['Inventarnummer/Signatur']}
       />
 
       <field
@@ -53,10 +63,50 @@
         label="Beschreibstoff"
         value={state.item.d['Beschreibstoff']}
       />
-    </div>
 
-    <div class="text-center mt-7">
-      <a class="btn btn-primary" href={state.item.objectUrl()}>weitere Details</a>
+      <field
+        label="Messtyp"
+        value={state.item.d['Messtyp']}
+      />
+
+      <field
+        label="Messwert (H x B x T)"
+        value={state.item.d['Messwert (H x B x T)']}
+      />
+
+      <field
+        label="Maßeinheit"
+        value={state.item.d['Maßeinheit']}
+      />
+
+      <hr class="my-5" />
+
+      <field
+        label="Sammlerstempel"
+        value={state.item.d['Sammlerstempel']}
+      />
+
+      <field
+        label="Sammlerstempel (Nachweis)"
+        value={state.item.d['Sammlerstempel (Nachweis)']}
+      />
+
+      <field
+        label="Sammlerstempel (Nachweis: Seite/Nummer)"
+        value={state.item.d['Sammlerstempel (Nachweis: Seite/Nummer)']}
+      />
+
+      <field
+        label="Anbringungsort"
+        value={state.item.d['Anbringungsort']}
+      />
+
+      <hr class="my-5" />
+
+      <field
+        label="Bearbeiter"
+        value={state.item.d['Bearbeiter']}
+      />
     </div>
   </template>
 
@@ -71,8 +121,7 @@
     export default class {
       static components = {
         carousel,
-        field,
-        raw
+        field
       }
 
       onBeforeMount() {
@@ -86,4 +135,4 @@
       }
     }
   </script>
-</exhibit>
+</db-object>
