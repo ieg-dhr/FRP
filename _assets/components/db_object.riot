@@ -34,6 +34,16 @@
       />
 
       <field
+        label="Gattung"
+        value={state.item.d['Gattung']}
+      />
+
+      <field
+        label="VD17-Nummer"
+        value={state.item.d['VD17-Nr.']}
+      />
+
+      <field
         label="Verwalter"
         values={state.item.verwalter()}
       />
@@ -42,6 +52,24 @@
         label="Inventarnummer/Signatur"
         value={state.item.d['Inventarnummer/Signatur']}
       />
+
+      <template if={state.item.verwalterAlt().length}>
+        <hr class="my-5" />
+
+        <div class="fw-bold mb-4">Weiteres Exemplar</div>
+
+        <field
+          label="Verwalter"
+          values={state.item.verwalterAlt()}
+        />
+
+        <field
+          label="Inventarnummer"
+          value={state.item.d['Inventarnummer dupl']}
+        />
+      </template>
+
+      <hr class="my-5" />
 
       <field
         each={e in Object.entries(state.item.herstellung())}
@@ -54,51 +82,76 @@
         value={state.item.d['Herstellungsort']}
       />
 
+      <template if={state.item.technique().length || state.item.d['Beschreibstoff']}>
+        <hr class="my-5" />
+
+        <field
+          label="Technik"
+          values={state.item.technique()}
+        />
+
+        <field
+          label="Beschreibstoff"
+          value={state.item.d['Beschreibstoff']}
+        />
+      </template>
+
+      <template if={state.item.d['Messtyp'] || state.item.d['Messwert (H x B x T)'] || state.item.d['Maßeinheit']}>
+        <hr class="my-5" />
+
+        <field
+          label="Messtyp"
+          value={state.item.d['Messtyp']}
+        />
+
+        <field
+          label="Messwert (H x B x T)"
+          value={state.item.d['Messwert (H x B x T)']}
+        />
+
+        <field
+          label="Maßeinheit"
+          value={state.item.d['Maßeinheit']}
+        />
+      </template>
+
+      <template if={state.item.d['Sammlerstempel'] || state.item.d['Sammlerstempel (Nachweis)'] || state.item.d['Sammlerstempel (Nachweis: Seite/Nummer)']}>
+        <hr class="my-5" />
+
+        <field
+          label="Sammlerstempel"
+          value={state.item.d['Sammlerstempel']}
+        />
+
+        <field
+          label="Sammlerstempel (Nachweis)"
+          value={state.item.d['Sammlerstempel (Nachweis)']}
+        />
+
+        <field
+          label="Sammlerstempel (Nachweis: Seite/Nummer)"
+          value={state.item.d['Sammlerstempel (Nachweis: Seite/Nummer)']}
+        />
+
+        <field
+          label="Anbringungsort"
+          value={state.item.d['Anbringungsort']}
+        />
+      </template>
+
       <field
-        label="Technik"
-        values={state.item.technique()}
+        label="Signatur"
+        values={state.item.signatur()}
       />
 
       <field
-        label="Beschreibstoff"
-        value={state.item.d['Beschreibstoff']}
+        label="Kurztitel"
+        values={state.item.kurztitel()}
       />
 
       <field
-        label="Messtyp"
-        value={state.item.d['Messtyp']}
-      />
-
-      <field
-        label="Messwert (H x B x T)"
-        value={state.item.d['Messwert (H x B x T)']}
-      />
-
-      <field
-        label="Maßeinheit"
-        value={state.item.d['Maßeinheit']}
-      />
-
-      <hr class="my-5" />
-
-      <field
-        label="Sammlerstempel"
-        value={state.item.d['Sammlerstempel']}
-      />
-
-      <field
-        label="Sammlerstempel (Nachweis)"
-        value={state.item.d['Sammlerstempel (Nachweis)']}
-      />
-
-      <field
-        label="Sammlerstempel (Nachweis: Seite/Nummer)"
-        value={state.item.d['Sammlerstempel (Nachweis: Seite/Nummer)']}
-      />
-
-      <field
-        label="Anbringungsort"
-        value={state.item.d['Anbringungsort']}
+        label="Seitenzahl"
+        values={state.item.seitenzahl()}
       />
 
       <hr class="my-5" />

@@ -28,6 +28,23 @@ class Item {
     return results
   }
 
+  verwalterAlt() {
+    let results = []
+    let name = null
+
+    name = this.d['Verwalter (Name) dupl.']
+    if (name) {
+      results.push({name: name})
+    }
+
+    name = this.d['Verwalter (Ort) dupl.']
+    if (name) {
+      results.push({name: name})
+    }
+
+    return results
+  }
+
   herstellung() {
     let results = {}
 
@@ -50,15 +67,47 @@ class Item {
   }
 
   technique() {
-    const v = this.d['Technik']
+    return this.listFrom(this.d['Technik']).map(e => {
+      return {
+        name: e
+      }
+    })
+  }
 
-    if (v) {
-      return v.split("\n").map(e => {
-        return {
-          name: e
-        }
-      })
+  signatur() {
+    const types = this.listFrom(this.d['Signatur (Typ)'])
+    const contents = this.listFrom(this.d['Signatur (Inhalt)'])
+    const positions = this.listFrom(this.d['Signatur (Position)'])
+
+    let results = []
+    for (const [i, t] of Object.entries(types)) {
+      const c = contents[i]
+      const p = positions[i]
+
+      results.push({name: `${t}, ${p}: „${c}“`})
     }
+    
+    return results
+  }
+
+  kurztitel() {
+    return this.listFrom(this.d['Kurztitel']).map(e => {
+      return {
+        name: e
+      }
+    })
+  }
+
+  seitenzahl() {
+    return this.listFrom(this.d['Seitenzahl']).map(e => {
+      return {
+        name: e
+      }
+    })
+  }
+
+  listFrom(value) {
+    return value ? value.split("\n") : []
   }
 
   hasImage() {
