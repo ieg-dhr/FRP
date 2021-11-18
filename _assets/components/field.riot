@@ -1,6 +1,6 @@
 <field class="d-block">
   <div if={enabled()} class="mb-4">
-    <div class="label fw-bold">{props.label}</div>
+    <div class="label text-muted fw-bolds" style="font-size: 0.8em">{props.label}</div>
     <div class="value">
       <raw if={props.html} html={props.html} />
       <template if={props.value}>{props.value}</template>

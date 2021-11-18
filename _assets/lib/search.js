@@ -1,221 +1,92 @@
-class Item {
-  constructor(record) {
-    this.d = record
+import Item from './item'
+import EventItem from './event_item'
+
+let messageId = 10000
+let instanceRegistry = []
+
+const worker = new Worker('/assets/database.js', {credentials: 'same-origin'})
+worker.onmessage = event => {
+  const data = event.data
+  const action = data.action
+
+  if (action == 'search-results') {
+    const items = data.results.map(r => new Item(r))
+    data.results = items
   }
 
-  id() {
-    return this.d['id']
+  if (action == 'lookup-result') {
+    const klass = {
+      'objekt': Item,
+      'ereignis': EventItem
+    }[data.type]
+    data.result = new klass(data.result)
   }
 
-  title() {
-    return this.d['Titel/Incipit']
-  }
-
-  verwalter() {
-    let results = []
-    let name = null
-
-    name = this.d['Verwalter (Name)']
-    if (name) {
-      results.push({name: name})
-    }
-
-    name = this.d['Verwalter (Ort)']
-    if (name) {
-      results.push({name: name})
-    }
-
-    return results
-  }
-
-  verwalterAlt() {
-    let results = []
-    let name = null
-
-    name = this.d['Verwalter (Name) dupl.']
-    if (name) {
-      results.push({name: name})
-    }
-
-    name = this.d['Verwalter (Ort) dupl.']
-    if (name) {
-      results.push({name: name})
-    }
-
-    return results
-  }
-
-  herstellung() {
-    let results = {}
-
-    const roles = this.d['Herstellerrolle']
-    if (roles) {
-      const roleList = roles.split("\n")
-      const names = this.d['Herstellername'].split("\n")
-
-      for (let i = 0; i < roleList.length; i++) {
-        const r = roleList[i]
-        const n = names[i]
-        if (!r || !n) {continue}
-
-        results[r] = results[r] || []
-        results[r].push({name: n})
-      }
-    }
-
-    return results
-  }
-
-  technique() {
-    return this.listFrom(this.d['Technik']).map(e => {
-      return {
-        name: e
-      }
-    })
-  }
-
-  signatur() {
-    const types = this.listFrom(this.d['Signatur (Typ)'])
-    const contents = this.listFrom(this.d['Signatur (Inhalt)'])
-    const positions = this.listFrom(this.d['Signatur (Position)'])
-
-    let results = []
-    for (const [i, t] of Object.entries(types)) {
-      const c = contents[i]
-      const p = positions[i]
-
-      results.push({name: `${t}, ${p}: „${c}“`})
-    }
-    
-    return results
-  }
-
-  kurztitel() {
-    return this.listFrom(this.d['Kurztitel']).map(e => {
-      return {
-        name: e
-      }
-    })
-  }
-
-  seitenzahl() {
-    return this.listFrom(this.d['Seitenzahl']).map(e => {
-      return {
-        name: e
-      }
-    })
-  }
-
-  listFrom(value) {
-    return value ? value.split("\n") : []
-  }
-
-  hasImage() {
-    return !!this.d['images'].length
-  }
-
-  // hasImage() {
-  //   const url = this.imageUrl()
-  //   return !url.match('/dummy.png')
-  // }
-
-  urlForImageData(data, resolution = 'thumbs') {
-    return `/data/images/${resolution}/${data.hash}.jpg`
-  }
-
-  exhibitImageUrl(resolution = 'thumbs') {
-    let data = null
-
-    if (this.d['W-Image-First-Is-Primary']) {
-      data = this.d['images'][0]
-
-      return data ? this.urlForImageData(data, resolution) : undefined
-    }
-
-    data = this.d['cropped'][0] || this.d['images'][0]
-    return data ? this.urlForImageData(data, resolution) : undefined
-  }
-
-  imageUrls(resolution = 'thumbs') {
-    return this.d['images'].map(data => this.urlForImageData(data, resolution))
-  }
-
-  // imageUrl() {
-  //   if (this.d['W-Image-First-Is-Primary']) {
-  //     const comps = this.d['W-Image'][0].split(/[\/\.]/)
-  //     const hash = comps[comps.length - 2]
-  //     return `/assets/images/thumbs/${hash}.jpg`
-  //   }
-
-  //   let upstreamUrls = []
-
-  //   const bu = this.d['Bild-URL']
-  //   if (bu) {
-  //     upstreamUrls = upstreamUrls.concat(bu.split("\n"))
-  //   }
-  //   let index = upstreamUrls.length
-
-  //   const bbu = this.d['Bearbeitetes Bild URL']
-  //   if (bbu) {
-  //     upstreamUrls = upstreamUrls.concat(bbu.split("\n"))
-  //   }
-
-  //   const hashes = this.d['W-Image'] || []
-
-  //   if (upstreamUrls.length && upstreamUrls.length == hashes.length) {
-  //     if (index >= hashes.length) {index = 0}
-  //     const hash = hashes[index].split(/[\.\/]/)[3]
-  //     return `/assets/images/thumbs/${hash}.jpg`
-  //   } else {
-  //     return '/assets/images/dummy.png'
-  //   }
-  // }
-
-  upstreamUrl() {
-    const wisskiUrl = document.querySelector('meta[name="wisski-url"]').getAttribute('content')
-    return `${wisskiUrl}/wisski/navigate/${this.d['id']}/view`
-  }
-
-  upstreamEditUrl() {
-    const wisskiUrl = document.querySelector('meta[name="wisski-url"]').getAttribute('content')
-    return `${wisskiUrl}/wisski/navigate/${this.d['id']}/edit`
-  }
-
-  exhibitUrl() {
-    return `/exhibit?id=${this.id()}`
-  }
-
-  objectUrl() {
-    return `/object?id=${this.id()}`
+  for (const instance of instanceRegistry) {
+    instance.onResponse(event)
   }
 }
 
-class Search {
+export default class Search {
   constructor() {
-    this.worker = new Worker('/assets/database.js', {credentials: 'same-origin'});
-    this.worker.onmessage = event => {
-      if (event.data.action == 'search-results') {
-        const items = event.data.results.map(r => new Item(r))
-        const total = event.data.total
-        for (const l of this.listeners) {
-          l(items, total)
-        }
-      }
+    instanceRegistry.push(this)
+
+    this.listeners = {}
+    this.resolveMap = {}
+  }
+
+  onResponse(event) {
+    const data = event.data
+    const action = data.action
+    const listeners = this.listeners[action] || []
+
+    for (const l of listeners) {
+      l(data)
     }
 
-    this.listeners = []
+    const resolve = this.resolveMap[data.messageId]
+    if (resolve) {
+      resolve(data)
+      delete this.resolveMap[data.messageId]
+    }
   }
 
   query(criteria) {
-    this.worker.postMessage({action: 'search', criteria: criteria})
+    return this.postMessage({action: 'search', criteria: criteria})
   }
 
-  addListener(f) {
-    this.listeners.push(f)
+  people() {
+    return this.postMessage({action: 'people'})
   }
-}
 
-export {
-  Item,
-  Search
+  aggregate(field) {
+    return this.postMessage({action: 'aggregate', field: field})
+  }
+
+  lookup(type, id) {
+    return this.postMessage({action: 'lookup', type: type, id: id})
+  }
+
+  ready() {
+    return this.postMessage({action: 'ready'})
+  }
+
+  postMessage(data) {
+    const newId = messageId
+    messageId += 1
+
+    const promise = new Promise((resolve, reject) => {
+      this.resolveMap[newId] = resolve
+
+      data.messageId = newId
+      worker.postMessage(data)
+    })
+
+    return promise
+  }
+
+  addListener(action, f) {
+    this.listeners[action] = this.listeners[action] || []
+    this.listeners[action].push(f)
+  }
 }

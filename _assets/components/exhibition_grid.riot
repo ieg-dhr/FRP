@@ -90,7 +90,7 @@
 
   <script>
     import {Url, util} from '@wendig/lib'
-    import {Search} from '../lib/search'
+    import Search from '../lib/search'
     import ExhibitionDescription from './exhibition_description.riot'
 
     export default class {
@@ -104,11 +104,10 @@
 
       onBeforeMount() {
         this.search = new Search()
-        this.search.addListener((items, total) => {
-          console.log(items)
+        this.search.addListener('search-results', data => {
           this.update({
-            items: items,
-            total: items.length
+            items: data.results,
+            total: data.results.length
           })
         })
 

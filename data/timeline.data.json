@@ -12,7 +12,7 @@
         "display_date": "\n20.09.1697 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=1901\">Handels- und Schiffahrtsvertrag von Rijswijk</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=1901\">Handels- und Schiffahrtsvertrag von Rijswijk</a>",
         "text": "Rijswijk<br>\nFriedensverträge von Rijswijk"
       }
     },
@@ -36,7 +36,7 @@
         "display_date": "30.10.1697"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=1902\">Friedensverträge von Rijswijk</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=1902\">Friedensverträge von Rijswijk</a>",
         "text": "Rijswijk<br>\nPfälzischer Erbfolgekrieg"
       }
     },
@@ -51,7 +51,7 @@
         "display_date": "\n12.03.1611 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=1904\">Jüterboger Vergleich</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=1904\">Jüterboger Vergleich</a>",
         "text": "Jüterbog<br>\nJülich-Klevischer Erbfolgestreit"
       }
     },
@@ -75,7 +75,7 @@
         "display_date": "1650"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=1908\">Nürnberger Friedensexekutionskongress</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=1908\">Nürnberger Friedensexekutionskongress</a>",
         "text": "Nürnberg<br>\nDreißigjähriger Krieg"
       }
     },
@@ -99,7 +99,7 @@
         "display_date": "1648"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=1909\">Dreißigjähriger Krieg</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=1909\">Dreißigjähriger Krieg</a>",
         "text": "Europa<br>\n"
       }
     },
@@ -114,7 +114,7 @@
         "display_date": "\n11.06.1742 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=1911\">Friedenspräliminarien von Breslau</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=1911\">Friedenspräliminarien von Breslau</a>",
         "text": "Breslau (Wrocław)<br>\nErster Schlesischer Krieg"
       }
     },
@@ -138,7 +138,7 @@
         "display_date": "1742"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=1912\">Erster Schlesischer Krieg</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=1912\">Erster Schlesischer Krieg</a>"
       }
     },
     {
@@ -161,7 +161,7 @@
         "display_date": "1621"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=1913\">Waffenstillstand zwischen Spanien und den niederländischen Generalstaaten </a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=1913\">Waffenstillstand zwischen Spanien und den niederländischen Generalstaaten </a>"
       }
     },
     {
@@ -184,7 +184,7 @@
         "display_date": "1648"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=1914\">Achtzigjähriger Krieg</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=1914\">Achtzigjähriger Krieg</a>",
         "text": "Niederlande<br>\n"
       }
     },
@@ -199,7 +199,7 @@
         "display_date": "\n18.10.1748 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=1915\">Zweiter Aachener Frieden</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=1915\">Zweiter Aachener Frieden</a>",
         "text": "Aachen<br>\nÖsterreichischer Erbfolgekrieg"
       }
     },
@@ -223,7 +223,7 @@
         "display_date": "1748"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=1916\">Österreichischer Erbfolgekrieg</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=1916\">Österreichischer Erbfolgekrieg</a>"
       }
     },
     {
@@ -237,7 +237,7 @@
         "display_date": "\n16.01.1642 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=1917\">Friede von Goslar</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=1917\">Friede von Goslar</a>",
         "text": "Goslar<br>\nDreißigjähriger Krieg"
       }
     },
@@ -252,7 +252,7 @@
         "display_date": "\n24.10.1648 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=1918\">Westfälischer Friede</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=1918\">Westfälischer Friede</a>",
         "text": "Münster<br>\nDreißigjähriger Krieg, Osnabrück<br>\nDreißigjähriger Krieg"
       }
     },
@@ -267,7 +267,7 @@
         "display_date": "\n05.09.1669 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=1923\">Frieden von Candia</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=1923\">Frieden von Candia</a>",
         "text": "Candia (Heute Iraklio)<br>\n"
       }
     },
@@ -282,7 +282,7 @@
         "display_date": "\n25.09.1555 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2107\">Augsburger Religionsfrieden</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2107\">Augsburger Religionsfrieden</a>",
         "text": "Augsburg<br>\n"
       }
     },
@@ -297,7 +297,7 @@
         "display_date": "\n1730 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2109\">Zweihundertjahrfeier der Confessio Augustana</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2109\">Zweihundertjahrfeier der Confessio Augustana</a>",
         "text": "Heiliges Römisches Reich<br>\nConfessio Augustana"
       }
     },
@@ -312,7 +312,7 @@
         "display_date": "\n14.07.1650 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2110\">Friedensfest am 14. Juli in Nürnberg nach Unterzeichnung des Hauptrezesses</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2110\">Friedensfest am 14. Juli in Nürnberg nach Unterzeichnung des Hauptrezesses</a>",
         "text": "Nürnberg<br>\nNürnberger Friedensexekutionskongress"
       }
     },
@@ -327,7 +327,7 @@
         "display_date": "\n25.09.1649 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2111\">Schwedisches Friedensmahl im Nürnberger Rathaussaal anlässlich der Unterzeichnung des Interimsrezesses </a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2111\">Schwedisches Friedensmahl im Nürnberger Rathaussaal anlässlich der Unterzeichnung des Interimsrezesses </a>",
         "text": "Nürnberg<br>\nInterimsrezess"
       }
     },
@@ -351,7 +351,7 @@
         "display_date": "21.09.1649"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2112\">Interimsrezess</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2112\">Interimsrezess</a>",
         "text": "Nürnberg<br>\nNürnberger Friedensexekutionskongress"
       }
     },
@@ -366,7 +366,7 @@
         "display_date": "\n1630 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2113\">Säkularfeier der Augsburger Konfession</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2113\">Säkularfeier der Augsburger Konfession</a>"
       }
     },
     {
@@ -389,7 +389,7 @@
         "display_date": "1789"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2114\">Augsburger Hohes Friedensfest</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2114\">Augsburger Hohes Friedensfest</a>",
         "text": "Augsburg<br>\nWestfälischer Friede"
       }
     },
@@ -404,7 +404,7 @@
         "display_date": "\n26.06.1650 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2115\">Unterzeichnung des schwedisch-kaiserlichen Hauptrezesses</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2115\">Unterzeichnung des schwedisch-kaiserlichen Hauptrezesses</a>",
         "text": "Nürnberg<br>\nNürnberger Friedensexekutionskongress"
       }
     },
@@ -419,7 +419,7 @@
         "display_date": "\n15.02.1763 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2116\">Friedensvertrag von Hubertusburg</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2116\">Friedensvertrag von Hubertusburg</a>",
         "text": "Hubertusburg<br>\nSiebenjähriger Krieg"
       }
     },
@@ -443,7 +443,7 @@
         "display_date": "1763"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2157\">Siebenjähriger Krieg</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2157\">Siebenjähriger Krieg</a>"
       }
     },
     {
@@ -457,7 +457,7 @@
         "display_date": "\n22.04.1745 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2158\">Frieden von Füssen</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2158\">Frieden von Füssen</a>",
         "text": "Füssen<br>\nÖsterreichischer Erbfolgekrieg"
       }
     },
@@ -472,7 +472,7 @@
         "display_date": "\n02.08.1552 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2159\">Passauer Friedensvertrag </a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2159\">Passauer Friedensvertrag </a>",
         "text": "Passau<br>\n, Rödelheim<br>\n"
       }
     },
@@ -487,7 +487,7 @@
         "display_date": "\n13.05.1779 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2160\">Friede von Teschen</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2160\">Friede von Teschen</a>",
         "text": "Teschen (heute Cieszyn)<br>\nBayerischer Erbfolgekrieg"
       }
     },
@@ -511,7 +511,7 @@
         "display_date": "13.05.1779"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2161\">Bayerischer Erbfolgekrieg</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2161\">Bayerischer Erbfolgekrieg</a>"
       }
     },
     {
@@ -525,7 +525,7 @@
         "display_date": "\n24.10.1648 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2162\">Friede von Osnabrück (Oktober 1648)</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2162\">Friede von Osnabrück (Oktober 1648)</a>",
         "text": "Osnabrück<br>\nWestfälischer Friede"
       }
     },
@@ -540,7 +540,7 @@
         "display_date": "\n15.05.1648 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2163\">Friede von Münster (Mai 1648)</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2163\">Friede von Münster (Mai 1648)</a>"
       }
     },
     {
@@ -563,7 +563,7 @@
         "display_date": "02.10.1679"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2164\">Friedensverträge von Nijmegen</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2164\">Friedensverträge von Nijmegen</a>"
       }
     },
     {
@@ -586,7 +586,7 @@
         "display_date": "1678"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2165\">Niederländisch-Französischer Krieg</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2165\">Niederländisch-Französischer Krieg</a>"
       }
     },
     {
@@ -600,7 +600,7 @@
         "display_date": "\n03.05.1660 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2166\">Vertrag von Oliva</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2166\">Vertrag von Oliva</a>",
         "text": "Kloster Oliva<br>\nZweiter Nordischer Krieg"
       }
     },
@@ -624,7 +624,7 @@
         "display_date": "1660"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2167\">Zweiter Nordischer Krieg</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2167\">Zweiter Nordischer Krieg</a>"
       }
     },
     {
@@ -647,7 +647,7 @@
         "display_date": "1721"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2168\">Großer Nordischer Krieg</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2168\">Großer Nordischer Krieg</a>"
       }
     },
     {
@@ -670,7 +670,7 @@
         "display_date": "09.12.1713"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2169\">Friedensverträge von Utrecht</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2169\">Friedensverträge von Utrecht</a>",
         "text": "Utrecht<br>\nSpanischer Erbfolgekrieg "
       }
     },
@@ -694,7 +694,7 @@
         "display_date": "1714"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2170\">Spanischer Erbfolgekrieg </a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2170\">Spanischer Erbfolgekrieg </a>"
       }
     },
     {
@@ -708,7 +708,7 @@
         "display_date": "\n30.08.1721 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2171\">Friedensvertrag von Nystad</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2171\">Friedensvertrag von Nystad</a>",
         "text": "Nystad<br>\nGroßer Nordischer Krieg, Uusikaupunki<br>\nGroßer Nordischer Krieg"
       }
     },
@@ -732,7 +732,7 @@
         "display_date": "1699"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2172\">Großer Türkenkrieg</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2172\">Großer Türkenkrieg</a>"
       }
     },
     {
@@ -755,7 +755,7 @@
         "display_date": "06.03.1714"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2173\">Friede von Rastatt</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2173\">Friede von Rastatt</a>",
         "text": "Residenzschloss Rastatt<br>\nSpanischer Erbfolgekrieg "
       }
     },
@@ -770,7 +770,7 @@
         "display_date": "\n03.07.1720 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2174\">Friede von Frederiksborg</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2174\">Friede von Frederiksborg</a>",
         "text": "Frederiksborg<br>\nGroßer Nordischer Krieg"
       }
     },
@@ -785,7 +785,7 @@
         "display_date": "\n30.03.1763 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2175\">Einzug Friedrich des Großen in Berlin nach dem Frieden von Hubertusburg</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2175\">Einzug Friedrich des Großen in Berlin nach dem Frieden von Hubertusburg</a>",
         "text": "Berlin<br>\nFriedensvertrag von Hubertusburg"
       }
     },
@@ -809,7 +809,7 @@
         "display_date": "1718"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2176\">Venezianisch-Österreichischer Türkenkrieg</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2176\">Venezianisch-Österreichischer Türkenkrieg</a>"
       }
     },
     {
@@ -823,7 +823,7 @@
         "display_date": "\n26.01.1699 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2177\">Frieden von Karlowitz</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2177\">Frieden von Karlowitz</a>",
         "text": "Karlowitz (heute Sremski Karlovci)<br>\nZweite Wiener Türkenbelagerung, Großer Türkenkrieg"
       }
     },
@@ -847,7 +847,7 @@
         "display_date": "1774"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2178\">Fünfter Russischer Türkenkrieg</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2178\">Fünfter Russischer Türkenkrieg</a>"
       }
     },
     {
@@ -861,7 +861,7 @@
         "display_date": "\n21.07.1718 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2179\">Friedensvertrag von Passarowitz zwischen dem Kaiser und den Osmanen</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2179\">Friedensvertrag von Passarowitz zwischen dem Kaiser und den Osmanen</a>",
         "text": "Passarowitz (heute Požarevac)<br>\nFriedensverträge von Passarowitz"
       }
     },
@@ -876,7 +876,7 @@
         "display_date": "\n21.07.1718 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2180\">Friedensverträge von Passarowitz</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2180\">Friedensverträge von Passarowitz</a>",
         "text": "Passarowitz (heute Požarevac)<br>\n"
       }
     },
@@ -891,7 +891,7 @@
         "display_date": "\n07.11.1659 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2276\">Vertrag von Île des Faisans (Pyrenäenfrieden)</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2276\">Vertrag von Île des Faisans (Pyrenäenfrieden)</a>",
         "text": "Fasaneninsel <br>\n"
       }
     },
@@ -915,7 +915,7 @@
         "display_date": "1738"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2277\">Polnischer Thronfolgekrieg</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2277\">Polnischer Thronfolgekrieg</a>",
         "text": "Danzig<br>\n, Neapel<br>\n, Mailand<br>\n, Parma<br>\n, Mantua<br>\n, Heilbronn<br>\n, Warschau<br>\n, Kleinpolen<br>\n, Kehl<br>\n, Philippsburg<br>\n, Salmbach<br>\n, Klausen<br>\n, Guastalla<br>\n, Capua<br>\n"
       }
     },
@@ -930,7 +930,7 @@
         "display_date": "\n18.11.1738 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2278\">Frieden von Wien</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2278\">Frieden von Wien</a>",
         "text": "Wien<br>\nPolnischer Thronfolgekrieg"
       }
     },
@@ -945,7 +945,7 @@
         "display_date": "\n25.12.1745 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2279\">Friedensvertrag von Dresden</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2279\">Friedensvertrag von Dresden</a>",
         "text": "Dresden<br>\nZweiter Schlesischer Krieg"
       }
     },
@@ -969,7 +969,7 @@
         "display_date": "1745"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2280\">Zweiter Schlesischer Krieg</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2280\">Zweiter Schlesischer Krieg</a>"
       }
     },
     {
@@ -983,7 +983,7 @@
         "display_date": "\n05.05.1762 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2281\">Friedensvertrag von St. Petersburg</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2281\">Friedensvertrag von St. Petersburg</a>",
         "text": "St. Petersburg<br>\nFriedensvertrag von Hubertusburg, Siebenjähriger Krieg, Friedensvertrag von Hamburg"
       }
     },
@@ -998,7 +998,7 @@
         "display_date": "\n28.04.1763 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2283\">Öffentliche Redeübung an der Lateinschule in Memmingen</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2283\">Öffentliche Redeübung an der Lateinschule in Memmingen</a>",
         "text": "Memmingen<br>\nFriedensfest in Memmingen"
       }
     },
@@ -1013,7 +1013,7 @@
         "display_date": "\n17.09.1631 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2286\">Schlacht bei Breitenfeld</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2286\">Schlacht bei Breitenfeld</a>",
         "text": "Leipzig<br>\nDreißigjähriger Krieg, Seehausen<br>\nDreißigjähriger Krieg, Breitenfeld<br>\nDreißigjähriger Krieg"
       }
     },
@@ -1037,7 +1037,7 @@
         "display_date": "1697"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2287\">Pfälzischer Erbfolgekrieg</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2287\">Pfälzischer Erbfolgekrieg</a>"
       }
     },
     {
@@ -1051,7 +1051,7 @@
         "display_date": "\n07.09.1714 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2288\">Friedensvertrag von Baden</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2288\">Friedensvertrag von Baden</a>",
         "text": "Baden im Aargau<br>\nSpanischer Erbfolgekrieg "
       }
     },
@@ -1066,7 +1066,7 @@
         "display_date": "\n27.05.1660 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2289\">Friedensvertrag von Kopenhagen </a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2289\">Friedensvertrag von Kopenhagen </a>",
         "text": "Kopenhagen<br>\nZweiter Nordischer Krieg"
       }
     },
@@ -1081,7 +1081,7 @@
         "display_date": "\n05.02.1679 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2291\">Friedensvertrag von Nijmegen zwischen Reich und Frankreich</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2291\">Friedensvertrag von Nijmegen zwischen Reich und Frankreich</a>",
         "text": "Nimwegen<br>\nFriedensverträge von Nijmegen"
       }
     },
@@ -1096,7 +1096,7 @@
         "display_date": "\n10.08.1678 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=3340\">Friedensvertrag von Nijmegen zwischen den Niederlanden und Frankreich</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=3340\">Friedensvertrag von Nijmegen zwischen den Niederlanden und Frankreich</a>",
         "text": "Nimwegen<br>\nFriedensverträge von Nijmegen"
       }
     },
@@ -1111,7 +1111,7 @@
         "display_date": "\n05.04.1795 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2292\">Frieden von Basel zwischen Preußen und Frankreich</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2292\">Frieden von Basel zwischen Preußen und Frankreich</a>",
         "text": "Basel<br>\n"
       }
     },
@@ -1126,7 +1126,7 @@
         "display_date": "\n05.07.1757 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2293\">Schlacht bei Leuthen</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2293\">Schlacht bei Leuthen</a>",
         "text": "Leuthen <br>\nSiebenjähriger Krieg"
       }
     },
@@ -1141,7 +1141,7 @@
         "display_date": "\n30.05.1762 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2294\">Bekanntmachung des Friedens von St. Petersburg</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2294\">Bekanntmachung des Friedens von St. Petersburg</a>",
         "text": "Friedrichswerder<br>\nFriedensvertrag von St. Petersburg"
       }
     },
@@ -1165,7 +1165,7 @@
         "display_date": "1668"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2295\">Devolutionskrieg</a>"
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2295\">Devolutionskrieg</a>"
       }
     },
     {
@@ -1179,7 +1179,7 @@
         "display_date": "\n05.08.1772 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2297\">Erste Teilung Polens</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2297\">Erste Teilung Polens</a>",
         "text": "St. Petersburg<br>\n"
       }
     },
@@ -1194,7 +1194,7 @@
         "display_date": "\n09.02.1801 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2298\">Frieden von Lunéville</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2298\">Frieden von Lunéville</a>",
         "text": "Lunéville<br>\nFriede von Campo Formido, Zweiter Koalitionskrieg"
       }
     },
@@ -1218,7 +1218,7 @@
         "display_date": "1686"
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2373\">Belagerung von Ofen</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2373\">Belagerung von Ofen</a>",
         "text": "Ofen (Heute Buda in Budapest)<br>\nGroßer Türkenkrieg"
       }
     },
@@ -1233,7 +1233,7 @@
         "display_date": "\n21.07.1774 "
       },
       "text": {
-        "headline": "<a class=\"timeline-title\" href=\"/object#?id=2377\">Frieden von Küçük Kaynarca</a>",
+        "headline": "<a class=\"timeline-title\" href=\"/event?id=2377\">Frieden von Küçük Kaynarca</a>",
         "text": "Küçük Kaynarca<br>\nFünfter Russischer Türkenkrieg"
       }
     }

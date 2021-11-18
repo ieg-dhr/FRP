@@ -1,0 +1,24 @@
+<spinner class={state.done ? 'done' : 'working'}>
+  <div class="line"></div>
+  <div class="line"></div>
+  <div class="line"></div>
+  <div class="line"></div>
+
+  <script>
+    import Search from '../lib/search'
+
+    export default class {
+      onBeforeMount() {
+        this.state = {done: false}
+
+        this.search = new Search()
+        this.search.xxx = true
+
+        this.search.ready().then(data => {
+          console.log('READY')
+          this.update({done: true})
+        })
+      }
+    }
+  </script>
+</spinner>

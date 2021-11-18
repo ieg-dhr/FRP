@@ -12,7 +12,7 @@
 
       <div class="position-relative">
         <div class="identifier mt-5 mt-md-0">
-          ID {state.item.id()}<br />
+          <span class="text-muted">ID&nbsp;</span>{state.item.id()}<br />
           <a href={state.item.upstreamUrl()} target="_blank" rel="noopener">Wisski-Url</a>
           (<a href={state.item.upstreamEditUrl()} target="_blank" rel="noopener">edit</a>)
         </div>
@@ -56,7 +56,7 @@
       <template if={state.item.verwalterAlt().length}>
         <hr class="my-5" />
 
-        <div class="fw-bold mb-4">Weiteres Exemplar</div>
+        <div class="text-muted fw-bold mb-4">Weiteres Exemplar</div>
 
         <field
           label="Verwalter"
@@ -165,7 +165,7 @@
 
   <script>
     import {Url, util} from '@wendig/lib'
-    import {Search} from '../lib/search'
+    import Search from '../lib/search'
 
     import carousel from './carousel.riot'
     import field from './field.riot'
@@ -178,13 +178,12 @@
       }
 
       onBeforeMount() {
-        this.search = new Search()
-        this.search.addListener((items, total) => {
-          this.update({item: items[0]})
-        })
-
         const u = Url.current()
-        this.search.query({id: u.params().id})
+
+        this.search = new Search()
+        this.search.query({id: u.params().id}).then(data => {
+          this.update({item: data.results[0]})
+        })
       }
     }
   </script>

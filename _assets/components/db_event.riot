@@ -1,0 +1,73 @@
+<db-event>
+  <template if={state.item}>
+    <div class="container">
+      <h3 class="mt-5">{state.item.title()}</h3>
+
+      <field
+        label="Kurztitel"
+        values={state.item.kurztitel()}
+      />
+
+      <field
+        label="Art"
+        value={state.item.d['Art']}
+      />
+
+      <field
+        label="Zeitraum"
+        value={state.item.d['Datum']}
+      />
+
+      <field
+        label="Ort"
+        value={state.item.d['Ort']}
+      />
+
+      <field
+        label="Beteiligte Personen"
+        values={state.item.people()}
+      />
+
+      <field
+        label="Beteiligte Länder"
+        values={state.item.countries()}
+      />
+
+      <field
+        label="Beteiligte Gruppen"
+        values={state.item.groups()}
+      />
+
+      <hr class="my-5" />
+
+      <field
+        label="Bearbeiter"
+        value={state.item.d['Bearbeiter']}
+      />
+    </div>
+  </template>
+
+  <script>
+    import {Url, util} from '@wendig/lib'
+    import Search from '../lib/search'
+
+    import field from './field.riot'
+    import raw from './raw.riot'
+
+    export default class {
+      static components = {
+        field
+      }
+
+      onBeforeMount() {
+        const u = Url.current()
+
+        this.search = new Search()
+        this.search.lookup('ereignis', u.params().id).then(data => {
+          console.log(data)
+          this.update({item: data.result})
+        })
+      }
+    }
+  </script>
+</db-event>

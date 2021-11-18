@@ -1,33 +1,84 @@
 <search-form>
-  <div class="form-floating mb-3">
+  <div class="mb-3">
+    <label for="search-terms">Titel</label>
     <input
+      name="title"
       type="search"
       class="form-control"
       id="search-terms"
-      placeholder="taube"
       oninput={event => onChange(event)}
-      value={state.value}
+      value={state.terms}
     >
-    <label for="floatingInput">Suchbegriff</label>
+  </div>
+
+  <div class="mb-3">
+    <label for="search-terms">Inventarnummer/Signatur</label>
+    <input
+      name="signature"
+      type="search"
+      class="form-control"
+      id="signature"
+      oninput={event => onChange(event)}
+      value={state.signature}
+    >
+  </div>
+
+  <div class="mb-3">
+    <label for="kind">Objektart</label>
+    <select
+      id="kind"
+      name="kind"
+      class="form-control"
+      oninput={event => onChange(event)}
+    >
+      <option value="">alle</option>
+      <option
+        each={kind in state.kinds}
+        selected={state.kind == kind}
+      >{kind}</option>
+    </select>
+  </div>
+
+  <div class="mb-3">
+    <label for="person">Person</label>
+    <select
+      id="person"
+      name="person"
+      class="form-control"
+      oninput={event => onChange(event)}
+    >
+      <option value="">alle</option>
+      <option
+        each={person in state.people}
+        selected={state.person == person}
+      >{person}</option>
+    </select>
   </div>
 
   <script>
     import {Url} from '@wendig/lib'
-    import {delay} from '../lib/utils'
+    import {delay, params} from '../lib/utils'
+    import Search from '../lib/search'
 
     export default class {
       onBeforeMount() {
         this.onHashChange()
 
         window.addEventListener('hashchange', event => this.onHashChange(true))
+
+        this.search = new Search()
+
+        this.search.people().then(data => this.update({people: data.results}))
+        this.search.aggregate('Objektart').then(data => this.update({kinds: data.results}))
       }
 
       onHashChange(doUpdate) {
-        const url = Url.current()
-        this.state.value = decodeURIComponent(url.hashParams()['terms'] || '')
+        const p = params(['title', 'person', 'kind', 'signature'])
 
         if (doUpdate) {
-          this.update()
+          this.update(p)
+        } else {
+          this.state = p
         }
       }
 
@@ -37,7 +88,9 @@
 
       submit(event) {
         const url = Url.current()
-        url.updateHashParams({terms: event.target.value})
+        url.updateHashParams({
+          [event.target.getAttribute('name')]: event.target.value
+        })
         url.apply()
       }
     }
