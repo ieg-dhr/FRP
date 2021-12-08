@@ -13,7 +13,7 @@ Jekyll::Hooks.register :site, :after_init do |site|
     data.each do |record|
 
       record['cropped'].each do |d|
-        file = "#{target}/#{d['hash']}.jpg"
+        file = "#{target}/#{d['hash']}.png"
         unless File.exists?(file)
           original = "_raw_data/images/original/#{d['hash']}.#{d['ext']}[0]"
           system 'magick', 'convert', original, file
@@ -21,7 +21,7 @@ Jekyll::Hooks.register :site, :after_init do |site|
       end
 
       record['images'].each do |d|
-        file = "#{target}/#{d['hash']}.jpg"
+        file = "#{target}/#{d['hash']}.png"
         unless File.exists?(file)
           original = "_raw_data/images/original/#{d['hash']}.#{d['ext']}[0]"
           system 'magick', 'convert', original, '-resize', resize, file

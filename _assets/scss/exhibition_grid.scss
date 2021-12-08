@@ -3,6 +3,10 @@ exhibition-grid {
     .btn:hover {
       color: $orange;
     }
+
+    .btn:active {
+      outline: none;
+    }
   }
 
   .grid {

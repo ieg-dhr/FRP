@@ -14,7 +14,6 @@
         <div class="identifier mt-5 mt-md-0">
           <span class="text-muted">ID&nbsp;</span>{state.item.id()}<br />
           <a href={state.item.upstreamUrl()} target="_blank" rel="noopener">Wisski-Url</a>
-          (<a href={state.item.upstreamEditUrl()} target="_blank" rel="noopener">edit</a>)
         </div>
       </div>
 
@@ -27,6 +26,8 @@
       <field
         html={state.item.d['comment_html']}
       />
+
+      <hr class="my-5" />
 
       <field
         label="Objektart"

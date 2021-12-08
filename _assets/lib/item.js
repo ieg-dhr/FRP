@@ -122,7 +122,7 @@ export default class Item {
   // }
 
   urlForImageData(data, resolution = 'thumbs') {
-    return `/data/images/${resolution}/${data.hash}.jpg`
+    return `/data/images/${resolution}/${data.hash}.png`
   }
 
   exhibitImageUrl(resolution = 'thumbs') {
