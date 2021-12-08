@@ -122,7 +122,8 @@ export default class Item {
   // }
 
   urlForImageData(data, resolution = 'thumbs') {
-    return `/data/images/${resolution}/${data.hash}.png`
+    const ext = (resolution == 'thumbs' ? 'png' : 'jpg')
+    return `/data/images/${resolution}/${data.hash}.${ext}`
   }
 
   exhibitImageUrl(resolution = 'thumbs') {
