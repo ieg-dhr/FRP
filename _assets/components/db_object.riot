@@ -70,13 +70,14 @@
         />
       </template>
 
-      <template if={state.item.herstellung().length}>
+      <template if={Object.entries(state.item.herstellung()).length}>
         <hr class="my-5" />
 
         <field
           each={e in Object.entries(state.item.herstellung())}
           label={e[0]}
           values={e[1]}
+          href-tpl="/database#?person=%value%"
         />
       </template>
 

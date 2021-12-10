@@ -11,11 +11,13 @@
             if={value.id}
             href="/object#?id={value.id}"
           >{value.name}</a>
-          <span
-            if={!value.id}
-          >{value.name}</span>
+          <span if={!value.id}>
+            <a if={props.hrefTpl} href={props.hrefTpl.replace(/\%[a-z_0-9]+\%/, value.name)}>{value.name}</a>
+            <template if={!props.hrefTpl}>{value.name}</template>
+          </span>
         </span>
       </template>
+      </a>
     </div>
   </div>
 
