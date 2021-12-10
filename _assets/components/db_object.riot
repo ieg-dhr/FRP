@@ -70,13 +70,15 @@
         />
       </template>
 
-      <hr class="my-5" />
+      <template if={state.item.herstellung().length}>
+        <hr class="my-5" />
 
-      <field
-        each={e in Object.entries(state.item.herstellung())}
-        label={e[0]}
-        values={e[1]}
-      />
+        <field
+          each={e in Object.entries(state.item.herstellung())}
+          label={e[0]}
+          values={e[1]}
+        />
+      </template>
 
       <field
         label="Herstellungsort"
