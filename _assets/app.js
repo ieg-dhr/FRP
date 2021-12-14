@@ -14,11 +14,10 @@ import SearchResults from './components/search_results.riot'
 import Spinner from './components/spinner.riot'
 import ToTop from './components/to_top.riot'
 
-import {setup as scrollSpySetup} from './lib/scroll_spy'
 import {VwUnit} from '@wendig/lib'
+import {setup as scrollSpySetup} from './lib/scroll_spy'
 
 scrollSpySetup()
-(new VwUnit()).setup()
 
 riot.register('app', App)
 riot.register('bibliography', Bibliography)
@@ -36,5 +35,6 @@ riot.mount('app, bibliography, db-event, db-object, exhibit, exhibition-grid, se
 document.addEventListener('readystatechange', event => {
   if (document.readyState == 'complete') {
     document.body.removeAttribute('style')
+    (new VwUnit()).setup()
   }
 })
