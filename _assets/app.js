@@ -15,10 +15,10 @@ import Spinner from './components/spinner.riot'
 import ToTop from './components/to_top.riot'
 
 import {setup as scrollSpySetup} from './lib/scroll_spy'
-import {setup as vwSetup} from './lib/vw'
+import {VwUnit} from '@wendig/lib'
 
 scrollSpySetup()
-vwSetup()
+(new VwUnit()).setup()
 
 riot.register('app', App)
 riot.register('bibliography', Bibliography)

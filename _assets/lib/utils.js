@@ -40,18 +40,6 @@ const params = (keys) => {
   return result
 }
 
-const fold = (str) => {
-  return str.toString().
-    replaceAll(/[äáàâå]/g, 'a').
-    replaceAll(/[öóòôðø]/g, 'o').
-    replaceAll(/[iíìî]/g, 'i').
-    replaceAll(/[ëéèê]/g, 'e').
-    replaceAll(/[üúùû]/g, 'u').
-    replaceAll(/[ÿ]/g, 'y').
-    replaceAll(/æ/g, 'ae').
-    replaceAll(/ß/g, 'ss')
-}
-
 const regEscape = (str) => {
   return str.toString().
     replaceAll(/\./g, "\\.").
@@ -63,7 +51,6 @@ const regEscape = (str) => {
 
 export {
   delay,
-  fold,
   params,
   regEscape,
   togglingCollapses

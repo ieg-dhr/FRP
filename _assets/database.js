@@ -1,4 +1,5 @@
-import {fold, regEscape} from './lib/utils'
+import {regEscape} from './lib/utils'
+import {utils} from '@wendig/lib'
 
 let queue = []
 let storage = {}
@@ -83,16 +84,16 @@ const handler = event => {
       if (criteria.signature) {
         const term = criteria.signature
         const value = r['Inventarnummer/Signatur'] || ''
-        const regex = new RegExp(regEscape(`${fold(term)}`), 'i')
-        const m = fold(value).match(regex)
+        const regex = new RegExp(regEscape(`${utils.fold(term)}`), 'i')
+        const m = utils.fold(value).match(regex)
         if (!m) {return false}
       }
 
       if (criteria.title) {
-        const value = fold(r['Titel/Incipit'])
+        const value = utils.fold(r['Titel/Incipit'])
         const terms = criteria.title.split(/\s/)
         const m = terms.every(t => {
-          const regex = new RegExp(regEscape(`${fold(t)}`), 'i')
+          const regex = new RegExp(regEscape(`${utils.fold(t)}`), 'i')
           return value.match(regex)
         })
         if (!m) {return false}
