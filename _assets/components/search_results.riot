@@ -1,52 +1,54 @@
 <search-results>
-  <div
-    if={state.items && state.items.length}
-    class="text-center my-4 my-lg-5"
-  >{state.items.length} / {state.total}</div>
+  <template if={state.items && state.items.length}>
+    <div
+      if={state.items && state.items.length}
+      class="text-center my-4 my-lg-5"
+    >{state.items.length} / {state.total}</div>
 
-  <div style="margin-left: -100px; margin-right: -100px;">
-    <table class="table">
-      <tbody>
-        <tr each={item in state.items}>
-          <td>
-            <img
-              if={item.hasImage()}
-              src={item.imageUrls('thumbs')[0]}
-              class="me-5"
-              style="max-width: 80px"
-            />
-          </td>
-          <td>
-            <div class="float-end text-end ms-4 mb-2">
-              <div if={item.d['Objektart']}>
-                {item.d['Objektart']}
+    <div style="margin-left: -100px; margin-right: -100px;">
+      <table class="table">
+        <tbody>
+          <tr each={item in state.items}>
+            <td>
+              <img
+                if={item.hasImage()}
+                src={item.imageUrls('thumbs')[0]}
+                class="me-5"
+                style="max-width: 80px"
+              />
+            </td>
+            <td>
+              <div class="float-end text-end ms-4 mb-2">
+                <div if={item.d['Objektart']}>
+                  {item.d['Objektart']}
+                </div>
+
+                <div class="text-muted" if={item.d['Datum']}>
+                  {item.d['Inventarnummer/Signatur']}
+                </div>
+              </div>
+              <a href={item.objectUrl()} target="_blank" class="text-decoration-none">
+                {item.title()}
+              </a>
+
+              <!-- &nbsp;
+              <a href={item.upstreamEditUrl()}>
+                <svg class="feather"><use href="/assets/feather.svg#edit" /></svg>
+              </a> -->
+
+              <div class="text-muted mb-3" if={item.d['Datum']}>
+                {item.d['Datum']}
               </div>
 
-              <div class="text-muted" if={item.d['Datum']}>
-                {item.d['Inventarnummer/Signatur']}
+              <div each={e in Object.entries(item.herstellung())}>
+                {e[0]}: {e[1].map(i => i.name).join(', ')}
               </div>
-            </div>
-            <a href={item.objectUrl()} target="_blank" class="text-decoration-none">
-              {item.title()}
-            </a>
-
-            <!-- &nbsp;
-            <a href={item.upstreamEditUrl()}>
-              <svg class="feather"><use href="/assets/feather.svg#edit" /></svg>
-            </a> -->
-
-            <div class="text-muted mb-3" if={item.d['Datum']}>
-              {item.d['Datum']}
-            </div>
-
-            <div each={e in Object.entries(item.herstellung())}>
-              {e[0]}: {e[1].map(i => i.name).join(', ')}
-            </div>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </template>
 
   <script>
     import {Url} from '@wendig/lib'
@@ -58,15 +60,21 @@
         this.search = new Search()
 
         window.addEventListener('hashchange', event => this.onHashChange())
-        this.onHashChange()
+        this.onHashChange(false)
       }
 
-      onHashChange() {
-        const promise = this.search.query(params(
-          ['title', 'person', 'kind', 'signature']
-        ))
+      onHashChange(upd = true) {
+        const p = params(['title', 'person', 'kind', 'signature'])
 
-        promise.then(data => {
+        if (Object.getOwnPropertyNames(p).length == 0) {
+          this.state.items = undefined
+          if (upd) {
+            this.update()
+          }
+          return
+        }
+
+        this.search.query(p).then(data => {
           this.update({
             items: data.results,
             total: data.total

@@ -40,18 +40,17 @@ const params = (keys) => {
   return result
 }
 
-const regEscape = (str) => {
-  return str.toString().
-    replaceAll(/\./g, "\\.").
-    replaceAll(/\$/g, "\\$").
-    replaceAll(/\^/g, "\\^").
-    replaceAll(/\(/g, "\\(").
-    replaceAll(/\)/g, "\\)")
+const setPageTitle = (title) => {
+  const e = document.querySelector(':scope > head > title')
+  console.log(e, e.textContent)
+  if (e.textContent == '') {
+    e.textContent = title
+  }
 }
 
 export {
   delay,
   params,
-  regEscape,
+  setPageTitle,
   togglingCollapses
 }

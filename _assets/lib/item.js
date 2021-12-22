@@ -65,7 +65,7 @@ export default class Item {
       }
     }
 
-    console.log(results)
+    // console.log(results)
 
     return results
   }

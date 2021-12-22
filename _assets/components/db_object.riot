@@ -170,6 +170,7 @@
   <script>
     import {Url, util} from '@wendig/lib'
     import Search from '../lib/search'
+    import {setPageTitle} from '../lib/utils'
 
     import carousel from './carousel.riot'
     import field from './field.riot'
@@ -186,7 +187,9 @@
 
         this.search = new Search()
         this.search.query({id: u.params().id}).then(data => {
-          this.update({item: data.results[0]})
+          const item = data.results[0]
+          this.update({item: item})
+          setPageTitle(item.title())
         })
       }
     }

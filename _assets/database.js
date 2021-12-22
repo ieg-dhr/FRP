@@ -1,5 +1,4 @@
-import {regEscape} from './lib/utils'
-import {utils} from '@wendig/lib'
+import {util} from '@wendig/lib'
 
 let queue = []
 let storage = {}
@@ -49,7 +48,7 @@ const handler = event => {
 
   const messageId = event.data.messageId
   const now = new Date()
-  console.log(event.data)
+  // console.log(event.data)
 
   if (event.data.action == 'search') {
     let results = storage.objekt
@@ -84,16 +83,16 @@ const handler = event => {
       if (criteria.signature) {
         const term = criteria.signature
         const value = r['Inventarnummer/Signatur'] || ''
-        const regex = new RegExp(regEscape(`${utils.fold(term)}`), 'i')
-        const m = utils.fold(value).match(regex)
+        const regex = new RegExp(util.regEscape(`${util.fold(term)}`), 'i')
+        const m = util.fold(value).match(regex)
         if (!m) {return false}
       }
 
       if (criteria.title) {
-        const value = utils.fold(r['Titel/Incipit'])
+        const value = util.fold(r['Titel/Incipit'])
         const terms = criteria.title.split(/\s/)
         const m = terms.every(t => {
-          const regex = new RegExp(regEscape(`${utils.fold(t)}`), 'i')
+          const regex = new RegExp(util.regEscape(`${util.fold(t)}`), 'i')
           return value.match(regex)
         })
         if (!m) {return false}

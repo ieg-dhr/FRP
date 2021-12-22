@@ -34,7 +34,7 @@ riot.mount('app, bibliography, db-event, db-object, exhibit, exhibition-grid, se
 
 document.addEventListener('readystatechange', event => {
   if (document.readyState == 'complete') {
-    document.body.removeAttribute('style')
     (new VwUnit()).setup()
+    document.body.removeAttribute('style')
   }
 })

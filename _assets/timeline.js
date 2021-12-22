@@ -9,6 +9,16 @@ fetch('/data/timeline.data.json').then(response => response.json()).then(data =>
     default_bg_color: '#efefef',
     hash_bookmark: true
   })
-  instance.zoomIn()
-  instance.zoomOut()
+
+  const to = window.setTimeout(() => {
+    if (instance.ready) {
+      window.clearTimeout(to)
+      // instance.zoomIn()
+      // instance.zoomOut()
+
+      console.log()
+
+      // document.querySelector('.tf-storyslider').setAttribute('style', 'min-height: 370px')
+    }
+  }, 200)
 })
