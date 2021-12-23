@@ -21,7 +21,7 @@
 @include media-breakpoint-up('sm') {
   $mw: calc((actual-vw(100) - 400px) / -2 - $container-padding-x);
 
-  .breakout {
+  .breakout, .breakout-sm {
     margin: 0 $mw;
   }
 }
@@ -29,7 +29,7 @@
 @include media-breakpoint-up('md') {
   $mw: calc((actual-vw(100) - 500px) / -2 - $container-padding-x);
 
-  .breakout {
+  .breakout, .breakout-sm, .breakout-md {
     margin: 0 $mw;
   }
 }
@@ -37,7 +37,7 @@
 @include media-breakpoint-up('lg') {
   $mw: calc((actual-vw(100) - 614px) / -2 - $container-padding-x);
 
-  .breakout {
+  .breakout, .breakout-sm, .breakout-md, .breakout-lg {
     margin: 0 $mw;
   }
 }
@@ -45,27 +45,8 @@
 @include media-breakpoint-up('xxl') {
   $mw: calc((1920px - 614px) / -2 - $container-padding-x);
 
-  .breakout {
+  .breakout, .breakout-sm, .breakout-md, .breakout-lg {
     width: 1920px;
-    margin: 0 $mw;
-  }
-}
-
-
-// lg-up
-
-@include media-breakpoint-up('lg') {
-  $mw: calc((actual-vw(100) - 614px) / -2 - $container-padding-x);
-
-  .breakout-lg {
-    margin: 0 $mw;
-  }
-}
-
-@include media-breakpoint-up('xxl') {
-  $mw: calc((1920px - 614px) / -2 - $container-padding-x);
-
-  .breakout-lg {
     margin: 0 $mw;
   }
 }

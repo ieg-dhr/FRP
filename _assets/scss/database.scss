@@ -1,6 +1,34 @@
 search-results {
+  display: block;
+
   li {
     background-color: $gray;
     padding: map-get($spacers, 3);
+  }
+}
+
+@include media-breakpoint-up('sm') {
+  search-results {
+    .table {
+      width: auto;
+      max-width: calc(100% - $spacer * 3 * 2);
+      margin: 0 auto;
+    }
+  }
+}
+
+@include media-breakpoint-up('md') {
+  search-results {
+    .table {
+      max-width: 700px;
+    }
+  }
+}
+
+@include media-breakpoint-up('lg') {
+  search-results {
+    .table {
+      max-width: 860px;
+    }
   }
 }

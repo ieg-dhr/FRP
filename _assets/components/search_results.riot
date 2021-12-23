@@ -5,11 +5,11 @@
       class="text-center my-4 my-lg-5"
     >{state.items.length} / {state.total}</div>
 
-    <div style="margin-left: -100px; margin-right: -100px;">
+    <div class="breakout-sm">
       <table class="table">
         <tbody>
           <tr each={item in state.items}>
-            <td>
+            <td class="d-none d-sm-table-cell">
               <img
                 if={item.hasImage()}
                 src={item.imageUrls('thumbs')[0]}
