@@ -10,7 +10,7 @@
 
 <div class="breakout-lg">
   <div class="row mx-lg-1 my-lg-5">
-    <div class="col-12 col-lg-6 px-lg-5 px-xl-7">
+    <div class="col-12 col-lg-6 ps-lg-5 pe-lg-3 px-xl-7">
       <p>
       Die Herzog August Bibliothek Wolfenbüttel bearbeitete poetische Texte (Gedichte, Reden, Schauspiele) in deutscher Sprache, die im Heiligen Römischen Reich vom Westfälischen Frieden bis zum Frieden von Hubertusburg erschienen sind.
       </p>
@@ -28,7 +28,7 @@
       </p>
     </div>
 
-    <div class="col-12 col-lg-6 px-lg-5 px-xl-7">
+    <div class="col-12 col-lg-6 ps-lg-5 ps-lg-3 px-xl-7">
       <p>
       Die Quellen wurden in einer gemeinsamen virtuellen Datenbank auf Basis von WissKI (Wissenschaftliche Kommunikationsinfrastruktur) erschlossen, die als semantisches Backend CIDOC CRM verwendet. Da es sich vorwiegend um Reproduktionsmedien handelt, wurden die Informationen zum jeweils verwendeten physischen Exemplar und zu seinen Inhalten in zwei getrennten Formularen erfasst (Objekt und Inhalt). Diese sind über die jeweilige Inventarnummer bzw. Signatur verknüpft. Im Formular „Inhalt“ wurden die verwendeten Motive, das Ereignis sowie der Friedensschluss, auf den das Objekt Bezug nimmt, verzeichnet, darüber hinaus auch Angaben zu Instrumentierung, Aufführungsort, dargestellten Personen etc. Im Formular „Ereignis“ werden alle mit dem jeweiligen Friedensschluss verknüpften Ereignisse und Objekte angezeigt. Analog dazu ist das Formular „Motiv“ aufgebaut, in dem Verknüpfungen zu untergeordneten Motiven und Objekten angezeigt werden. Die mehr als 1000 aufgenommenen Motive wurden in 25 Motivkategorien zusammengefasst.
       </p>
