@@ -5,12 +5,18 @@
     class="bg-yellow p-2 text-decoration-none"
   >
     <svg class="feather">
-      <use href="/assets/feather.svg#chevrons-up" />
+      <use href="{rootPath()}/assets/feather.svg#chevrons-up" />
     </svg>
   </a>
 
   <script>
+    import {rootPath} from '../lib/utils'
+
     export default class {
+      constructor() {
+        this.rootPath = rootPath
+      }
+      
       onClick(event) {
         event.preventDefault()
 

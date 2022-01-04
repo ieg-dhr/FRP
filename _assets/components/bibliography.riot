@@ -20,6 +20,8 @@
   </ul>
 
   <script>
+    import {rootPath} from '../lib/utils'
+
     export default class {
       onBeforeMount() {
         this.alphabet = [
@@ -28,7 +30,7 @@
           'Y', 'Z'
         ]
 
-        fetch('/data/bibliography.json').
+        fetch(rootPath() + '/data/bibliography.json').
           then(response => response.json()).
           then(data => this.index(data))
       }

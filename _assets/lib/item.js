@@ -1,3 +1,5 @@
+import {rootPath} from '../lib/utils'
+
 export default class Item {
   constructor(record) {
     this.d = record
@@ -125,7 +127,7 @@ export default class Item {
 
   urlForImageData(data, resolution = 'thumbs') {
     const ext = (resolution == 'thumbs' ? 'png' : 'jpg')
-    return `/data/images/${resolution}/${data.hash}.${ext}`
+    return `${rootPath()}/data/images/${resolution}/${data.hash}.${ext}`
   }
 
   exhibitImageUrl(resolution = 'thumbs') {
@@ -156,10 +158,10 @@ export default class Item {
   }
 
   exhibitUrl() {
-    return `/exhibit?id=${this.id()}`
+    return `${rootPath()}/exhibit?id=${this.id()}`
   }
 
   objectUrl() {
-    return `/object?id=${this.id()}`
+    return `${rootPath()}/object?id=${this.id()}`
   }
 }

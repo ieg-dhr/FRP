@@ -1,5 +1,12 @@
 import {util} from '@wendig/lib'
 
+const rootUrl = () => {
+  const u = `${location.href}`
+  return u.replace(/\/assets\/database\.js/, '')
+}
+
+console.log(location.href)
+
 let queue = []
 let storage = {}
 let ready = false
@@ -7,7 +14,7 @@ let people = []
 
 const types = ['objekt', 'ereignis']
 const promises = types.map(type => {
-  return fetch(`/data/${type}.json`).
+  return fetch(`${rootUrl()}/data/${type}.json`).
     then(response => response.json()).
     then(data => {
       storage[type] = data

@@ -77,7 +77,7 @@
           each={e in Object.entries(state.item.herstellung())}
           label={e[0]}
           values={e[1]}
-          href-tpl="/database#?person=%value%"
+          href-tpl="{rootPath()}/database#?person=%value%"
         />
       </template>
 
@@ -170,7 +170,7 @@
   <script>
     import {Url, util} from '@wendig/lib'
     import Search from '../lib/search'
-    import {setPageTitle} from '../lib/utils'
+    import {setPageTitle, rootPath} from '../lib/utils'
 
     import carousel from './carousel.riot'
     import field from './field.riot'
@@ -180,6 +180,10 @@
       static components = {
         carousel,
         field
+      }
+
+      constructor() {
+        this.rootPath = rootPath
       }
 
       onBeforeMount() {

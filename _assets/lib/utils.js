@@ -48,9 +48,15 @@ const setPageTitle = (title) => {
   }
 }
 
+const rootPath = () => {
+  const e = document.querySelector("meta[name='root-path']")
+  return e.getAttribute('content')
+}
+
 export {
   delay,
   params,
   setPageTitle,
+  rootPath,
   togglingCollapses
 }

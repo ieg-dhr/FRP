@@ -8,23 +8,26 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="{{site.description}}" />
-    <meta name="wisski-url" content="{{site.wisski_url}}" />
+    <meta name="root-path" content="{{ site.baseurl }}" />
+    <meta name="description" content="{{ site.description }}" />
+    <meta name="wisski-url" content="{{ site.wisski_url }}" />
 
     <!-- <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" /> -->
 
+    {% capture cb %}{% cache_buster %}{% endcapture %}
+
     <link
       rel="shortcut icon"
-      href="/assets/images/favicon.png"
+      href="{{ '/assets/images/favicon.png' | relative_url }}"
       type="image/png"
     />
 
     <link
       rel="stylesheet"
       type="text/css"
-      href="/assets/app.css{% cache_buster %}"
+      href="{{ '/assets/app.css' | append: cb | relative_url }}"
       crossorigin="use-credentials"
     />
 
@@ -38,7 +41,7 @@
     {% include footer.html %}
 
     <script
-      src="/assets/app.js{% cache_buster %}"
+      src="{{ '/assets/app.js' | append: cb | relative_url }}"
       crossorigin="use-credentials"
     ></script>
   </body>

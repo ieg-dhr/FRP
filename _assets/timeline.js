@@ -1,8 +1,15 @@
 import { Timeline } from '@knight-lab/timelinejs'
+import {rootPath} from './lib/utils'
 
 let instance = null
 
-fetch('/data/timeline.data.json').then(response => response.json()).then(data => {
+fetch(`${rootPath()}/data/timeline.data.json`).then(response => response.json()).then(data => {
+  // prepend root path
+  for (const e of data.events) {
+    e.text.headline = e.text.headline.replace(/"\/event\?/, `"${rootPath()}/event?`)
+  }
+  console.log(data)
+
   const element = document.querySelector('#timeline')
   instance = new Timeline('timeline', data, {
     default_bg_color: '#efefef',
@@ -27,7 +34,6 @@ fetch('/data/timeline.data.json').then(response => response.json()).then(data =>
     e.style.left = '50px'
   }
   let to = window.setTimeout(check, 500)
-
 
   window.timeline = instance
 })

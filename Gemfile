@@ -34,3 +34,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem 'pry'
 gem 'roo', '2.7.1'
 gem 'selenium-webdriver'
+gem 'webrick'

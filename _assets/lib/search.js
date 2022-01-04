@@ -1,10 +1,11 @@
 import Item from './item'
 import EventItem from './event_item'
+import {rootPath} from '../lib/utils'
 
 let messageId = 10000
 let instanceRegistry = []
 
-const worker = new Worker('/assets/database.js', {credentials: 'same-origin'})
+const worker = new Worker(rootPath() + '/assets/database.js', {credentials: 'same-origin'})
 worker.onmessage = event => {
   const data = event.data
   const action = data.action

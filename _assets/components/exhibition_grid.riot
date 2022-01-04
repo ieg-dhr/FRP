@@ -2,7 +2,7 @@
   <h1 class="mt-7 mb-5">{this.state.category}</h1>
 
   <div class="d-flex flex-column align-items-center mb-6">
-    <img src="/assets/images/categories/{coverImage()}.jpg" class="mw-100" />
+    <img src="{rootPath()}/assets/images/categories/{coverImage()}.jpg" class="mw-100" />
   </div>
 
   <hr class="d-none d-lg-block mt-5 mb-5"/>
@@ -15,7 +15,7 @@
     >
       zu den anderen Galerien&nbsp;
       <svg class="feather">
-        <use href="/assets/feather.svg#compass" />
+        <use href="{rootPath()}/assets/feather.svg#compass" />
       </svg>
     </a>
   
@@ -24,7 +24,7 @@
         <a
           each={c in this.categories()}
           class="fs-4 fs-md-3 fs-lg-2 btn mb-2 mb-md-3 me-2 {active(c)}"
-          href="/exhibition?category={c}"
+          href="{rootPath()}/exhibition?category={c}"
         >{c}</a>
       </div>
     </div>
@@ -71,7 +71,7 @@
     >
       zu den anderen Galerien&nbsp;
       <svg class="feather">
-        <use href="/assets/feather.svg#compass" />
+        <use href="{rootPath()}/assets/feather.svg#compass" />
       </svg>
     </a>
   
@@ -80,7 +80,7 @@
         <a
           each={c in this.categories()}
           class="fs-4 fs-md-3 fs-lg-2 btn mb-2 mb-md-3 me-2 {active(c)}"
-          href="/exhibition?category={c}"
+          href="{rootPath()}/exhibition?category={c}"
         >{c}</a>
       </div>
     </div>
@@ -92,6 +92,7 @@
     import {Url, util} from '@wendig/lib'
     import Search from '../lib/search'
     import ExhibitionDescription from './exhibition_description.riot'
+    import {rootPath} from '../lib/utils'
 
     export default class {
       static components = {
@@ -100,6 +101,7 @@
 
       constructor() {
         this.shorten = util.shorten.bind(this)
+        this.rootPath = rootPath
       }
 
       onBeforeMount() {

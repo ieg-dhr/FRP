@@ -59,7 +59,7 @@
           href="#read-more-01"
         >
           <svg class="feather">
-            <use href="/assets/feather.svg#corner-left-up" />
+            <use href="{rootPath()}/assets/feather.svg#corner-left-up" />
           </svg>
         </a>
       </div>
@@ -111,7 +111,7 @@
           href="#read-more-01"
         >
           <svg class="feather">
-            <use href="/assets/feather.svg#corner-left-up" />
+            <use href="{rootPath()}/assets/feather.svg#corner-left-up" />
           </svg>
         </a>
       </div>
@@ -167,7 +167,7 @@
           href="#read-more-01"
         >
           <svg class="feather">
-            <use href="/assets/feather.svg#corner-left-up" />
+            <use href="{rootPath()}/assets/feather.svg#corner-left-up" />
           </svg>
         </a>
       </div>
@@ -231,7 +231,7 @@
           href="#read-more-01"
         >
           <svg class="feather">
-            <use href="/assets/feather.svg#corner-left-up" />
+            <use href="{rootPath()}/assets/feather.svg#corner-left-up" />
           </svg>
         </a>
       </div>
@@ -274,7 +274,7 @@
           href="#read-more-01"
         >
           <svg class="feather">
-            <use href="/assets/feather.svg#corner-left-up" />
+            <use href="{rootPath()}/assets/feather.svg#corner-left-up" />
           </svg>
         </a>
       </div>
@@ -309,7 +309,7 @@
           href="#read-more-01"
         >
           <svg class="feather">
-            <use href="/assets/feather.svg#corner-left-up" />
+            <use href="{rootPath()}/assets/feather.svg#corner-left-up" />
           </svg>
         </a>
       </div>
@@ -348,7 +348,7 @@
           href="#read-more-01"
         >
           <svg class="feather">
-            <use href="/assets/feather.svg#corner-left-up" />
+            <use href="{rootPath()}/assets/feather.svg#corner-left-up" />
           </svg>
         </a>
       </div>
@@ -387,7 +387,7 @@
           href="#read-more-01"
         >
           <svg class="feather">
-            <use href="/assets/feather.svg#corner-left-up" />
+            <use href="{rootPath()}/assets/feather.svg#corner-left-up" />
           </svg>
         </a>
       </div>
@@ -395,9 +395,13 @@
   </virtual>
 
   <script>
-    import {togglingCollapses} from '../lib/utils'
+    import {togglingCollapses, rootPath} from '../lib/utils'
 
     export default class {
+      constructor() {
+        this.rootPath = rootPath
+      }
+
       onUpdated() {
         togglingCollapses(this.root)
       }

@@ -1,16 +1,16 @@
 @font-face {
   font-family: 'corporates';
-  src: url('/assets/fonts/corporates-regular.eot') format('eot'),
-       url('/assets/fonts/corporates-regular.woff') format('woff');
+  src: url($baseurl + '/assets/fonts/corporates-regular.eot') format('eot'),
+       url($baseurl + '/assets/fonts/corporates-regular.woff') format('woff');
 }
 
 @font-face {
   font-family: 'corporates-bold';
-  src: url('/assets/fonts/corporates-bold.eot') format('eot'),
-       url('/assets/fonts/corporates-bold.woff') format('woff');
+  src: url($baseurl + '/assets/fonts/corporates-bold.eot') format('eot'),
+       url($baseurl + '/assets/fonts/corporates-bold.woff') format('woff');
 }
 
 @font-face {
   font-family: 'open-sans';
-  src: url('/assets/fonts/OpenSans-Regular.woff') format('woff');
+  src: url($baseurl + '/assets/fonts/OpenSans-Regular.woff') format('woff');
 }

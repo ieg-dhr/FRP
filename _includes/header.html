@@ -3,7 +3,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-blue text-uppercase fw-bold p-3">
       <div class="container-fluid">
         <a class="navbar-brand w-auto me-0" href="/">
-          <img class="img-fluid" src="/assets/images/logos/themenportal.png">
+          <img class="img-fluid" src="{{ '/assets/images/logos/themenportal.png' | relative_url }}">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -14,19 +14,19 @@
               <spinner></spinner>            
             </li>
             <li class="nav-item ms-lg-4 {% if page.page_id == "start" %}active{% endif %}">
-              <a class="nav-link" aria-current="page" href="/">Start</a>
+              <a class="nav-link" aria-current="page" href="{{ '/' | relative_url }}">Start</a>
               <div class="active-block"></div>
             </li>
             <li class="nav-item ms-lg-4 {% if page.page_id == "exhibition" %}active{% endif %}">
-              <a class="nav-link" aria-current="page" href="/exhibition-overview">Ausstellung</a>
+              <a class="nav-link" aria-current="page" href="{{ '/exhibition-overview' | relative_url }}">Ausstellung</a>
               <div class="active-block"></div>
             </li>
             <li class="nav-item ms-lg-4 {% if page.page_id == "database" %}active{% endif %}">
-              <a class="nav-link" aria-current="page" href="/database">Datenbank</a>
+              <a class="nav-link" aria-current="page" href="{{ '/database' | relative_url }}">Datenbank</a>
               <div class="active-block"></div>
             </li>
             <li class="nav-item ms-lg-4 {% if page.page_id == "timeline" %}active{% endif %}">
-              <a class="nav-link" aria-current="page" href="/timeline">Zeitstrahl</a>
+              <a class="nav-link" aria-current="page" href="{{ '/timeline' | relative_url }}">Zeitstrahl</a>
               <div class="active-block"></div>
             </li>
             <li class="nav-item dropdown ms-lg-4 {% if page.page_id == "publications" %}active{% endif %}">
@@ -34,9 +34,9 @@
                 Publikationen
               </a>
               <ul class="dropdown-menu dropdown-menu-dark bg-blue" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item py-3 fw-bold" href="/publications">Publikationen</a></li>
-                <li><a class="dropdown-item py-3 fw-bold" href="/conference">Beiträge der <br />Abschlusstagung</a></li>
-                <li><a class="dropdown-item py-3 fw-bold" href="/bibliography">Literaturverzeichnis</a></li>
+                <li><a class="dropdown-item py-3 fw-bold" href="{{ '/publications' | relative_url }}">Publikationen</a></li>
+                <li><a class="dropdown-item py-3 fw-bold" href="{{ '/conference' | relative_url }}">Beiträge der <br />Abschlusstagung</a></li>
+                <li><a class="dropdown-item py-3 fw-bold" href="{{ '/bibliography' | relative_url }}">Literaturverzeichnis</a></li>
               </ul>
               <div class="active-block"></div>
             </li>
@@ -44,7 +44,7 @@
               <a href="/database" class="nav-link">
                 <span class="d-lg-none">Suche</span>
                 <svg class="d-none d-lg-inline feather feather-lg">
-                  <use href="/assets/feather.svg#search" />
+                  <use href="{{ '/assets/feather.svg#search' | relative_url }}" />
                 </svg>
               </a>
             </li>

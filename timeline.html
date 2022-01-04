@@ -4,17 +4,17 @@ page_id: timeline
 title: Zeitstrahl
 ---
 
-<link rel="stylesheet" type="text/css" href="/assets/timeline.css">
+<link rel="stylesheet" type="text/css" href="{{ '/assets/timeline.css' | relative_url }}">
 <style type="text/css">
   @font-face {
     font-family: 'tl-icons';
-    src: url(/assets/timelinejs/css/icons/tl-icons.eot);
+    src: url({{ '/assets/timelinejs/css/icons/tl-icons.eot ' | relative_url }});
     src:
-      url(/assets/timeline/css/icons/tl-icons.eot?#iefix) format('embedded-opentype'),
-      url(/assets/timeline/css/icons/tl-icons.ttf) format('truetype'),
-      url(/assets/timeline/css/icons/tl-icons.woff2) format('woff2'),
-      url(/assets/timeline/css/icons/tl-icons.woff) format('woff'),
-      url(/assets/timeline/css/icons/tl-icons.svg#tl-icons) format('svg');
+      url({{ '/assets/timeline/css/icons/tl-icons.eot?#iefix' | relative_url }}) format('embedded-opentype'),
+      url({{ '/assets/timeline/css/icons/tl-icons.ttf' | relative_url }}) format('truetype'),
+      url({{ '/assets/timeline/css/icons/tl-icons.woff2' | relative_url }}) format('woff2'),
+      url({{ '/assets/timeline/css/icons/tl-icons.woff' | relative_url }}) format('woff'),
+      url({{ '/assets/timeline/css/icons/tl-icons.svg#tl-icons' | relative_url }}) format('svg');
   }
 
   .tl-timeline a {
@@ -35,7 +35,7 @@ title: Zeitstrahl
 
 <div class="container">
   <div class="breakout">
-    <img src="/assets/images/publications_cover.jpg" class="img-fluid w-100" />
+    <img src="{{ '/assets/images/publications_cover.jpg' | relative_url }}" class="img-fluid w-100" />
   </div>
 
   <h1 class="mt-7 mb-5">Zeitstrahl</h1>
@@ -47,4 +47,4 @@ title: Zeitstrahl
   </div>
 </div>
 
-<script type="module" src="/assets/timeline.js" defer></script>
+<script type="module" src="{{ '/assets/timeline.js' | relative_url }}" defer></script>
