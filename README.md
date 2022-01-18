@@ -15,7 +15,7 @@ scraped data (see `_raw_data/upstream_ids`) and the final state (see
 `data/*.json`) have been preserved. Should you be interested in the process,
 you may inspect the code in the `_plugins` and `_plugins.archive` directories.
 
-The images were downloaded from WissKI as well: They consist of roughly 1200
+The images were downloaded from WissKI as well: They consist of roughly 1,200
 files (jpg, png, tif and pdf). They are not included here on github because they
 require more than 20G of disk size. If you are interested in obtaining them,
 please contact Henning Jürgens at the
