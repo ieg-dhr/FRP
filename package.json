@@ -25,6 +25,6 @@
   "scripts": {
     "dev": "webpack-cli -w",
     "profile": "webpack-cli -w --profile",
-    "build": "webpack-cli --mode=production"
+    "build": "webpack-cli --mode=production --profile"
   }
 }
